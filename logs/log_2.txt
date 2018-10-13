@@ -1,0 +1,21 @@
+2018-07-22 10:06:06,061 - spider.driver.base.logger - INFO - Start print log
+2018-07-22 10:06:06,062 - spider.driver.base.logger - DEBUG - load images is false
+2018-07-22 10:06:07,688 - spider.driver.base.logger - DEBUG - 去哪儿-千岛湖-景点
+2018-07-22 10:06:23,663 - spider.driver.base.logger - DEBUG - qunarspotspider.get_shop_info_list.[198] - driver.fast_new_page.[2312] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-07-22 10:06:36,325 - spider.driver.base.logger - INFO - qunarspotspider.get_shop_info_list.[203] - driver.until_click_no_next_page_by_css_selector.[1495] : 当前翻到第1页...
+2018-07-22 10:06:36,345 - spider.driver.base.logger - INFO - qunarspotspider.get_shop_info_list.[203] - driver.until_click_no_next_page_by_css_selector.[1498] : 去哪儿景点店铺列表页面
+2018-07-22 10:06:46,698 - spider.driver.base.logger - ERROR - qunarspotspider.get_shop_info_list.[203] - driver.until_click_no_next_page_by_css_selector.[1498] : Traceback (most recent call last):
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 2086, in from_page_get_data_list
+    elements_list = self.until_presence_of_all_elements_located_by_css_selector(css_selector=page.listcssselector.list_css_selector)
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 828, in until_presence_of_all_elements_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/ckq/anaconda3/envs/en1/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+列表页面找不到需要抓取的元素!!!
+2018-07-22 10:06:49,835 - spider.driver.base.logger - ERROR - qunarspotspider.get_shop_info_list.[203] - driver.until_click_no_next_page_by_css_selector.[1527] : 
+Message: 
+
+没有下一页了!!!

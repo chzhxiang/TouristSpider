@@ -1,0 +1,39 @@
+2018-07-21 19:24:24,352 - spider.driver.base.logger - INFO - Start print log
+2018-07-21 19:24:24,352 - spider.driver.base.logger - DEBUG - load images is false
+2018-07-21 19:24:26,056 - spider.driver.base.logger - DEBUG - 携程-千岛湖-景点
+2018-07-21 19:24:30,057 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[187] - driver.fast_new_page.[2312] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-07-21 19:24:36,273 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1495] : 当前翻到第1页...
+2018-07-21 19:24:36,335 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 携程景点店铺列表页面
+2018-07-21 19:24:36,530 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖洲际度假酒店户外运动基地
+2018-07-21 19:24:36,719 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t2498043.html
+2018-07-21 19:24:36,975 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 19:24:37,033 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t144629.html
+2018-07-21 19:24:39,283 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 19:24:39,345 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t135830.html
+2018-07-21 19:24:41,689 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖中心湖区
+2018-07-21 19:24:41,748 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t143589.html
+2018-07-21 19:24:42,013 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 建德千岛湖直升机低空游览
+2018-07-21 19:24:42,072 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t4332387.html
+2018-07-21 19:24:42,339 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖森林氧吧
+2018-07-21 19:24:42,456 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t52366.html
+2018-07-21 19:24:42,763 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 九龙溪漂流
+2018-07-21 19:24:42,819 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t79942.html
+2018-07-21 19:24:43,087 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖龙门峡谷漂流
+2018-07-21 19:24:43,141 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t135767.html
+2018-07-21 19:24:43,394 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖东南湖区景区
+2018-07-21 19:24:43,460 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t135833.html
+2018-07-21 19:24:43,723 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 《水之灵》水舞台演出
+2018-07-21 19:24:43,781 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t141756.html
+2018-07-21 19:24:54,317 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] 携程景点店铺列表页面: Traceback (most recent call last):
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 2101, in from_page_get_data_list
+    item = self.until_presence_of_element_located_by_css_selector(ele=each,css_selector=page.listcssselector.item_css_selector)
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 693, in until_presence_of_element_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/ckq/anaconda3/envs/en1/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+item出错!!!
+2018-07-21 19:24:54,319 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] item_css_selector: #searchResultContainer > div:nth-child(1) > div
+2018-07-21 19:24:56,131 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 经过1次点击和0次关闭标签页,成功加载页面!!!

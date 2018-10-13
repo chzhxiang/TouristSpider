@@ -1,0 +1,512 @@
+2018-07-04 07:55:19,162 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] shop_time: 4月1日-10月31日（夏令时） 周一至周五 08:00-18:30，周六至周日 07:30-18:30；11月1日-次年3月31日（冬令时） 周一至周五 08:15-17:30，周六至周日 08:00-17:30；夏令法定节假日：7:30-18:30 ；冬令法定节假日：8:00-17:30。（园区冬令16：30、夏令17：00停售门、船票，游客禁止入园）；4月1日-10月31日夏令时：船7:30—17:00，车7:30—18:30，11月1日-次年3月31日冬令时：船8:00—16:30，车：8:00—17:30。
+2018-07-04 07:55:20,741 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] shop_service: ["如实描述", "低价保障", "入园保障", "特殊退订保障"]
+2018-07-04 07:55:21,692 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.from_page_add_data_to_data_list[2069].get_shop_comment[179] : 数据库评论最新时间:
+2018-07-04 07:55:21,724 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第1页...
+2018-07-04 07:55:21,763 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:55:21,810 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:55:21,929 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: Sunny_S****
+2018-07-04 07:55:22,031 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-03 21:57
+2018-07-04 07:55:22,107 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:22,206 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪面积很大，有时间的话慢慢闲逛，才能品味出正真的味道。
+2018-07-04 07:55:22,320 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:55:22,485 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M18637****
+2018-07-04 07:55:22,582 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-03 15:31
+2018-07-04 07:55:22,660 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:22,753 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 人不多，上下船很方便，风景不错。
+2018-07-04 07:55:22,854 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:22,982 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: e0985****
+2018-07-04 07:55:23,061 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-03 09:33
+2018-07-04 07:55:23,133 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:23,256 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 有点热，春秋去的话肯定很飘亮，以后要凉快点去
+2018-07-04 07:55:23,370 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:23,504 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: e0985****
+2018-07-04 07:55:23,708 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-03 09:23
+2018-07-04 07:55:23,988 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:24,397 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 能用就是没地图不方便，要是配个地图还好找点
+2018-07-04 07:55:24,712 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:25,121 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 300737****
+2018-07-04 07:55:25,352 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-03 07:09
+2018-07-04 07:55:25,608 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:26,135 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 浙江杭州 西溪国家湿地公园 很美丽的保护区 有各种鸟
+2018-07-04 07:55:26,480 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:26,816 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1331011****
+2018-07-04 07:55:27,015 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-02 12:45
+2018-07-04 07:55:27,245 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:27,529 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 挺好的，2小时的提前预约是分秒计算的
+2018-07-04 07:55:27,806 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:28,073 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M18181****
+2018-07-04 07:55:28,221 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-02 09:22
+2018-07-04 07:55:28,402 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:28,625 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地生态系统特别适合人们游玩活动，游玩时间充裕，推荐坐船游览观光，坐船游览和你走路的感觉是不一样的
+2018-07-04 07:55:28,909 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:29,296 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 126386****
+2018-07-04 07:55:29,547 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-01 22:35
+2018-07-04 07:55:29,689 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:29,848 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 以前来过一次，不晓得是不是游船路线有变化了，没有上次来的感觉好。生态环境倒还是不错的，对于没去过的人来说，还是值得一去的！
+2018-07-04 07:55:30,034 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:55:30,291 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1390431****
+2018-07-04 07:55:30,536 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-01 18:34
+2018-07-04 07:55:30,659 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:30,775 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 端午和老公两个人漫游杭州，西溪湿地难得的闹中取静，起得早，到了就坐上了摆渡船，一条船最多坐六个人，一小时100块，在芦苇荡中坐了四个小时，很惬意。建议过节来杭州的朋友可以考虑西溪湿地，人不多很幽静
+2018-07-04 07:55:30,882 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:31,029 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M256539****
+2018-07-04 07:55:31,103 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-01 16:36
+2018-07-04 07:55:31,223 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:31,435 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很累！迷路了！地标太少！建议坐船吧！！
+2018-07-04 07:55:31,685 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:55:42,454 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第2页...
+2018-07-04 07:55:42,559 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:55:42,657 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:55:42,972 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M48745****
+2018-07-04 07:55:43,192 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-01 16:24
+2018-07-04 07:55:43,441 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:43,729 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 山清水秀，乘船徜徉其中，确实消暑纳凉好去处
+2018-07-04 07:55:43,977 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:44,350 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M6008****
+2018-07-04 07:55:44,566 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-01 16:23
+2018-07-04 07:55:44,752 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:45,441 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 总体感觉很一般，挺好的湿地，挺好的名字，感觉开发的不好，管理的不好，游客体验性不强。一般买票都会从周家村码头上船，一共四个码头，每上一个码头就打一次卡。水道内水很浑，也有可能是刚下过雨的原因，各小岛的内容大同小异，除了卖纪念品就是吃的，没有特别有特色的东西。指示牌挺多，还标注了距下一个景点多少米，但鲜见有工作人员指引服务。景区内吃的较贵。
+2018-07-04 07:55:45,940 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:55:46,431 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1386860****
+2018-07-04 07:55:46,649 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-07-01 11:25
+2018-07-04 07:55:46,866 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:47,213 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 整个公园设计比较合理，分周家村、烟水渔庄、深潭口、西溪水阁。四个景点之间的坐四次船，泛舟、游玩、观光，均可自行支配！
+2018-07-04 07:55:47,494 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:47,720 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1381730****
+2018-07-04 07:55:47,833 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-30 07:47
+2018-07-04 07:55:47,950 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:48,153 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 相比其他景区，游客比较少，景色不错，不过感觉就像几个江南古镇拼一起的，看多了也没有什么特别的了
+2018-07-04 07:55:48,400 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:55:48,647 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _WeChat49359****
+2018-07-04 07:55:48,798 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-29 23:57
+2018-07-04 07:55:48,983 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:49,241 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不错
+2018-07-04 07:55:49,535 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:50,125 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 300475****
+2018-07-04 07:55:50,343 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-29 19:58
+2018-07-04 07:55:50,525 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:50,762 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 为携程点赞。这次出行第一次用携程买门票，真的方便又省钱
+2018-07-04 07:55:51,026 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:51,477 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M225178****
+2018-07-04 07:55:51,779 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-29 18:28
+2018-07-04 07:55:52,087 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:52,388 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 动植物种类繁多，休闲度假胜地！
+2018-07-04 07:55:52,747 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:53,233 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: sheng****
+2018-07-04 07:55:53,584 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-29 14:33
+2018-07-04 07:55:53,834 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:54,116 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地公园很大，很美。撸摇船的慢摇感觉也是 醉人的，在湿地穿行的感觉很有诗意，船夫很会聊 天，我们们运气好，遇到一个很会搞搞笑的船夫，就觉 得特别开心。 在烟水渔庄到深塘口一段，有一片荷花非常美！
+2018-07-04 07:55:54,437 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:55:54,867 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M54735****
+2018-07-04 07:55:55,091 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-29 07:41
+2018-07-04 07:55:55,291 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:55,529 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 风景不错不过四个岸上景点基本没啥区别。不过去四个景点的路上风景不同，不去全四个会错过路上有些好风景。建议摇橹游玩感觉应该不同。觉得最少要放半天在这里。
+2018-07-04 07:55:55,729 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:55:55,993 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M248536****
+2018-07-04 07:55:56,147 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-29 05:54
+2018-07-04 07:55:56,296 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:55:56,510 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 没什么好玩的 人也少 没有吸引人的地方
+2018-07-04 07:55:56,759 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:56:07,856 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第3页...
+2018-07-04 07:56:08,008 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:56:08,167 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:56:08,568 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M248183****
+2018-07-04 07:56:08,781 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-28 23:53
+2018-07-04 07:56:08,996 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:09,330 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 湿地本身可以，但是管理太差。没记错的话是从北门进入，进门处还不错，看图想从南门出去，结果带孩子走了大半天，途中好多景点都在修缮，或者到了门口，结果不开放，根本不能游览。既没有告知又找不到工作人员，快天黑好不容易才走出去。
+2018-07-04 07:56:09,767 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 2.0
+2018-07-04 07:56:10,164 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1381867****
+2018-07-04 07:56:10,357 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-28 10:24
+2018-07-04 07:56:10,549 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:10,856 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不值这个价格，坐船去个地方就是购物一条街，没什么可看的，不推荐。
+2018-07-04 07:56:11,241 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 2.0
+2018-07-04 07:56:12,278 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _WeChat33850****
+2018-07-04 07:56:12,506 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-27 17:53
+2018-07-04 07:56:12,709 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:12,994 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 里面很大、要仔细玩需要至少一整天的时间。
+2018-07-04 07:56:13,115 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:13,271 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 171339****
+2018-07-04 07:56:13,361 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-27 16:09
+2018-07-04 07:56:13,428 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:13,515 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 景区很大，买了套票，我们玩了半天时间，还有一部分地方没有逛完。西溪湿地一期河道纵横交错，自然原始，没有过度开发
+2018-07-04 07:56:13,647 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:13,774 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M17847****
+2018-07-04 07:56:13,848 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-27 14:23
+2018-07-04 07:56:13,919 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:14,056 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 地方蛮大的，相对西湖等热门景点来说人算蛮少的了。环境不错，比较生态，一个下午连一半都没有逛过来，下次有机会还会再去
+2018-07-04 07:56:14,195 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:14,352 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 300615****
+2018-07-04 07:56:14,428 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-27 13:28
+2018-07-04 07:56:14,495 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:14,668 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地真的很美，适合把自己放空，住上两日会更好！
+2018-07-04 07:56:14,829 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:15,035 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 288062****
+2018-07-04 07:56:15,142 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-27 09:06
+2018-07-04 07:56:15,273 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:15,478 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 坐船游玩比较好。毕竟园区很大，徒步估计一天可能不行
+2018-07-04 07:56:15,630 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:15,760 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _WeChat259197****
+2018-07-04 07:56:15,843 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-27 09:04
+2018-07-04 07:56:15,909 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:16,006 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 非常值得去，景色美，烟雨江南，有机会下次还会去
+2018-07-04 07:56:16,139 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:16,268 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M274392****
+2018-07-04 07:56:16,380 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-26 22:18
+2018-07-04 07:56:16,447 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:16,540 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 是一个比较冷门的景点，人们在去杭州旅行时，往往将目光投向名气极大的西湖，灵隐寺或是雷峰塔，而忽略了西溪。事实上，西溪面积很大，风景优美，而且游客不多，是个难得的地方。景区里面大部分地方都不要门票。总之，是个不错的好去处。
+2018-07-04 07:56:16,641 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:16,852 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: parad****
+2018-07-04 07:56:16,954 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-26 17:34
+2018-07-04 07:56:17,021 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:17,118 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 去杭州出差，顺便去西溪湿地看看，还是值得一去的
+2018-07-04 07:56:17,222 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:56:29,174 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第4页...
+2018-07-04 07:56:29,302 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:56:29,444 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:56:29,932 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M48803****
+2018-07-04 07:56:30,198 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-26 13:23
+2018-07-04 07:56:30,419 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:30,650 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 好好好好好好好好好好好好好好好
+2018-07-04 07:56:30,909 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:31,366 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: E3935****
+2018-07-04 07:56:31,765 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-26 12:21
+2018-07-04 07:56:32,059 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:32,382 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 如果想一天玩下来，还是要做一点规划，最好从西边开始玩，到下午东区这边结束～，要买船票，纯走的话还是十分需要体力的……
+2018-07-04 07:56:32,822 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:33,214 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1360186****
+2018-07-04 07:56:33,451 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 20:39
+2018-07-04 07:56:33,683 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:33,876 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 景点位于杭州距离西湖5公里处，西溪湿地有景有人文，非常值得游玩，周家村上船，船票＋门票网上预订可省20元，景点没有自助售票机，需要排队购买船票，一个游程大约5小时左右，中间路过茭芦田庄吃顿饭，菜价比较贵，味道很好，环境也很不错；高庄非常值得去，典型的江南园林，景色很秀丽！
+2018-07-04 07:56:34,104 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:34,389 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: E0326****
+2018-07-04 07:56:34,557 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 19:04
+2018-07-04 07:56:34,718 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:34,939 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 如果有几天时间慢慢游玩会好很多 一天太仓促了
+2018-07-04 07:56:35,165 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:56:35,493 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 110237****
+2018-07-04 07:56:35,640 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 18:18
+2018-07-04 07:56:35,762 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:35,920 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 6月底去的，太热了，带小孩子去，真心很累。对于南方来的我，见多了水啊草的，感觉西溪湿地也就这样吧，没什么太惊艳的地方，个人感觉而已。
+2018-07-04 07:56:36,359 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:56:37,196 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M50934****
+2018-07-04 07:56:37,561 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 17:25
+2018-07-04 07:56:37,771 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:38,044 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很好，值得一游。春暖花开或秋意浓浓的季节，或情侣，或老伴，漫步其中，情意绵绵。
+2018-07-04 07:56:38,362 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:56:38,868 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _WB13255****
+2018-07-04 07:56:39,041 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 17:11
+2018-07-04 07:56:39,184 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:39,407 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 没什么好看的，门票还80，不适合夏天去，不过北门可以免费观看，因为那里是慢生活区，建议从北门进感受一下，就出来，全是树和一小块一小块的池塘....
+2018-07-04 07:56:39,585 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 1.0
+2018-07-04 07:56:39,861 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: bell****
+2018-07-04 07:56:40,068 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 16:29
+2018-07-04 07:56:40,229 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:40,386 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 门票有点小贵，不过挑工作日人少的时候逛逛还是不错的，坐坐船，逛逛展厅，看看花草树木，悠闲自得
+2018-07-04 07:56:40,545 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:40,733 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M33801****
+2018-07-04 07:56:40,841 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 14:54
+2018-07-04 07:56:40,946 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:41,091 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 挺好，主要一直出门在携程订，总体不错
+2018-07-04 07:56:41,411 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:42,072 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: E1899****
+2018-07-04 07:56:42,328 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 12:20
+2018-07-04 07:56:42,599 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:42,965 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 整个湿地公园规划良好，空气清新，在里面很舒服，差点舍不得走了。
+2018-07-04 07:56:43,399 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:54,286 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第5页...
+2018-07-04 07:56:54,376 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:56:54,460 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:56:54,796 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M249210****
+2018-07-04 07:56:55,260 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 09:32
+2018-07-04 07:56:55,570 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:55,914 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 大，还是大，开发破坏生态，不开发又略显美中不足。
+2018-07-04 07:56:56,042 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:56:56,210 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _gf406366121745****
+2018-07-04 07:56:56,307 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-25 01:11
+2018-07-04 07:56:56,404 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:56,548 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 公园很美，空气舒服。周末出行还有戏台演出，很喜欢。
+2018-07-04 07:56:56,736 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:56,950 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M12025****
+2018-07-04 07:56:57,045 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-24 22:36
+2018-07-04 07:56:57,160 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:57,287 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 网上买票刷身份证一切畅通无阻。凉爽宜人，空气清新，有水有船有人家。卖丝绸丝巾的普遍态度不好。卖吃的态度都很好。虽然没什么太特别的景点，但是挺适合慢慢悠悠享受一天的地方。
+2018-07-04 07:56:57,402 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:56:57,563 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M16767****
+2018-07-04 07:56:57,657 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-24 20:49
+2018-07-04 07:56:57,744 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:57,878 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 其实我觉得西溪不应该收门票 坐船和其他交通工具收收就好了 因为西溪确实没什么景点 但是适合闲来无事走走
+2018-07-04 07:56:58,020 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:56:58,264 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: E1013****
+2018-07-04 07:56:58,360 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-24 15:41
+2018-07-04 07:56:58,466 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:58,631 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很美的地方，春天，夏天，秋天或是冬天，应该都有特色！
+2018-07-04 07:56:58,764 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:56:58,950 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M271648****
+2018-07-04 07:56:59,043 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-24 13:45
+2018-07-04 07:56:59,124 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:59,252 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 一般吧，觉得开发的不够充分，景致在到处是绿色和湖水的杭州没有感染力。既然是公园，就应该搞好配套服务，感觉工作人员都不能很好的服务游客，如同给地主打工的。缺乏精神和热，问个路冷冰冰，还有就是各个出口一人之间不能有个通行车吗?
+2018-07-04 07:56:59,478 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:56:59,634 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M18294****
+2018-07-04 07:56:59,732 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-24 10:12
+2018-07-04 07:56:59,825 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:56:59,940 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不愧是国家级的湿地公园，坐船船行期间，如在画中游，让人的内心安宁，这只是个人观感，当然，对任何自然景观或人文景观，都是见仁见智吧
+2018-07-04 07:57:00,131 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:00,305 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: E33241****
+2018-07-04 07:57:00,397 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-24 09:40
+2018-07-04 07:57:00,488 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:00,833 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 景色很美，喜欢这种原生态，就是下起了雨，雨越下越大，影响了后面的行程，没有逛完就回酒店了，下次还会在来。
+2018-07-04 07:57:00,951 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:01,138 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1509375****
+2018-07-04 07:57:01,228 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-24 07:36
+2018-07-04 07:57:01,334 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:01,536 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不错的一次游玩，就是没时间，没能多转转
+2018-07-04 07:57:01,716 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:01,949 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _ZFB208800201091****
+2018-07-04 07:57:02,082 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-23 18:56
+2018-07-04 07:57:02,157 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:02,272 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很喜欢西溪湿地！这次我们只去了西区传说中精华所在的东区没有去。据说两边的环境是差不多的，就是东区景点多些，还有个博物馆，可以二刷一下~
+2018-07-04 07:57:02,392 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:13,157 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第6页...
+2018-07-04 07:57:13,366 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:57:13,549 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:57:14,728 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _WeChat274179****
+2018-07-04 07:57:15,194 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-23 09:45
+2018-07-04 07:57:15,555 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:16,390 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 真心无语，没事别去，又没东西看又走断腿，完全不值，别浪费这冤枉钱。
+2018-07-04 07:57:16,519 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 2.0
+2018-07-04 07:57:16,734 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 118539****
+2018-07-04 07:57:16,859 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-23 08:13
+2018-07-04 07:57:17,085 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:17,392 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 地方很大，环境很美，可以带上一整天……………………………………………………
+2018-07-04 07:57:18,065 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:18,220 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 2577****
+2018-07-04 07:57:18,300 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-23 00:41
+2018-07-04 07:57:18,391 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:18,512 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 最爱杭州的又一知名景区，门票较贵，好像100一人？湿地公园的风景算是不错，绿植很多，晴天蓝天白云下，岸边走走很舒心。 湿地公园内有五星酒店，景区外似乎也有不少酒店客栈。
+2018-07-04 07:57:18,675 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:57:18,814 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M263657****
+2018-07-04 07:57:18,883 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-23 00:35
+2018-07-04 07:57:18,953 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:19,063 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很漂亮的湿地公园！环境优美，气候宜人！
+2018-07-04 07:57:19,221 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:19,365 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 118072****
+2018-07-04 07:57:19,435 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-22 20:14
+2018-07-04 07:57:19,523 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:19,621 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不是原生态，恰似原生态，规划太一般，西溪且留下，估计留不住
+2018-07-04 07:57:19,718 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:57:19,870 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 110132****
+2018-07-04 07:57:19,967 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-22 11:44
+2018-07-04 07:57:20,060 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:20,182 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 已经去过一次了，是个非常好的城市旅游项目，能够很清晰的感到湿地，特别是城市湿地的独特之处。此次预定和上次一样，非常的方便，而且很快捷。性价比还可以。以后有机会的话还会再去。
+2018-07-04 07:57:20,302 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:57:20,433 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M61024****
+2018-07-04 07:57:20,505 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-22 09:25
+2018-07-04 07:57:20,580 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:20,675 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地的风景很美来了就不想走，导游服务态度好，非常满意！
+2018-07-04 07:57:20,778 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:20,938 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: z****
+2018-07-04 07:57:21,018 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-21 23:23
+2018-07-04 07:57:21,130 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:21,270 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不错。你在一起
+2018-07-04 07:57:21,379 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:21,501 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: muning****
+2018-07-04 07:57:21,578 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-21 19:29
+2018-07-04 07:57:21,648 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:21,742 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 端午龙舟去的，可能特殊日期人多暴晒组织一般，所以西溪看下来就是个乡下水乡而已
+2018-07-04 07:57:22,132 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:57:23,008 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 200297****
+2018-07-04 07:57:23,304 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-21 16:53
+2018-07-04 07:57:23,509 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:23,773 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 环境很好，特地带父母去游玩，平时人比较少，环境很不错
+2018-07-04 07:57:24,055 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:34,714 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第7页...
+2018-07-04 07:57:34,847 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:57:34,986 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:57:35,351 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M22228****
+2018-07-04 07:57:35,609 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-21 15:11
+2018-07-04 07:57:36,158 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:36,742 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 超美！超美！超美！非常只得一去。租一个船，让船家划到没人的地方，就那么静静的躺在船上，能听到蛙叫，能看到水里的鱼，还有蛇哈哈，能看到白鹭，全是大自然的声音，真的能放松下来。
+2018-07-04 07:57:36,932 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:37,324 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: e0883****
+2018-07-04 07:57:37,563 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-21 14:06
+2018-07-04 07:57:37,744 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:37,945 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 绝对经典，值得游玩，与乌镇等景点不尽相同的趣味
+2018-07-04 07:57:38,232 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:38,471 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M54206****
+2018-07-04 07:57:38,632 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-21 02:11
+2018-07-04 07:57:38,852 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:39,219 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 还可以，就是蚊子多，范围太大了
+2018-07-04 07:57:39,601 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:57:40,056 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M54524****
+2018-07-04 07:57:40,284 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 22:51
+2018-07-04 07:57:40,491 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:40,809 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不错的公园，环境优美，可以晨跑或者步行散步。中间有商业街，各种古镇可以游玩。可以坐船
+2018-07-04 07:57:41,217 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:41,613 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M46935****
+2018-07-04 07:57:41,797 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 22:38
+2018-07-04 07:57:41,950 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:42,158 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很好，没玩过这种湿地，感到很新鲜
+2018-07-04 07:57:42,385 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:42,861 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1883298****
+2018-07-04 07:57:43,000 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 22:23
+2018-07-04 07:57:43,132 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:43,310 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 风景优美、空气清新、花草宜人，推荐！
+2018-07-04 07:57:43,488 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:43,724 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1380806****
+2018-07-04 07:57:43,878 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 21:16
+2018-07-04 07:57:43,999 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:44,135 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 特别方便！免去现场排队的烦恼！
+2018-07-04 07:57:44,234 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:44,363 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _CFT010000002176****
+2018-07-04 07:57:44,436 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 20:20
+2018-07-04 07:57:44,504 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:44,693 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:45,006 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _CFT010000002176****
+2018-07-04 07:57:45,483 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 20:20
+2018-07-04 07:57:45,806 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:46,468 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:47,608 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M5767****
+2018-07-04 07:57:47,850 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 16:30
+2018-07-04 07:57:48,067 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:57:48,361 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 跟老婆一起去的，景色很美，不虚此行。
+2018-07-04 07:57:48,556 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:57:59,671 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第8页...
+2018-07-04 07:57:59,793 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:57:59,909 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:58:00,341 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M28192****
+2018-07-04 07:58:00,660 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 12:29
+2018-07-04 07:58:00,995 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:01,487 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不好玩，不推荐去……………………
+2018-07-04 07:58:01,833 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:58:02,226 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 5067****
+2018-07-04 07:58:02,475 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 11:26
+2018-07-04 07:58:02,657 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:02,869 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地公园真的很大，从南门骑车到北门骑了20多分钟，门票80元感觉有点不值得，从西溪湿地公园北门走500米到蒋村市集，然后去河诸街，深潭口，福堤走走风景也不错
+2018-07-04 07:58:03,151 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:58:03,418 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M61066****
+2018-07-04 07:58:03,547 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 11:20
+2018-07-04 07:58:03,682 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:03,838 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 真的不想给差评，但是对于携程的客服解释实在无法接受，也在此提醒购买网票的游客。我是6月18日端午节当天去的，由于当天有龙舟比赛人非常的多，当时买了3张门票带家人一起，到售票口发现60周岁可以半价所以退了两张直接买的纸质门票。前往深潭口看完龙舟比赛，有个出口是通往蒋村那里的，具体我记得不是很清楚，我看人流都往那里走，指示也写着可以凭当日门票再回来，结果回来的时候我的身份证无法刷出，但是家人持纸质票的人都能扫二维码，当下只能重新购纸质门票。今天回来咨询携程的客服，得到的解释是首先不能更换纸质门票，刷身份证不能多次入园，为什么同样80块纸质门票的游客可以出入而刷身份证就不行呢，价格网站就便宜了10块罢了。
+2018-07-04 07:58:04,123 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 1.0
+2018-07-04 07:58:04,552 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1376446****
+2018-07-04 07:58:04,726 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 11:10
+2018-07-04 07:58:04,817 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:04,931 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很热，人很多，景色还凑合，商业气息比较重。还是高庄有点意思。
+2018-07-04 07:58:05,042 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:58:05,201 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 300619****
+2018-07-04 07:58:05,290 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-20 08:40
+2018-07-04 07:58:05,438 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:05,557 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 风景优美，水中漫步，值得去看看。
+2018-07-04 07:58:05,721 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:05,899 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _CFT010000000702****
+2018-07-04 07:58:06,000 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 23:10
+2018-07-04 07:58:06,109 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:06,209 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地公园面积很大，绿化覆盖率超级高，游船观景还比较轻松，就是这天气太热了
+2018-07-04 07:58:06,317 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:58:06,458 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M53823****
+2018-07-04 07:58:06,554 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 22:12
+2018-07-04 07:58:06,630 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:06,762 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 很好，做摇撸船很舒服，如果摇船师傅能再介绍一下更好了
+2018-07-04 07:58:06,964 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:07,132 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: E3151****
+2018-07-04 07:58:07,279 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 21:42
+2018-07-04 07:58:07,358 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:07,460 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 自然景观优美、环境保护良好、真实的江南水乡！
+2018-07-04 07:58:07,600 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:07,763 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M7001****
+2018-07-04 07:58:07,846 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 21:33
+2018-07-04 07:58:07,925 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:08,106 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 人多无秩序，服务人员态度差，景致非常一般没有特色，园里特别热，都快中暑了
+2018-07-04 07:58:08,287 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 2.0
+2018-07-04 07:58:08,505 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M239561****
+2018-07-04 07:58:08,624 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 16:47
+2018-07-04 07:58:08,703 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:08,814 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 里面一直在玩摇船～感觉一般，不是很好玩～景色一般～
+2018-07-04 07:58:08,921 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:58:19,824 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第9页...
+2018-07-04 07:58:19,946 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:58:20,097 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:58:20,558 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M29504****
+2018-07-04 07:58:20,806 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 14:57
+2018-07-04 07:58:21,084 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:21,409 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 帮朋友订的，还不错。下次自己去瞧瞧
+2018-07-04 07:58:21,723 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:22,186 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 320370****
+2018-07-04 07:58:22,469 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 14:50
+2018-07-04 07:58:22,797 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:23,060 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 值得一去，尤其北方没有这样的环境。体验一下不错。也看到了北方景点的差距。北方大部分还处在蛮荒年代，处处陷阱，卖假货，政府置之不理。而杭州整个景点都比较规范，放心消费，服务周到用心。
+2018-07-04 07:58:23,349 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:23,693 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 286551****
+2018-07-04 07:58:23,912 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 14:40
+2018-07-04 07:58:24,167 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:24,610 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 一家人出游，带一个小宝贝，感觉不是很好玩
+2018-07-04 07:58:24,880 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:58:25,234 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M274063****
+2018-07-04 07:58:25,562 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 14:27
+2018-07-04 07:58:25,810 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:26,180 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不值得去，就跟个小花园似得，有点树有点水就敢收门票，还这么贵的门票我都服了
+2018-07-04 07:58:26,478 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 2.0
+2018-07-04 07:58:26,841 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1391186****
+2018-07-04 07:58:27,088 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 14:03
+2018-07-04 07:58:27,303 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:27,614 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 到了宋元时期，在宋太宗端拱元年（988年），朝廷正式在此建置西溪镇，这是西溪进入新阶段的开始，这也说明了西溪是个千年古镇。明清时期，西溪两岸的社会经济与文化，得到了多方面的进展，养鱼育蚕、种竹培笋与茶叶果蔬等农副业得到发展，成为郊区农业的特色。
+2018-07-04 07:58:27,908 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:28,274 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: E59710****
+2018-07-04 07:58:28,483 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 13:42
+2018-07-04 07:58:28,744 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:29,122 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪国家湿地公园是一个集城市湿地、农耕湿地、文化湿地于一体的国家湿地公园。2009年11月03日，被列入国际重要湿地名录。2012年1月10日，被评为国家AAAAA级旅游景区。2017年12月，被评选为全国中小学生研学实践教育基地。
+2018-07-04 07:58:29,666 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:30,108 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: e0212****
+2018-07-04 07:58:30,333 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 13:35
+2018-07-04 07:58:30,527 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:30,759 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 端午游玩，巧遇龙舟赛。对于带小孩小推车家庭来说，能否考虑下改进道路状况？（石板、石头坑洼等）
+2018-07-04 07:58:31,121 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:31,645 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _CFT010000000850****
+2018-07-04 07:58:31,856 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 13:25
+2018-07-04 07:58:32,086 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:32,344 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪国家湿地公园总面积约为11.5平方公里，分为东部湿地生态保护培育区、中部湿地生态旅游休闲区和西部湿地生态景观封育区。环境优美，让人流连忘返啊！
+2018-07-04 07:58:32,635 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:33,280 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M244275****
+2018-07-04 07:58:33,669 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 13:15
+2018-07-04 07:58:33,916 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:34,255 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 民俗风情挺不错的，游玩点较多，可以走慢一点
+2018-07-04 07:58:34,600 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:35,107 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M42129****
+2018-07-04 07:58:35,243 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 13:01
+2018-07-04 07:58:35,373 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:35,535 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 摇橹船在清晨，慢慢轻摇，很是惬意
+2018-07-04 07:58:35,706 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 4.0
+2018-07-04 07:58:46,246 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1466] : 当前翻到第10页...
+2018-07-04 07:58:46,377 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1468].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-04 07:58:46,507 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1976] : 携程景点评论列表
+2018-07-04 07:58:46,896 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _WeChat60613****
+2018-07-04 07:58:47,214 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 12:04
+2018-07-04 07:58:47,655 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:48,383 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地的景色还是很美的，进去基本就是看各种各样的景色了，坐了个电瓶船。里面的浏览车很多，5元一位。里面小吃店卖的很贵，饭35块钱一份，矿泉水5元一瓶。人多一起去的话，还是建议多扛点水去，干粮也多带点。
+2018-07-04 07:58:48,712 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:49,159 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1380806****
+2018-07-04 07:58:49,436 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 11:11
+2018-07-04 07:58:49,647 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:49,835 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 提前一天购买，方便第二天出行，满意
+2018-07-04 07:58:50,057 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:50,776 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1380806****
+2018-07-04 07:58:51,008 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 10:53
+2018-07-04 07:58:51,256 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:51,589 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 提前购买特别方便，到园区门票和坐船直接刷身份证即可使用，不用排队换票，并且价格比现场购票便宜一点！满意
+2018-07-04 07:58:51,869 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:52,305 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: M220386****
+2018-07-04 07:58:52,518 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 10:48
+2018-07-04 07:58:52,753 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:53,040 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 还可以吧 就是太累了 其实还是免费区域玩玩就好了
+2018-07-04 07:58:53,299 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:53,638 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: _WeChat254511****
+2018-07-04 07:58:53,817 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 10:45
+2018-07-04 07:58:54,031 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:54,393 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 西溪湿地的蒋村慢生活街那边十分值得一去、和朋友一起坐在桥边看渔船很惬意还有清新脱俗的荷花
+2018-07-04 07:58:54,785 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 5.0
+2018-07-04 07:58:55,195 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 300902****
+2018-07-04 07:58:55,471 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_time: 2018-06-19 09:17
+2018-07-04 07:58:55,720 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] shop_name: 西溪国家湿地公园
+2018-07-04 07:58:56,226 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1962].get_str_field_by_css_selector[1779] comment_content: 不知道网上买门票需要等2个小时以后才能用，有点后悔。下次提前订，否则浪费时间。
+2018-07-04 07:58:56,763 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1968].get_float_field_by_css_selector[1886] comment_score: 3.0
+2018-07-04 07:58:57,147 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1960].get_key_str_field_by_css_selector[1739] comment_user_name: 1339717****

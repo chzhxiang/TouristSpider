@@ -1,0 +1,760 @@
+2018-10-08 10:15:03,496 - spider.driver.base.logger - INFO - Start print log
+2018-10-08 10:15:03,497 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-08 10:15:04,929 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
+2018-10-08 10:15:09,633 - spider.driver.base.logger - ERROR - tuniuspotspider.get_shop_info_list.[95] - driver.fast_get_page.[2370] : 
+第1次加载页面失败!!!
+2018-10-08 10:15:38,690 - spider.driver.base.logger - INFO - Start print log
+2018-10-08 10:15:38,690 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-08 10:15:40,191 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
+2018-10-08 10:15:42,264 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_shop_info_list.[68] - driver.fast_get_page.[2367] : 经过1次创建session和0次关闭session,成功加载页面!!!
+2018-10-08 10:15:42,264 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2137] : 途牛景点店铺列表页面
+2018-10-08 10:15:44,379 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:15:44,407 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_price: 190.0
+2018-10-08 10:15:44,425 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_url: https://m.tuniu.com/menpiao/t_1806350
+2018-10-08 10:15:44,426 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_url: https://m.tuniu.com/menpiao/t_1806350
+2018-10-08 10:15:44,444 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_img: data:img/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAAA1BMVEXs7Oxc9QatAAAACklEQVQI12NgAAAAAgAB4iG8MwAAAABJRU5ErkJggg==
+2018-10-08 10:15:44,465 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_address: 
+2018-10-08 10:15:44,480 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_grade: 0.0
+2018-10-08 10:15:44,508 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_comment_num: 9091
+2018-10-08 10:15:44,524 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_feature: 
+2018-10-08 10:15:44,542 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_shop_info_list.[69] - driver.from_page_get_data_list.[2171] shop_rate: 
+2018-10-08 10:16:32,747 - spider.driver.base.logger - INFO - Start print log
+2018-10-08 10:16:32,747 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-08 10:16:34,193 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
+2018-10-08 10:16:34,366 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[81] - driver.info_log.[215] : 第1个,上饶三清山
+2018-10-08 10:16:36,440 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[82] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:16:56,761 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[84] - driver.fast_click_page_by_css_selector.[2430] : 经过1次点击和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:16:56,761 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2137] : 飞猪景点店铺评论列表页面
+2018-10-08 10:17:01,553 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:01,580 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 三清山风景不错，值得去看一次。
+2018-10-08 10:17:01,607 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6828161275
+2018-10-08 10:17:01,654 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 2.5
+2018-10-08 10:17:01,712 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-08
+2018-10-08 10:17:02,320 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:02,367 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 景色很美，超出预期，不愧为良心景区。
+2018-10-08 10:17:02,397 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155281923
+2018-10-08 10:17:02,415 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:02,442 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-07
+2018-10-08 10:17:03,042 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:03,089 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 非常棒！主要缺点就是进山口应该多条通道，耽误了太多时间。
+2018-10-08 10:17:03,129 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8121586625
+2018-10-08 10:17:03,147 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:03,174 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:17:03,771 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:03,798 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 不错，很方便 下次还会来这预定
+2018-10-08 10:17:03,824 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155290923
+2018-10-08 10:17:03,842 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:03,868 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:17:04,454 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:04,503 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 不错就是爬山的有点太累，
+2018-10-08 10:17:04,541 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: hdm737251
+2018-10-08 10:17:04,559 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:04,586 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:17:05,218 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:05,257 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 刷身份证比较方便，不用排队买票。
+2018-10-08 10:17:05,284 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155356636
+2018-10-08 10:17:05,302 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:05,328 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-05
+2018-10-08 10:17:05,929 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:05,980 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 抢到票了，比排队买票很方便
+2018-10-08 10:17:06,007 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 堕落暗殇
+2018-10-08 10:17:06,025 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:06,050 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-05
+2018-10-08 10:17:06,630 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:06,679 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 取票很快很方便，索道也很长，基本上有惊无险
+2018-10-08 10:17:06,716 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 上海郑斌
+2018-10-08 10:17:06,734 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:06,761 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-27
+2018-10-08 10:17:07,736 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:07,764 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 套票很方便，索道哪里都好用
+2018-10-08 10:17:07,791 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6836119065
+2018-10-08 10:17:07,849 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:07,877 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-11
+2018-10-08 10:17:08,504 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:08,561 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 套票索道哪里索道都可用，套票就是方便
+2018-10-08 10:17:08,587 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6836119065
+2018-10-08 10:17:08,605 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:08,631 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-11
+2018-10-08 10:17:17,156 - spider.driver.base.logger - INFO - Start print log
+2018-10-08 10:17:17,156 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-08 10:17:18,598 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
+2018-10-08 10:17:18,793 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[81] - driver.info_log.[215] : 第1个,上饶三清山
+2018-10-08 10:17:21,013 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[82] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:17:41,366 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[84] - driver.fast_click_page_by_css_selector.[2430] : 经过1次点击和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:17:41,367 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2137] : 飞猪景点店铺评论列表页面
+2018-10-08 10:17:43,997 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:44,024 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 三清山风景不错，值得去看一次。
+2018-10-08 10:17:44,050 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6828161275
+2018-10-08 10:17:44,068 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 2.5
+2018-10-08 10:17:44,095 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-08
+2018-10-08 10:17:45,326 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:45,383 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 景色很美，超出预期，不愧为良心景区。
+2018-10-08 10:17:45,411 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155281923
+2018-10-08 10:17:45,429 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:45,459 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-07
+2018-10-08 10:17:47,343 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:47,375 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 非常棒！主要缺点就是进山口应该多条通道，耽误了太多时间。
+2018-10-08 10:17:47,414 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8121586625
+2018-10-08 10:17:47,433 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:47,463 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:17:48,588 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:48,647 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 不错，很方便 下次还会来这预定
+2018-10-08 10:17:48,678 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155290923
+2018-10-08 10:17:48,698 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:48,728 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:17:50,578 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:50,665 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 不错就是爬山的有点太累，
+2018-10-08 10:17:50,699 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: hdm737251
+2018-10-08 10:17:50,719 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:50,748 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:17:52,301 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:52,383 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 刷身份证比较方便，不用排队买票。
+2018-10-08 10:17:52,413 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155356636
+2018-10-08 10:17:52,434 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:52,467 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-05
+2018-10-08 10:17:53,683 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:53,724 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 抢到票了，比排队买票很方便
+2018-10-08 10:17:53,753 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 堕落暗殇
+2018-10-08 10:17:53,775 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:53,804 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-05
+2018-10-08 10:17:54,872 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:54,910 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 取票很快很方便，索道也很长，基本上有惊无险
+2018-10-08 10:17:54,939 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 上海郑斌
+2018-10-08 10:17:54,958 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:54,986 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-27
+2018-10-08 10:17:56,001 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:56,098 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 套票很方便，索道哪里都好用
+2018-10-08 10:17:56,167 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6836119065
+2018-10-08 10:17:56,214 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:56,280 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-11
+2018-10-08 10:17:57,304 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:17:57,364 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 套票索道哪里索道都可用，套票就是方便
+2018-10-08 10:17:57,399 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6836119065
+2018-10-08 10:17:57,419 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:17:57,449 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-11
+2018-10-08 10:18:09,581 - spider.driver.base.logger - INFO - Start print log
+2018-10-08 10:18:09,581 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-08 10:18:11,052 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
+2018-10-08 10:18:11,231 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[81] - driver.info_log.[215] : 第1个,上饶三清山
+2018-10-08 10:18:27,603 - spider.driver.base.logger - INFO - Start print log
+2018-10-08 10:18:27,603 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-08 10:18:29,051 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
+2018-10-08 10:18:29,219 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[81] - driver.info_log.[215] : 第1个,上饶三清山
+2018-10-08 10:18:31,221 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[82] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:18:51,573 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[84] - driver.fast_click_page_by_css_selector.[2430] : 经过1次点击和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:18:51,574 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2137] : 飞猪景点店铺评论列表页面
+2018-10-08 10:18:53,178 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:53,206 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 三清山风景不错，值得去看一次。
+2018-10-08 10:18:53,232 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6828161275
+2018-10-08 10:18:53,250 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 2.5
+2018-10-08 10:18:53,277 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-08
+2018-10-08 10:18:53,846 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:53,877 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 景色很美，超出预期，不愧为良心景区。
+2018-10-08 10:18:53,907 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155281923
+2018-10-08 10:18:53,926 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:53,955 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-07
+2018-10-08 10:18:54,693 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:54,755 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 非常棒！主要缺点就是进山口应该多条通道，耽误了太多时间。
+2018-10-08 10:18:54,787 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8121586625
+2018-10-08 10:18:54,806 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:54,834 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:18:55,456 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:55,510 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 不错，很方便 下次还会来这预定
+2018-10-08 10:18:55,544 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155290923
+2018-10-08 10:18:55,561 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:55,590 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:18:56,252 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:56,340 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 不错就是爬山的有点太累，
+2018-10-08 10:18:56,389 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: hdm737251
+2018-10-08 10:18:56,421 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:56,458 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-06
+2018-10-08 10:18:57,048 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:57,105 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 刷身份证比较方便，不用排队买票。
+2018-10-08 10:18:57,144 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 8155356636
+2018-10-08 10:18:57,163 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:57,198 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-05
+2018-10-08 10:18:57,840 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:57,930 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 抢到票了，比排队买票很方便
+2018-10-08 10:18:57,959 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 堕落暗殇
+2018-10-08 10:18:57,980 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:58,010 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-10-05
+2018-10-08 10:18:58,592 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:58,666 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 取票很快很方便，索道也很长，基本上有惊无险
+2018-10-08 10:18:58,704 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 上海郑斌
+2018-10-08 10:18:58,733 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:58,761 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-27
+2018-10-08 10:18:59,441 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:18:59,492 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 套票很方便，索道哪里都好用
+2018-10-08 10:18:59,527 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6836119065
+2018-10-08 10:18:59,548 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:18:59,578 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-11
+2018-10-08 10:19:00,167 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] shop_name: 上饶三清山
+2018-10-08 10:19:00,251 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_content: 套票索道哪里索道都可用，套票就是方便
+2018-10-08 10:19:00,296 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_user_name: 6836119065
+2018-10-08 10:19:00,318 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_grade: 5.0
+2018-10-08 10:19:00,344 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2171] comment_time: 2018-08-11
+2018-10-08 10:19:29,487 - spider.driver.base.logger - INFO - Start print log
+2018-10-08 10:19:29,487 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-08 10:19:31,949 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
+2018-10-08 10:19:32,143 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[81] - driver.info_log.[215] : 第1个,上饶三清山
+2018-10-08 10:19:34,474 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[82] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:20:02,515 - spider.driver.base.logger - DEBUG - TuniuMobileSpotSpider.get_comment_info_list.[84] - driver.fast_click_page_by_css_selector.[2430] : 经过1次点击和0次关闭标签页,成功加载页面!!!
+2018-10-08 10:20:02,515 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2137] : 飞猪景点店铺评论列表页面
+2018-10-08 10:20:04,637 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,638 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,639 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,640 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,640 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,641 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,642 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,643 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,644 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,645 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2166] : 在移动端，这个item无法拖动到可见的区域， 所以不是要找的,丢弃...
+2018-10-08 10:20:04,645 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(1)
+2018-10-08 10:20:04,712 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:04,740 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 三清山风景不错，值得去看一次。
+2018-10-08 10:20:04,770 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6828161275
+2018-10-08 10:20:04,792 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:04,829 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-10-08
+2018-10-08 10:20:05,823 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(2)
+2018-10-08 10:20:05,912 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:05,957 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 景色很美，超出预期，不愧为良心景区。
+2018-10-08 10:20:06,007 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8155281923
+2018-10-08 10:20:06,027 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:06,054 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-10-07
+2018-10-08 10:20:07,721 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(3)
+2018-10-08 10:20:07,941 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:08,001 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 非常棒！主要缺点就是进山口应该多条通道，耽误了太多时间。
+2018-10-08 10:20:08,052 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8121586625
+2018-10-08 10:20:08,076 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:08,105 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-10-06
+2018-10-08 10:20:09,087 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(4)
+2018-10-08 10:20:09,246 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:09,275 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 不错，很方便 下次还会来这预定
+2018-10-08 10:20:09,308 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8155290923
+2018-10-08 10:20:09,326 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:09,356 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-10-06
+2018-10-08 10:20:11,064 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(5)
+2018-10-08 10:20:11,133 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:11,159 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 不错就是爬山的有点太累，
+2018-10-08 10:20:11,189 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: hdm737251
+2018-10-08 10:20:11,207 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:11,234 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-10-06
+2018-10-08 10:20:13,050 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(6)
+2018-10-08 10:20:13,111 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:13,141 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 刷身份证比较方便，不用排队买票。
+2018-10-08 10:20:13,172 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8155356636
+2018-10-08 10:20:13,194 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:13,224 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-10-05
+2018-10-08 10:20:14,171 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(7)
+2018-10-08 10:20:14,270 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:14,308 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 抢到票了，比排队买票很方便
+2018-10-08 10:20:14,348 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 堕落暗殇
+2018-10-08 10:20:14,376 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:14,410 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-10-05
+2018-10-08 10:20:15,390 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(8)
+2018-10-08 10:20:15,529 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:15,569 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票很快很方便，索道也很长，基本上有惊无险
+2018-10-08 10:20:15,598 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 上海郑斌
+2018-10-08 10:20:15,619 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:15,649 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-08-27
+2018-10-08 10:20:16,606 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(9)
+2018-10-08 10:20:16,735 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:16,773 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 套票很方便，索道哪里都好用
+2018-10-08 10:20:16,804 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6836119065
+2018-10-08 10:20:16,824 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:16,879 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-08-11
+2018-10-08 10:20:17,869 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(10)
+2018-10-08 10:20:18,008 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:18,056 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 套票索道哪里索道都可用，套票就是方便
+2018-10-08 10:20:18,087 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6836119065
+2018-10-08 10:20:18,107 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:18,135 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-08-11
+2018-10-08 10:20:19,108 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(11)
+2018-10-08 10:20:19,216 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:19,248 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 售票点的工作人员态度不好，该我买票的时候，问她个问题，还有点不赖烦！
+2018-10-08 10:20:19,276 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8052609905
+2018-10-08 10:20:19,294 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:19,324 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-05-05
+2018-10-08 10:20:19,878 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(12)
+2018-10-08 10:20:20,071 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:20,176 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 很方便的，就是要到窗口排队，出示身份证可以了，也挺快的
+2018-10-08 10:20:20,273 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8132690969
+2018-10-08 10:20:20,348 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:20,448 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-04-25
+2018-10-08 10:20:21,040 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(13)
+2018-10-08 10:20:21,142 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:21,192 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 门票很方便就拿到了，坐索道上，然后全部走路，去了西部、东部、最顶端道教文化没有去，就已经用了7个小时多，山上也有住的，风景名胜区，值得一去。
+2018-10-08 10:20:21,243 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: jane_qingfeng
+2018-10-08 10:20:21,294 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:21,343 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-04-07
+2018-10-08 10:20:21,893 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(14)
+2018-10-08 10:20:22,098 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:22,183 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 景点超棒，但是景区内吃饭地方和品种较少
+2018-10-08 10:20:22,237 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: tuniu01150747
+2018-10-08 10:20:22,268 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:22,316 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-03-11
+2018-10-08 10:20:22,863 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(15)
+2018-10-08 10:20:22,924 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:22,950 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 一天玩完，采用索道上山，步行游览下山，特色是三清山的石头像形很强大，比如东方神女，观音送子，企鹅，老道等，其他就一般了。取票很方便，停车费有点坑，大部分好像50元，我们找到了一个收30的。住的农家乐，挺实惠，也算干净，就是不是特别靠近景区。
+2018-10-08 10:20:22,978 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8128667222
+2018-10-08 10:20:22,998 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:23,027 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-02-18
+2018-10-08 10:20:23,581 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(16)
+2018-10-08 10:20:23,639 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:23,666 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 没有优惠，景区是不错的，缆车很长值这个价。
+2018-10-08 10:20:23,697 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6836621368
+2018-10-08 10:20:23,716 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:23,747 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2018-01-11
+2018-10-08 10:20:24,315 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(17)
+2018-10-08 10:20:24,375 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:24,407 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 不错，就是天气没有选好
+2018-10-08 10:20:24,438 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8122096809
+2018-10-08 10:20:24,497 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:24,538 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-12-28
+2018-10-08 10:20:25,387 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(18)
+2018-10-08 10:20:25,478 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:25,512 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票方便的，可惜天气不好
+2018-10-08 10:20:25,544 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6820198139
+2018-10-08 10:20:25,564 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:25,600 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-12-08
+2018-10-08 10:20:26,168 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(19)
+2018-10-08 10:20:26,266 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:26,310 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 比现场买便宜，方便！
+2018-10-08 10:20:26,341 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 王叶飞85
+2018-10-08 10:20:26,359 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:26,390 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-11-11
+2018-10-08 10:20:27,341 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(20)
+2018-10-08 10:20:27,426 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:27,451 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 三清山的风景太美，缆车上下也只能完玩完一个景区。
+2018-10-08 10:20:27,477 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: Wisdomstar
+2018-10-08 10:20:27,495 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:27,522 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-29
+2018-10-08 10:20:28,074 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(21)
+2018-10-08 10:20:28,266 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:28,377 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 第一次尝试网上购票，很满意，也很方便，为以后外出更有信息了！
+2018-10-08 10:20:28,470 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: klnrwyp
+2018-10-08 10:20:28,516 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:28,563 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-20
+2018-10-08 10:20:29,132 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(22)
+2018-10-08 10:20:29,211 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:29,242 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 非常方便，一家人旅游心情很好！
+2018-10-08 10:20:29,276 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8121252987
+2018-10-08 10:20:29,296 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:29,329 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-11
+2018-10-08 10:20:29,887 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(23)
+2018-10-08 10:20:29,973 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:30,001 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 三清山真的很漂亮 早上九点就开始爬山一直到下午五点下山 上下山有一部分是坐的索道 西海岸和阳光海岸的景真的很美 也算是基本都去了 值得去一次的地方 真不错 回家后几天小腿就开始酸了
+2018-10-08 10:20:30,028 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 我哭了-梦飞
+2018-10-08 10:20:30,047 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:30,075 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-09
+2018-10-08 10:20:30,613 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(24)
+2018-10-08 10:20:30,711 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:30,745 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 这次三清山之行非常愉快，由于3日订的票在路上被追尾，没能去成，电话途牛马上帮我退了票，退款也很快10分钟就到帐，当晚通过途牛订第二天票上山，一次愉快的行程。
+2018-10-08 10:20:30,774 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8072583038
+2018-10-08 10:20:30,792 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:30,821 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-08
+2018-10-08 10:20:31,341 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(25)
+2018-10-08 10:20:31,492 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:31,541 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 三清山云雾缭绕，梦幻般的境界，值得一游。
+2018-10-08 10:20:31,571 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 雨球
+2018-10-08 10:20:31,592 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:31,620 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-07
+2018-10-08 10:20:32,224 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(26)
+2018-10-08 10:20:32,293 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:32,320 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 和现场买票完全一样，一点优惠都没有且和现场购票的在一起排队。景色非常好，很有特色，旅游的角度看是不虚此行，尽管山上在下雨。
+2018-10-08 10:20:32,347 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8020703021
+2018-10-08 10:20:32,367 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:32,395 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-07
+2018-10-08 10:20:32,927 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(27)
+2018-10-08 10:20:33,035 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:33,076 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 好方便的，第一次网上订票还很顺利的，取票也方便，不错
+2018-10-08 10:20:33,114 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6817301312
+2018-10-08 10:20:33,138 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:33,174 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-05
+2018-10-08 10:20:33,752 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(28)
+2018-10-08 10:20:33,843 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:33,878 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 方便，快捷！景色特别美……
+2018-10-08 10:20:33,906 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: Sonny1225dy
+2018-10-08 10:20:33,923 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:33,949 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-10-02
+2018-10-08 10:20:34,504 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(29)
+2018-10-08 10:20:34,638 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:34,685 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 方便快捷高效便利，价格网上订和售票处一样。
+2018-10-08 10:20:34,715 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 小小的石头先生
+2018-10-08 10:20:34,740 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:20:34,768 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-09-24
+2018-10-08 10:20:35,324 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(30)
+2018-10-08 10:20:35,470 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:35,518 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 非常不错的一次体验，取票便捷高效，除了天气因素外，还是比较满意的。
+2018-10-08 10:20:35,567 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 小小的石头先生
+2018-10-08 10:20:35,598 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:35,638 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-09-24
+2018-10-08 10:20:36,589 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(31)
+2018-10-08 10:20:36,687 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:36,713 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 在三清山景区游玩大部分地方手机没有信号，很不方便
+2018-10-08 10:20:36,739 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 流浪的人89
+2018-10-08 10:20:36,757 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:20:36,784 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-08-27
+2018-10-08 10:20:37,348 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(32)
+2018-10-08 10:20:37,418 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:37,445 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 索道上去不错，下来时候直接关闭了…步行三小时下山…
+2018-10-08 10:20:37,471 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 老猫1019
+2018-10-08 10:20:37,492 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:20:37,518 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-08-04
+2018-10-08 10:20:38,065 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(33)
+2018-10-08 10:20:38,121 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:38,148 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 环境优美，人间烟火。赞
+2018-10-08 10:20:38,184 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8115066625
+2018-10-08 10:20:38,207 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:38,239 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-07-17
+2018-10-08 10:20:38,802 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(34)
+2018-10-08 10:20:38,886 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:38,921 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 风景可以。网上订的票，为何取票那么麻烦?
+2018-10-08 10:20:38,951 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8089580899
+2018-10-08 10:20:38,971 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:20:39,001 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-04-05
+2018-10-08 10:20:39,560 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(35)
+2018-10-08 10:20:39,761 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:39,857 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 风景可以。网上订的票，居然不能机器取，说坏了。够坑的。
+2018-10-08 10:20:39,893 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8089580899
+2018-10-08 10:20:39,913 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:20:39,943 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-04-05
+2018-10-08 10:20:40,901 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(36)
+2018-10-08 10:20:40,992 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:41,023 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 价格和在窗口买是一样的 不过取票会方便一些 去三清山还是要挑好天气的 不然就没会显得没有太过普通没有意义了 真的是非常美
+2018-10-08 10:20:41,049 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: Rrrrrrr-Yy
+2018-10-08 10:20:41,067 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:41,095 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-03-31
+2018-10-08 10:20:41,681 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(37)
+2018-10-08 10:20:41,771 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:41,814 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 景色美极了像一盆微缩盆景，去时大雾，三清山笼罩在雾中朦朦胧胧，只能看近处有点遗憾。
+2018-10-08 10:20:41,849 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6812899381
+2018-10-08 10:20:41,867 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:41,900 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-03-18
+2018-10-08 10:20:42,434 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(38)
+2018-10-08 10:20:42,534 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:42,563 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 非常不错的预定体验
+2018-10-08 10:20:42,590 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: AlbernLee
+2018-10-08 10:20:42,608 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:42,634 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-03-07
+2018-10-08 10:20:43,200 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(39)
+2018-10-08 10:20:43,252 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:43,293 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 网上一分不便宜，现场还可以刷卡有积分了，而且还要排队，何必买呢彻彻底底我
+2018-10-08 10:20:43,341 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: liblab
+2018-10-08 10:20:43,360 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:20:43,392 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-02-18
+2018-10-08 10:20:43,941 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(40)
+2018-10-08 10:20:44,039 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:44,074 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 与景区购买一个价没有优惠
+2018-10-08 10:20:44,107 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 阳阳小歪
+2018-10-08 10:20:44,126 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:44,157 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-02-05
+2018-10-08 10:20:44,701 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(41)
+2018-10-08 10:20:44,803 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:44,829 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票很方便，风景还不错，管理比黄山差。
+2018-10-08 10:20:44,856 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8012716576
+2018-10-08 10:20:44,874 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:44,902 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-02-04
+2018-10-08 10:20:46,021 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(42)
+2018-10-08 10:20:46,135 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:46,182 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 没有享受到任何优惠，要不是急着买票肯定不会再来了！
+2018-10-08 10:20:46,215 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8103709181
+2018-10-08 10:20:46,234 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:20:46,260 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-02-03
+2018-10-08 10:20:46,814 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(43)
+2018-10-08 10:20:46,906 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:46,941 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票方便，出示身份证即可
+2018-10-08 10:20:46,980 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6811887358
+2018-10-08 10:20:47,001 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:47,032 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-02-02
+2018-10-08 10:20:47,598 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(44)
+2018-10-08 10:20:47,691 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:47,729 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 三清山有步道，老年人也可以登山。
+2018-10-08 10:20:47,763 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6827357362
+2018-10-08 10:20:47,784 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:47,829 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-01-31
+2018-10-08 10:20:48,383 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(45)
+2018-10-08 10:20:48,569 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:48,630 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 淡季价格实际230，涂牛没优惠哟！
+2018-10-08 10:20:48,663 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8076011116
+2018-10-08 10:20:48,684 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:48,714 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-01-22
+2018-10-08 10:20:49,253 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(46)
+2018-10-08 10:20:49,348 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:49,382 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票很方便，上山就看到一团白雾其它什么都没看到
+2018-10-08 10:20:49,409 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 天才钓手
+2018-10-08 10:20:49,426 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:49,453 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-01-13
+2018-10-08 10:20:50,033 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(47)
+2018-10-08 10:20:50,122 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:50,155 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 三清山风景名胜区真美，途牛旅行网订票很方便，四公里的栈道太漂亮了，现在腿还疼
+2018-10-08 10:20:50,185 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: chenqb
+2018-10-08 10:20:50,205 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:50,234 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2017-01-12
+2018-10-08 10:20:50,804 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(48)
+2018-10-08 10:20:50,925 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:50,954 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 就是方便，没有优惠。
+2018-10-08 10:20:50,984 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: qijue435
+2018-10-08 10:20:51,003 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:51,037 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-12-22
+2018-10-08 10:20:51,570 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(49)
+2018-10-08 10:20:51,673 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:51,712 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 满意，快捷方便，就是下山时候坐缆车排了好久好久的队伍，我都排崩溃了
+2018-10-08 10:20:51,750 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 刘楚琪1989
+2018-10-08 10:20:51,774 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:51,815 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-11-24
+2018-10-08 10:20:52,379 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(50)
+2018-10-08 10:20:52,548 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:52,587 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 换票很方便的，山很大，风景很好，看到了云海，就是爬山真的超辛苦，可惜妈妈实在走不动了，没有去一线天看一看，下次有机会还会再去的。山里的自然环境真的超好啊。工作人员也都很好的
+2018-10-08 10:20:52,626 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: jixiya
+2018-10-08 10:20:52,650 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:52,702 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-11-22
+2018-10-08 10:20:53,267 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(51)
+2018-10-08 10:20:53,331 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:53,358 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票便捷，风景漂亮，值得多次游玩的金牌景点。
+2018-10-08 10:20:53,388 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8052780775
+2018-10-08 10:20:53,406 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:53,437 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-11-21
+2018-10-08 10:20:53,977 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(52)
+2018-10-08 10:20:54,169 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:54,254 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 因为下雨天，几乎没怎么玩
+2018-10-08 10:20:54,348 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6816123527
+2018-10-08 10:20:54,416 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:54,512 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-24
+2018-10-08 10:20:55,055 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(53)
+2018-10-08 10:20:55,109 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:55,135 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 来过几次了，云山雾照，风景秀美无比，如入仙境
+2018-10-08 10:20:55,162 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8025089202
+2018-10-08 10:20:55,180 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:55,207 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-24
+2018-10-08 10:20:55,767 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(54)
+2018-10-08 10:20:55,872 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:55,914 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 景色秀丽，只可惜天公不作美，错过了很多美景！
+2018-10-08 10:20:55,956 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8021509680
+2018-10-08 10:20:55,984 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:56,030 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-21
+2018-10-08 10:20:56,599 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(55)
+2018-10-08 10:20:56,658 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:56,687 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票很方便，十一期间预订并没有优惠
+2018-10-08 10:20:56,717 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8092817021
+2018-10-08 10:20:56,737 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:56,767 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-10
+2018-10-08 10:20:57,318 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(56)
+2018-10-08 10:20:57,384 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:57,411 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 优惠太少了，取票速度很快，也没怎么排队，总体不错
+2018-10-08 10:20:57,447 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8092638763
+2018-10-08 10:20:57,475 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:20:57,503 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-09
+2018-10-08 10:20:58,210 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(57)
+2018-10-08 10:20:58,337 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:58,372 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票很方便 省了很多排队购票的时间 景色很美 遗憾的是 雾有点多 果然得去三次才能看清山
+2018-10-08 10:20:58,402 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6822901213
+2018-10-08 10:20:58,420 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:58,448 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-09
+2018-10-08 10:20:59,005 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(58)
+2018-10-08 10:20:59,097 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:59,125 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 刚收到就激动激动激动激动
+2018-10-08 10:20:59,153 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8007550716
+2018-10-08 10:20:59,171 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:20:59,202 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-09
+2018-10-08 10:20:59,792 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(59)
+2018-10-08 10:20:59,864 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:20:59,896 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 网上买票，取票不用排长队，比较方便。
+2018-10-08 10:20:59,931 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8085836868
+2018-10-08 10:20:59,965 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:21:00,004 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-07
+2018-10-08 10:21:00,596 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(60)
+2018-10-08 10:21:00,696 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:00,724 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 不错，订票速度快，及时，下次还找途牛。
+2018-10-08 10:21:00,750 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8082382571
+2018-10-08 10:21:00,768 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:00,795 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-06
+2018-10-08 10:21:01,416 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(61)
+2018-10-08 10:21:01,479 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:01,512 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 自己打印取票很快，很放便。以后就是途牛了。
+2018-10-08 10:21:01,543 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: WQC44
+2018-10-08 10:21:01,563 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:01,595 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-06
+2018-10-08 10:21:02,176 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(62)
+2018-10-08 10:21:02,262 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:02,288 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票很方便，比较满意！
+2018-10-08 10:21:02,315 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: kelly白手绢
+2018-10-08 10:21:02,349 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:02,377 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-06
+2018-10-08 10:21:02,925 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(63)
+2018-10-08 10:21:03,015 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:03,043 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 还可以啦，就是有点累，一天时候好像不够啊
+2018-10-08 10:21:03,072 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8063801862
+2018-10-08 10:21:03,092 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:21:03,124 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-05
+2018-10-08 10:21:03,689 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(64)
+2018-10-08 10:21:03,811 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:03,854 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 买票取票都很方便，如果能优惠点就更好。
+2018-10-08 10:21:03,900 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8092651516
+2018-10-08 10:21:03,929 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:21:03,961 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-05
+2018-10-08 10:21:04,542 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(65)
+2018-10-08 10:21:04,648 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:04,676 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票方便，价格便宜，太好了
+2018-10-08 10:21:04,705 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6822188983
+2018-10-08 10:21:04,724 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:04,753 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-04
+2018-10-08 10:21:05,298 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(66)
+2018-10-08 10:21:05,403 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:05,446 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票方便，价格便宜，太好了
+2018-10-08 10:21:05,483 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6822188983
+2018-10-08 10:21:05,507 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:05,541 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-04
+2018-10-08 10:21:06,476 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(67)
+2018-10-08 10:21:06,562 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:06,588 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票方便，价格便宜，太好了
+2018-10-08 10:21:06,616 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6822188983
+2018-10-08 10:21:06,635 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:06,662 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-04
+2018-10-08 10:21:07,588 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(68)
+2018-10-08 10:21:07,675 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:07,722 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 非常方便刷身份证取票，景色迷人优美
+2018-10-08 10:21:07,762 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8000693587
+2018-10-08 10:21:07,793 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:07,824 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-10-04
+2018-10-08 10:21:08,349 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(69)
+2018-10-08 10:21:08,464 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:08,491 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 下雨游览能见度较低，但相对游客比较少，傍晚有瞬间雨停，景色超好，作为锻炼健身是不错的选择。
+2018-10-08 10:21:08,518 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: sxzhou
+2018-10-08 10:21:08,536 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:08,562 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-09-17
+2018-10-08 10:21:09,120 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(70)
+2018-10-08 10:21:09,211 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:09,237 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 三清山很值得玩，景色宜人，风景秀美
+2018-10-08 10:21:09,264 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: ceekaysu
+2018-10-08 10:21:09,283 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:09,315 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-09-10
+2018-10-08 10:21:09,887 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(71)
+2018-10-08 10:21:09,976 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:10,010 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 60分，取票太麻烦，还要和现场买票的人一起排很长的队，没一点网上购票的便利！还不如直接网上买票！
+2018-10-08 10:21:10,042 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8088032597
+2018-10-08 10:21:10,063 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 0.0
+2018-10-08 10:21:10,108 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-09-05
+2018-10-08 10:21:10,656 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(72)
+2018-10-08 10:21:10,746 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:10,772 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 方便自助取票，凭身份证在机器上打印
+2018-10-08 10:21:10,800 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: cyt991026
+2018-10-08 10:21:10,825 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:10,855 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-08-25
+2018-10-08 10:21:11,477 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(73)
+2018-10-08 10:21:11,577 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:11,615 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 还是不错的，就是山很大，一天玩不过来
+2018-10-08 10:21:11,658 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8082192570
+2018-10-08 10:21:11,682 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:11,715 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-08-24
+2018-10-08 10:21:12,332 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(74)
+2018-10-08 10:21:12,531 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:12,588 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 很便捷，还不错！满意！
+2018-10-08 10:21:12,640 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6816296027
+2018-10-08 10:21:12,665 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:12,700 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-08-24
+2018-10-08 10:21:13,240 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(75)
+2018-10-08 10:21:13,326 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:13,354 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 感觉中华的大好河山真的壮观伟岸！
+2018-10-08 10:21:13,382 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 8088558923
+2018-10-08 10:21:13,403 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:13,431 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2016-08-23
+2018-10-08 10:21:13,986 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(76)
+2018-10-08 10:21:14,081 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:14,112 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 网络订票和取票都非常方便，风景还是不错的。值得一去
+2018-10-08 10:21:14,144 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: verawang2000
+2018-10-08 10:21:14,169 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:14,203 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-10-11
+2018-10-08 10:21:14,763 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(77)
+2018-10-08 10:21:14,828 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:14,859 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 非常好，取票也方便，刷身份证就行，排队的人比窗口少，价格也比窗口便宜
+2018-10-08 10:21:14,891 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 蕓小喵
+2018-10-08 10:21:14,912 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:14,942 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-10-08
+2018-10-08 10:21:15,525 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(78)
+2018-10-08 10:21:15,597 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:15,624 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 事先对三清山不熟，所以住在东部门却订了南部的索道，不过庆幸路途也很近，索道排号也很给力。最主要三清山的美景惊艳到我，不虚此行了...
+2018-10-08 10:21:15,651 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6827836589
+2018-10-08 10:21:15,670 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:15,699 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-10-08
+2018-10-08 10:21:16,285 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(79)
+2018-10-08 10:21:16,518 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:16,617 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票方便 买票也方便 里面好大 玩的很累 总体感觉不错
+2018-10-08 10:21:16,710 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6818305632
+2018-10-08 10:21:16,747 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:21:16,780 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-10-07
+2018-10-08 10:21:17,305 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(80)
+2018-10-08 10:21:17,394 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:17,443 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 购票很方便，去景点取票也很快捷，最好票价能打点折！
+2018-10-08 10:21:17,479 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 真缘梦禅
+2018-10-08 10:21:17,503 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:21:17,535 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-08-11
+2018-10-08 10:21:18,093 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(81)
+2018-10-08 10:21:18,191 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:18,218 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 搜寻各大网站都没有优惠，与门市价一样，只有途牛最棒，订票便捷，取票也方便。
+2018-10-08 10:21:18,245 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6823538671
+2018-10-08 10:21:18,263 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:18,291 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-07-22
+2018-10-08 10:21:18,829 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(82)
+2018-10-08 10:21:18,968 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:19,021 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 方便！优惠！南部索道人不多，不用使劲排队。一上去就到了天门山庄，再去西海岸栈道，风景美！
+2018-10-08 10:21:19,054 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6833581636
+2018-10-08 10:21:19,076 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:19,108 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-07-21
+2018-10-08 10:21:19,649 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(83)
+2018-10-08 10:21:19,743 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:19,771 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 很累，但是风景佳，不比黄山差，就是景区面积没有黄山大，门票和索道价格高
+2018-10-08 10:21:19,800 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6812270518
+2018-10-08 10:21:19,818 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:19,846 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-07-18
+2018-10-08 10:21:20,443 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(84)
+2018-10-08 10:21:20,546 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:20,579 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 不知道票能用两次 多买了 就只能再看看了 不过感谢途牛的产品 购物与使用很方便
+2018-10-08 10:21:20,611 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 鼠Oo
+2018-10-08 10:21:20,628 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:20,661 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-07-12
+2018-10-08 10:21:21,217 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(85)
+2018-10-08 10:21:21,319 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:21,360 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 很不错，虽然价格没有便宜很多，但是取票方便了，不需排队。第一次使用，好的很
+2018-10-08 10:21:21,401 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 一仙人
+2018-10-08 10:21:21,422 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:21,453 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-07-04
+2018-10-08 10:21:21,960 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(86)
+2018-10-08 10:21:22,105 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:22,179 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 还是非常方便的，孩子很兴奋，感觉很不错，而且省去很多人排队的麻烦
+2018-10-08 10:21:22,216 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6823076788
+2018-10-08 10:21:22,234 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:22,264 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-05-08
+2018-10-08 10:21:22,815 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(87)
+2018-10-08 10:21:22,904 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:22,935 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 风景不错。就是太累了。重中之重重中之重重中之重重中之重重中之重
+2018-10-08 10:21:22,967 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6827900576
+2018-10-08 10:21:22,989 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 2.5
+2018-10-08 10:21:23,026 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-05-05
+2018-10-08 10:21:23,575 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(88)
+2018-10-08 10:21:23,642 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:23,671 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 取票方便，比其他网站售价便宜！！！！！！
+2018-10-08 10:21:23,701 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: verason
+2018-10-08 10:21:23,721 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:23,750 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-04-27
+2018-10-08 10:21:24,405 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(89)
+2018-10-08 10:21:24,488 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:24,519 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 不错的！！！！！！！！！！！！！！！！！！！！三清山！靠谱，为毛20个字！！！
+2018-10-08 10:21:24,551 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6827053008
+2018-10-08 10:21:24,587 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:24,619 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-04-21
+2018-10-08 10:21:25,186 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(90)
+2018-10-08 10:21:25,263 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:25,292 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 首次在途牛网预定了今年清明节三清山的门票（包括外双溪索道的联票）因为是提前一天下午6点多订的，其他几个网站都已经不能订第二天的票了，而在途牛却能够订第二天的票，而且订票、取票非常方便！赞一个！
+2018-10-08 10:21:25,323 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6827065807
+2018-10-08 10:21:25,341 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:25,370 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-04-07
+2018-10-08 10:21:25,970 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(91)
+2018-10-08 10:21:26,047 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] shop_name: 上饶三清山
+2018-10-08 10:21:26,075 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_content: 很好，取票非常顺利，景点很美，比景区购票便宜
+2018-10-08 10:21:26,103 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_user_name: 6826857098
+2018-10-08 10:21:26,122 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_grade: 5.0
+2018-10-08 10:21:26,150 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2193] comment_time: 2015-04-03
+2018-10-08 10:21:26,701 - spider.driver.base.logger - INFO - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2186] : item_css_selector:#detail-placeholder > div.main > div.tabs-box > div.tab-container > div:nth-child(3) > div > ul > li:nth-child(92)
+2018-10-08 10:21:36,738 - spider.driver.base.logger - WARNING - TuniuMobileSpotSpider.get_comment_info_list.[86] - driver.from_page_get_data_list.[2190] : 经过不停地移动， 移动端页面没有更多了!!!

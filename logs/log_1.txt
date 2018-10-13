@@ -1,0 +1,205 @@
+2018-07-21 21:24:16,737 - spider.driver.base.logger - INFO - Start print log
+2018-07-21 21:24:16,737 - spider.driver.base.logger - DEBUG - load images is false
+2018-07-21 21:24:18,473 - spider.driver.base.logger - DEBUG - 携程-千岛湖-景点
+2018-07-21 21:24:22,859 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[187] - driver.fast_new_page.[2312] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-07-21 21:24:29,998 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1495] : 当前翻到第1页...
+2018-07-21 21:24:30,033 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 携程景点店铺列表页面
+2018-07-21 21:24:30,228 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖洲际度假酒店户外运动基地
+2018-07-21 21:24:30,331 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t2498043.html
+2018-07-21 21:24:30,869 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:24:30,937 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t144629.html
+2018-07-21 21:24:33,247 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:24:33,368 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t135830.html
+2018-07-21 21:24:35,616 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖中心湖区
+2018-07-21 21:24:35,671 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t143589.html
+2018-07-21 21:24:35,910 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 建德千岛湖直升机低空游览
+2018-07-21 21:24:35,963 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t4332387.html
+2018-07-21 21:24:36,212 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖森林氧吧
+2018-07-21 21:24:36,265 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t52366.html
+2018-07-21 21:24:36,571 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 九龙溪漂流
+2018-07-21 21:24:36,636 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t79942.html
+2018-07-21 21:24:36,908 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖龙门峡谷漂流
+2018-07-21 21:24:36,969 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t135767.html
+2018-07-21 21:24:37,235 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖东南湖区景区
+2018-07-21 21:24:37,290 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t135833.html
+2018-07-21 21:24:37,562 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 《水之灵》水舞台演出
+2018-07-21 21:24:37,618 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_url: http://piao.ctrip.com/ticket/dest/t141756.html
+2018-07-21 21:24:48,174 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] 携程景点店铺列表页面: Traceback (most recent call last):
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 2101, in from_page_get_data_list
+    item = self.until_presence_of_element_located_by_css_selector(ele=each,css_selector=page.listcssselector.item_css_selector)
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 693, in until_presence_of_element_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/ckq/anaconda3/envs/en1/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+item出错!!!
+2018-07-21 21:24:48,177 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] item_css_selector: #searchResultContainer > div:nth-child(1) > div
+2018-07-21 21:24:50,020 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 经过1次点击和0次关闭标签页,成功加载页面!!!
+2018-07-21 21:24:57,468 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_price: 99.0
+2018-07-21 21:24:57,609 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : Traceback (most recent call last):
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 1845, in get_str_field_by_css_selector
+    _str = field.filter_func(self, _str)
+  File "/home/ckq/桌面/dspider-master/spider/driver/travel/xiechengspotspider.py", line 49, in get_shop_ticket
+    info_dict = {'名称': info_list[0], '参考门市价': info_list[1], '价格': info_list[2]}
+IndexError: list index out of range
+
+字符串字段过滤函数出错!!!
+2018-07-21 21:24:57,702 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 数据库评论最新时间:
+2018-07-21 21:24:57,703 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 当前翻到第1页...
+2018-07-21 21:24:57,715 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-21 21:24:57,716 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 携程景点评论列表
+2018-07-21 21:24:57,781 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M13228****
+2018-07-21 21:24:57,802 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-06-22 22:42
+2018-07-21 21:24:57,823 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖洲际度假酒店户外运动基地
+2018-07-21 21:24:57,950 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M56707****
+2018-07-21 21:24:57,973 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-05-17 09:33
+2018-07-21 21:24:57,995 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖洲际度假酒店户外运动基地
+2018-07-21 21:24:58,120 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M253508****
+2018-07-21 21:24:58,142 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-04-21 07:41
+2018-07-21 21:24:58,164 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖洲际度假酒店户外运动基地
+2018-07-21 21:25:01,405 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 
+Message: 
+
+没有下一页了!!!
+2018-07-21 21:25:01,472 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] item_css_selector: #searchResultContainer > div:nth-child(2) > div
+2018-07-21 21:25:03,209 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 经过1次点击和0次关闭标签页,成功加载页面!!!
+2018-07-21 21:25:11,473 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_price: 198.0
+2018-07-21 21:25:13,759 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 数据库评论最新时间:
+2018-07-21 21:25:13,760 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 当前翻到第1页...
+2018-07-21 21:25:13,770 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-21 21:25:13,772 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 携程景点评论列表
+2018-07-21 21:25:13,834 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 1850208****
+2018-07-21 21:25:13,857 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2016-01-03 16:02
+2018-07-21 21:25:13,877 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:25:14,002 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 1861263****
+2018-07-21 21:25:14,024 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2015-04-21 16:41
+2018-07-21 21:25:14,047 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:25:14,180 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 1392165****
+2018-07-21 21:25:14,201 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2014-10-05 15:07
+2018-07-21 21:25:14,223 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:25:14,343 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: _CFT010000000106****
+2018-07-21 21:25:14,365 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2014-08-27 11:25
+2018-07-21 21:25:14,388 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:25:14,603 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: _CFT010000000400****
+2018-07-21 21:25:14,625 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2014-08-19 15:25
+2018-07-21 21:25:14,648 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:25:14,775 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: JSYF_JP_KFCS_0****
+2018-07-21 21:25:14,798 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2013-09-29 00:00
+2018-07-21 21:25:14,820 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:25:14,948 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: JSYF_JP_KFCS_5****
+2018-07-21 21:25:14,971 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2012-02-26 00:00
+2018-07-21 21:25:14,993 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖魔幻3D馆
+2018-07-21 21:25:18,196 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 
+Message: 
+
+没有下一页了!!!
+2018-07-21 21:25:18,255 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] item_css_selector: #searchResultContainer > div:nth-child(3) > div
+2018-07-21 21:25:20,056 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 经过1次点击和0次关闭标签页,成功加载页面!!!
+2018-07-21 21:25:28,345 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_price: 68.0
+2018-07-21 21:25:30,628 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 数据库评论最新时间:
+2018-07-21 21:25:30,629 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 当前翻到第1页...
+2018-07-21 21:25:30,642 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-21 21:25:30,643 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 携程景点评论列表
+2018-07-21 21:25:30,710 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: limi****
+2018-07-21 21:25:30,733 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-06-10 17:20
+2018-07-21 21:25:30,753 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:30,881 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 288296****
+2018-07-21 21:25:30,903 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-06-08 07:56
+2018-07-21 21:25:30,925 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:31,064 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 201069****
+2018-07-21 21:25:31,087 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-05-30 11:28
+2018-07-21 21:25:31,109 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:31,244 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: e0422****
+2018-07-21 21:25:31,270 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-04-05 13:13
+2018-07-21 21:25:31,293 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:31,437 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 206035****
+2018-07-21 21:25:31,462 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2018-01-05 23:15
+2018-07-21 21:25:31,485 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:31,644 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 102777****
+2018-07-21 21:25:31,673 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-12-12 15:39
+2018-07-21 21:25:31,696 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:31,823 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: _WeChat45400****
+2018-07-21 21:25:31,846 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-10-18 09:40
+2018-07-21 21:25:31,868 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:31,987 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M60549****
+2018-07-21 21:25:32,011 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-10-07 07:30
+2018-07-21 21:25:32,031 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:32,163 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M221143****
+2018-07-21 21:25:32,185 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-08-21 11:56
+2018-07-21 21:25:32,206 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:32,347 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M9781****
+2018-07-21 21:25:32,373 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-07-18 10:09
+2018-07-21 21:25:32,396 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:38,614 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] 点击下一页: 暂停2秒...
+2018-07-21 21:25:40,618 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 当前翻到第2页...
+2018-07-21 21:25:40,633 - spider.driver.base.logger - DEBUG - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-21 21:25:40,635 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 携程景点评论列表
+2018-07-21 21:25:40,670 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: _WeChat9751****
+2018-07-21 21:25:40,693 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-06-19 22:51
+2018-07-21 21:25:40,719 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:40,925 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: stud****
+2018-07-21 21:25:40,955 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-05-30 09:05
+2018-07-21 21:25:40,985 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:41,075 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M45518****
+2018-07-21 21:25:41,100 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-05-01 10:02
+2018-07-21 21:25:41,124 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:41,211 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M45518****
+2018-07-21 21:25:41,235 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-05-01 09:58
+2018-07-21 21:25:41,260 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:41,341 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M58928****
+2018-07-21 21:25:41,366 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-04-05 15:35
+2018-07-21 21:25:41,391 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:41,477 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 101001****
+2018-07-21 21:25:41,500 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-03-21 17:25
+2018-07-21 21:25:41,521 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:41,596 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: 102777****
+2018-07-21 21:25:41,619 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2017-01-09 16:27
+2018-07-21 21:25:41,643 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:41,717 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M43175****
+2018-07-21 21:25:41,739 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2016-11-22 14:42
+2018-07-21 21:25:41,762 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:41,842 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M43175****
+2018-07-21 21:25:41,898 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2016-11-21 14:12
+2018-07-21 21:25:41,923 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:42,000 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_user_name: M11766****
+2018-07-21 21:25:42,024 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] comment_time: 2016-11-09 20:09
+2018-07-21 21:25:42,045 - spider.driver.base.logger - INFO - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] shop_name: 千岛湖好运岛
+2018-07-21 21:25:42,145 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : 
+Message: no such window: window was already closed
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.13.0-45-generic x86_64)
+
+没有下一页了!!!
+2018-07-21 21:25:42,152 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1498] : Traceback (most recent call last):
+  File "/home/ckq/桌面/dspider-master/spider/driver/travel/xiechengspotspider.py", line 181, in get_shop_info
+    self.from_page_add_data_to_data_list(page=page_shop_2, pre_page=page_shop_1, data_list=shop_data_list, pre_pagefunc = PageFunc(func=self.shop_detail_page_unfold), extra_pagefunc = extra_pagefunc)
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 2192, in from_page_add_data_to_data_list
+    self.close_curr_page()
+  File "/home/ckq/桌面/dspider-master/spider/driver/base/driver.py", line 1584, in close_curr_page
+    self.driver.close()
+  File "/home/ckq/anaconda3/envs/en1/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 681, in close
+    self.execute(Command.CLOSE)
+  File "/home/ckq/anaconda3/envs/en1/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 314, in execute
+    self.error_handler.check_response(response)
+  File "/home/ckq/anaconda3/envs/en1/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.13.0-45-generic x86_64)
+
+
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.13.0-45-generic x86_64)
+
+2018-07-21 21:25:42,164 - spider.driver.base.logger - ERROR - xiechengspotspider.get_shop_info_list.[192] - driver.until_click_no_next_page_by_css_selector.[1527] : 
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=67.0.3396.99)
+  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.13.0-45-generic x86_64)
+
+没有下一页了!!!

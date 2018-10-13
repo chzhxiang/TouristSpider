@@ -1,0 +1,908 @@
+2018-07-03 21:23:33,837 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 携程在景点换票还是很方便的，就是这个森林氧吧，如果喜欢爬山的还可以，山上还有滑草满刺激的，其他就一般般。旁边就是王子谷漂流。
+2018-07-03 21:23:34,350 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:23:34,822 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: m3018****
+2018-07-03 21:23:35,115 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-26 11:36
+2018-07-03 21:23:35,362 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:35,711 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 比较好的环境，就是平时不锻炼，爬山比较吃力。
+2018-07-03 21:23:36,243 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:23:36,887 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _ceair50123****
+2018-07-03 21:23:37,166 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-25 19:42
+2018-07-03 21:23:37,405 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:37,696 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 树林茂密，流水潺潺。水质清澈，空气一流，还有孩子喜欢的滑草，不过是人造草。不足的是携程网上不能预订儿童票，现场买的儿童票说是打对折其实比网上订的成人票还贵。
+2018-07-03 21:23:38,089 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:23:38,547 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1360165****
+2018-07-03 21:23:38,829 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-24 12:58
+2018-07-03 21:23:39,163 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:39,488 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 自由行的，距离市区有点路程。到那里完全跟名称有相当大的区别，空气并不好，爬到最高点也没有空气清新感觉。而且山路有些陡，平时不运动的可能会受不了。很多游客到一般就走下坡路了。
+2018-07-03 21:23:39,922 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:23:40,340 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 205505****
+2018-07-03 21:23:40,567 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-23 21:34
+2018-07-03 21:23:40,817 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:41,098 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 总体感觉很好，山清水秀，冰镇西瓜特别爽。其实门口是可以买学生票的，网上没有注明。
+2018-07-03 21:23:41,440 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:23:52,116 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第222页...
+2018-07-03 21:23:52,291 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:23:52,510 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:23:53,097 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: bo****
+2018-07-03 21:23:53,433 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-23 16:01
+2018-07-03 21:23:53,680 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:53,997 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 环境不错，空气新鲜，推荐。就是我这种平时不锻炼的人，爬山爬的有点累。中途没有其他娱乐项目，只有一个滑草，比较无聊。
+2018-07-03 21:23:54,433 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:23:54,857 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _CFT010000000160****
+2018-07-03 21:23:55,095 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-23 08:07
+2018-07-03 21:23:55,330 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:55,678 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 身为千岛湖人、我表示喜欢看大家评论、感觉好好玩
+2018-07-03 21:23:56,192 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:23:56,568 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0469****
+2018-07-03 21:23:56,797 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-22 19:45
+2018-07-03 21:23:57,032 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:57,440 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 另外门票居然要自己打印纸件行程单，太麻烦了，收到短信后跑到商务中心打印的，幸好带来便携机
+2018-07-03 21:23:58,151 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:23:58,567 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 0736****
+2018-07-03 21:23:58,918 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-20 12:42
+2018-07-03 21:23:59,282 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:23:59,698 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 2小时的行程刚刚好，锻炼一下腿脚，只是气温太高了，山上水太少了，少了些许灵气。
+2018-07-03 21:24:00,278 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:00,730 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 266813****
+2018-07-03 21:24:01,129 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-20 06:50
+2018-07-03 21:24:01,537 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:01,898 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 可能是天气的原因，水已干，山上没有一点水。实在不如临安的神龙川，宁海的野鹤湫。不过，就当一次爬山吧，也不错，山上无须撑伞。
+2018-07-03 21:24:02,230 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:24:02,778 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 205891****
+2018-07-03 21:24:03,559 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-19 22:07
+2018-07-03 21:24:03,925 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:04,266 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 订票和拿票速度很快！服务态度懂很好的。整体满意！
+2018-07-03 21:24:04,538 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:04,940 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: mn****
+2018-07-03 21:24:05,226 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-17 11:08
+2018-07-03 21:24:05,466 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:05,742 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 如果自驾的话，路还是挺好走的，半小时左右，路况也不错，门口有停车。景区自然环境不错，可惜现在是枯水期，加之天太热，感觉就差了，负离子感觉基本没有。
+2018-07-03 21:24:06,040 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:24:06,392 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1330191****
+2018-07-03 21:24:06,675 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-15 13:49
+2018-07-03 21:24:07,019 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:07,381 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 在携程订门票又方便又便宜，由于天气炎热，山里小沟里一点水都没有，但要爬到山顶也是需要勇气的！
+2018-07-03 21:24:07,706 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:24:08,185 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1377789****
+2018-07-03 21:24:09,197 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-15 08:27
+2018-07-03 21:24:09,513 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:09,805 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山不高，不过天气炎热，爬上去还是有点累的。没水。总体感觉一般。
+2018-07-03 21:24:10,090 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:24:10,490 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 206023****
+2018-07-03 21:24:10,714 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-14 22:59
+2018-07-03 21:24:10,931 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:11,212 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 从千岛湖镇上打的去，司机不太愿意开这趟，因为那里人很少，赚不了钱← ←磨一磨也就开了，54元。我们算是那天第一批到的，早上7点半，全程只在半山碰到一个在练声的大爷…2个小时能走完，山上还算干净，人少，清净，只有快到山顶的时候才晒到一点点太阳，这种地方最喜欢了！路上有看到青蛙、蚂蚱，蝴蝶最多。有3处有秋千。这趟去碰上那里一个半月没下雨，所以溪水挺小的，但很清澈很凉爽。出入口小卖部人家养了4条狗3只猫＞＜正好可以赶上附近的王子谷漂流上午那一漂，就让老板送了，到漂流+送回酒店70元。(其实可以让森林氧吧的检票小哥帮忙叫出租车。 总之是个很不错的地方~
+2018-07-03 21:24:11,699 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:22,280 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第223页...
+2018-07-03 21:24:22,478 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:24:22,702 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:24:23,056 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: zz1360179****
+2018-07-03 21:24:23,384 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-13 13:53
+2018-07-03 21:24:23,631 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:23,910 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 依山傍水，感觉挺不错的一个地方。在炎炎夏日中休闲的好去处。边上就是国家水上运动中心，国字头的。哈哈
+2018-07-03 21:24:24,448 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:24:25,004 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0970****
+2018-07-03 21:24:25,308 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-13 09:42
+2018-07-03 21:24:25,525 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:25,873 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 也许是天气气温实在太高的缘故，感觉森林氧吧没有广告介绍的效果，溪水都干涸了，少了一点山的灵气。
+2018-07-03 21:24:26,291 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:24:26,697 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 0606****
+2018-07-03 21:24:26,918 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-12 17:58
+2018-07-03 21:24:27,357 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:27,831 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景区环境很好，就是楼梯太陡峭，小孩子不适合
+2018-07-03 21:24:28,218 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:28,628 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 233727****
+2018-07-03 21:24:28,867 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-11 09:44
+2018-07-03 21:24:29,242 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:29,810 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 下午到的天气很热，而且山上的水基本干枯，景色非常一般，和宣传上有差距
+2018-07-03 21:24:30,204 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:24:30,552 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _CFT010000000137****
+2018-07-03 21:24:30,799 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-09 20:55
+2018-07-03 21:24:31,070 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:31,434 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 携程工作人员服务不错，但景区比较失望，可能是季节关系吧。
+2018-07-03 21:24:31,737 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:32,078 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e2217****
+2018-07-03 21:24:32,310 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-09 12:42
+2018-07-03 21:24:32,536 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:32,879 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 携程订票还是很方便的，凭确认单在景点售票处登记就可以进入了。 森林氧吧整个行程我们用了50分钟，边爬山边看水，又能远离喧闹的城市，呼吸新鲜空气。推荐！
+2018-07-03 21:24:33,240 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:33,649 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1366153****
+2018-07-03 21:24:33,876 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-06 08:38
+2018-07-03 21:24:34,101 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:34,427 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 很开心,天气比较热,但是进了氧吧,稍微凉爽了些,总体不错.
+2018-07-03 21:24:35,603 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:36,112 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 320378****
+2018-07-03 21:24:36,366 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-05 08:56
+2018-07-03 21:24:36,615 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:36,968 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 携程服务很好，景区风景只是一般般，其实就是一座山上整理出一条小路，能经常爬山或周边能见到山的人就不需要再去了。另外，这地方交通不方便。
+2018-07-03 21:24:37,246 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:24:37,593 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1352453****
+2018-07-03 21:24:37,819 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-08-03 13:00
+2018-07-03 21:24:37,972 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:38,173 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山上的树真多啊，虽然长得参差不齐，让人觉得有点乱，但也正因为如此，才更让人感受到大自然的真实。
+2018-07-03 21:24:38,349 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:38,579 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 203807****
+2018-07-03 21:24:38,809 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-31 21:34
+2018-07-03 21:24:39,048 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:39,420 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 环境不错！基本上是爬山，有些山路比较陡，腿脚不好的别来。
+2018-07-03 21:24:39,756 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:24:50,505 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第224页...
+2018-07-03 21:24:50,983 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:24:51,408 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:24:51,762 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1367586****
+2018-07-03 21:24:52,003 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-31 11:30
+2018-07-03 21:24:52,226 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:52,569 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山上还算凉快，溪水有些地方挺脏的，带着孩子去有点累，全程抱着。
+2018-07-03 21:24:52,921 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:24:53,426 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: jiweiwe****
+2018-07-03 21:24:53,733 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-31 09:01
+2018-07-03 21:24:54,303 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:54,741 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 方便快捷。景区里面大概2个小时就可以搞定。所以从杭州出发的童鞋们可以早上选择去这个景点，然后直接去吃中饭。
+2018-07-03 21:24:55,128 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:55,517 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: jiweiwe****
+2018-07-03 21:24:55,778 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-31 09:00
+2018-07-03 21:24:56,065 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:56,463 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 不错，很方便，到了景区门口出示打印好的行程单就好了。公园里面还是满凉快的。
+2018-07-03 21:24:56,901 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:24:57,329 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E3307****
+2018-07-03 21:24:57,588 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-30 14:51
+2018-07-03 21:24:58,028 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:24:58,353 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 走进就闻到一股淡淡的天然香味，凉网习习，很好！就是没有到达山顶上，下来的路上没有什么景色！
+2018-07-03 21:24:58,722 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:24:59,122 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0853****
+2018-07-03 21:24:59,380 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-30 13:55
+2018-07-03 21:24:59,655 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:00,069 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 一进景区，工作人员就对我们说：“不用撑伞。”试想在这将近四十度的天气居然不撑伞这不是扯谈么！这么信誓旦旦的话鬼才相信。可走了不到五分钟的路程，发觉自己身临在一片绿林中，所有的枝丫遮掩了天际，小溪流水之处更是带来一份清凉。买了一个冰在湖水里的西瓜一尝，暑热消散~
+2018-07-03 21:25:00,484 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:00,885 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: m3157****
+2018-07-03 21:25:01,140 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-29 21:26
+2018-07-03 21:25:01,815 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:02,172 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 在携程网定好的票不但价格便宜使用非常方便，免去了排队买票检票的时间，非常满意
+2018-07-03 21:25:02,586 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:02,981 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 210375****
+2018-07-03 21:25:03,260 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-29 20:47
+2018-07-03 21:25:03,604 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:03,946 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 在炎炎夏日，森林里很凉爽，冰凉的溪水，清澈，经过一天的奔波，很适合小憩的地方
+2018-07-03 21:25:04,342 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:25:04,680 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e1603****
+2018-07-03 21:25:04,938 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-29 17:18
+2018-07-03 21:25:05,203 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:05,476 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气很好，就是水太少。环境也不错。就是人为造成的垃圾很多。
+2018-07-03 21:25:05,773 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:06,123 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1891406****
+2018-07-03 21:25:06,641 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-29 14:12
+2018-07-03 21:25:06,927 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:07,196 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 我们到达氧吧的时候比较晚了，人不算多，以为山蛮高的，就奋力爬，所以有点累，其实完全可以慢慢的爬，最多也就两个小时就可以兜一圈了。山间的泉水蛮清澈凉爽的。小朋友最开心就是滑草了。
+2018-07-03 21:25:07,490 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:07,832 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 200020****
+2018-07-03 21:25:08,100 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-29 12:23
+2018-07-03 21:25:08,342 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:08,618 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 挺不错的，值得推荐，里面有小溪，可以玩水，也不热，就是大热天爬山比较累，尤其还带着孩子，不过还可以，我们爬到小木屋就没上去了，然后原路返回。
+2018-07-03 21:25:08,908 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:19,481 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第225页...
+2018-07-03 21:25:19,677 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:25:19,949 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:25:20,588 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 266065****
+2018-07-03 21:25:20,912 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-29 08:59
+2018-07-03 21:25:21,854 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:22,005 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 青山绿水，很休闲的一次旅游，好大自然充分亲近，喜欢。
+2018-07-03 21:25:22,254 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:22,578 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e3179****
+2018-07-03 21:25:22,749 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-28 10:35
+2018-07-03 21:25:22,906 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:23,093 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧值得一游，孩子们都很高兴。山不高，上到顶也不怎么累。
+2018-07-03 21:25:23,346 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:23,592 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _CFT010000000040****
+2018-07-03 21:25:23,714 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-27 16:11
+2018-07-03 21:25:23,983 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:24,500 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 本来以为不用多走路的，但是进去后发现要爬山，而且路还很长，刚刚走完千岛湖中心湖区去的，但是还是硬着头皮上了，感觉腿都麻了，浑身大汗淋漓，真有森林“浴”的感觉。
+2018-07-03 21:25:24,980 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:25,395 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: D0421****
+2018-07-03 21:25:25,793 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-27 13:53
+2018-07-03 21:25:26,102 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:26,533 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 对千岛湖森林氧吧景区真心说不出一个好字，树木杂乱，从上山到下山没一处风景可看，和图片介绍相差太多，不值得一去。
+2018-07-03 21:25:27,108 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:27,487 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 103673****
+2018-07-03 21:25:27,871 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-25 20:54
+2018-07-03 21:25:28,103 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:28,316 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 因为在山里林子很密,视野不是很开阔, 基本上看不到太多风景.
+2018-07-03 21:25:28,662 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:25:29,211 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1376108****
+2018-07-03 21:25:29,869 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-25 17:46
+2018-07-03 21:25:30,504 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:30,894 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧的空气非常清新，令人心旷神怡，山上流下来的溪流很冰凉，洗脸很舒服，那里的景色也不错。
+2018-07-03 21:25:31,159 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:25:31,627 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 205713****
+2018-07-03 21:25:31,807 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-25 10:32
+2018-07-03 21:25:31,977 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:32,305 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 周一去的这个景点，人不多，适合休闲。空气好，真的是一次清肺之行。
+2018-07-03 21:25:32,670 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:33,379 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _zfb208800267276****
+2018-07-03 21:25:33,663 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-25 08:37
+2018-07-03 21:25:33,901 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:34,184 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山下爬到山上比较累 联通的号码没信号 山上的水好凉好凉 放水里的饮料跟冰箱一个效果 西瓜很好吃 就是贵了点
+2018-07-03 21:25:34,503 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:34,966 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e1097****
+2018-07-03 21:25:35,234 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-24 17:32
+2018-07-03 21:25:35,502 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:35,802 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 很快哦，以前一天就可以了，玩的很愉快，就是很方便啦，又便宜
+2018-07-03 21:25:36,097 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:36,795 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 232573****
+2018-07-03 21:25:37,081 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-23 16:09
+2018-07-03 21:25:37,315 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:37,750 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧是个不错的去处，空气清新，环境宜人，虽然风景谈不上壮观秀丽，但是从上山到下山的过程可以感受大自然的味道。
+2018-07-03 21:25:38,348 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:49,319 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第226页...
+2018-07-03 21:25:49,586 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:25:49,830 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:25:50,261 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e3214****
+2018-07-03 21:25:50,419 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-22 19:36
+2018-07-03 21:25:50,572 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:50,925 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 很不错，清净凉爽，很惬意，适合城市上班族一游，尤其适合自驾者，自己坐车有点不方便
+2018-07-03 21:25:51,561 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:52,190 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _m1395803****
+2018-07-03 21:25:52,505 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-22 13:30
+2018-07-03 21:25:52,781 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:53,180 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 换票非常简单，只需要核实信息就可以了，景点也还算行，一条山涧，一条山路，如果在城市里处久了，这样花1个小时左右的时间走一段山路，呼吸有氧空气也还行。
+2018-07-03 21:25:53,678 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:25:53,981 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: M0893****
+2018-07-03 21:25:54,165 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-21 22:58
+2018-07-03 21:25:54,386 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:54,645 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 取票很方便，报订单号就可以了，景区空气很清新，水清澈见底，景色不错
+2018-07-03 21:25:54,885 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:55,179 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 110270****
+2018-07-03 21:25:55,351 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-19 20:03
+2018-07-03 21:25:55,523 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:55,723 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 原以为导航能带我到达氧吧.哪成想到导航带我到的地方却是一个大楼停车场.问了下保安,晕 保安说 上当的人不少,好多都导到那里去了..一路断断续续的路标指引下,一直开了20多公里,终于找到.进去后,一点都感觉不到氧吧的感觉,也不凉快,和一般的小山头没有什么两样,上当了.网页上的照片还是删了吧,省得再有再多的人上当
+2018-07-03 21:25:55,997 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 1.0
+2018-07-03 21:25:56,353 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: zhanglu19****
+2018-07-03 21:25:56,575 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-19 10:38
+2018-07-03 21:25:56,757 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:56,975 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 凭携程订单号在景区门口换票非常便捷，去的时候是早上8:30分人很少，森林氧吧空气清新气温比外面要低，树木茂密几乎没有阳光直射，山上流下的溪水冰凉冰凉的，洗脸很解暑。从上山到下山总共1个半小时，从希尔顿打的过去42元，回程景区门口有黑车55元略贵。
+2018-07-03 21:25:57,341 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:57,590 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 233688****
+2018-07-03 21:25:57,814 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-18 18:23
+2018-07-03 21:25:58,000 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:58,180 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 购票很方便.十分便宜。。~~~~~~~~~~~~~~~~~~~~~~~~~
+2018-07-03 21:25:58,377 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:25:58,619 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 202729****
+2018-07-03 21:25:58,765 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-18 12:45
+2018-07-03 21:25:58,911 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:25:59,204 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 林中空气清凉，还有溪水流过，令人心旷神怡。。。。
+2018-07-03 21:25:59,453 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:25:59,655 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: arisz****
+2018-07-03 21:25:59,782 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-18 12:26
+2018-07-03 21:25:59,910 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:00,084 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 15日早上去的，温度不高，走一圈很舒服，值得一去。 就是滑草不是很值，路程短，而且有风险。
+2018-07-03 21:26:00,276 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:26:00,543 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 110199****
+2018-07-03 21:26:00,733 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-15 12:58
+2018-07-03 21:26:00,869 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:01,075 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气很好，就去去那边的交通不是很方便，适合自驾游，景区的东西很贵
+2018-07-03 21:26:01,244 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:01,446 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 6580****
+2018-07-03 21:26:01,580 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-12 18:37
+2018-07-03 21:26:01,706 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:01,913 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景区风景一般，景区内游客吸烟，商家烧烤，因此也不可能吸到新鲜的负氧。
+2018-07-03 21:26:02,055 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:26:12,810 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第227页...
+2018-07-03 21:26:12,962 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:26:13,126 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:26:13,527 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 200290****
+2018-07-03 21:26:13,824 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-12 10:38
+2018-07-03 21:26:14,107 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:14,498 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 参加了上海到千岛湖绿城酒店的巴士游。路程较长，单程需4.5个小时，自驾较为辛苦，所以放弃自驾游改为跟团。体验下来选择还是正确的，空调大巴比较舒适，中途会停靠一次下沙（约2小时，一半路程）休息10分钟。 12点多到达森林氧吧公园，在出发前看了点评，对这个景点本来就没抱太高希望，进大门步行3-5分钟就是很多人提到的台湾老板茶馆，在此聊天打牌消磨时间直到集合，新鲜空气在山顶山脚都一样可呼吸。老公因为有每天跑步的习惯，所以独自去爬了一圈山权当锻炼，40分钟就绕完一圈返回了，问他一路以及峰顶景色如何，是否值得上去，回答非常普通。 这个景点不值得安排3-4小时，猜测是为了给酒店充分时间整理出房间，控制在下午4点后到酒店的关系。 森林氧吧里的饮料卖5元一瓶，茶馆仅提供卤肉饭、泡面等少数几种简餐，没有其他吃饭的地方。我利用网购时赠送的冰袋保温，自带了冷面、寿司，问茶馆要了一只西瓜和两盘瓜子花生（西瓜小的35，大的50，人均最低消费20），吃得很满意。反正是一路坐车，第一个景点下车就吃完，并无负重的麻烦。 因为不是单独订酒店，不能写绿城酒店评论，特借此地提个醒，绿城游泳池开放时间是早7-晚10，必须戴游泳帽入水，因为误信网上说不需要游泳帽就没带去，付出了10元/人的租金也算了，主要是贴身穿戴的东西，用私人物品总归更舒心一些。傍晚夕阳晚霞 湖景岛屿景色不错。
+2018-07-03 21:26:15,117 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 2.0
+2018-07-03 21:26:15,492 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 170687****
+2018-07-03 21:26:15,868 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-10 20:55
+2018-07-03 21:26:16,167 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:16,553 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 上山感觉太好了，避暑胜地啊！应该原路下山的
+2018-07-03 21:26:16,873 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:17,398 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E3092****
+2018-07-03 21:26:17,666 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-10 13:38
+2018-07-03 21:26:17,945 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:18,214 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 因为下午三点才到，行程比较赶。 没有景点介绍的那么好，但是在茂密的丛林间吸氧、和朋友爱人一起登山，还是一番比较享受的感觉的。 和千岛湖的游船有地方是重叠的，建议选择其中之一即可。
+2018-07-03 21:26:18,526 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:26:18,887 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 165980****
+2018-07-03 21:26:19,274 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-10 08:27
+2018-07-03 21:26:19,570 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:19,903 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧环境好，去的时候人不多，很舒服，虽然要爬山，但是不感觉很累，一路上还有清凉的泉水，感觉很好
+2018-07-03 21:26:20,213 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:20,623 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: d1339****
+2018-07-03 21:26:20,929 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-09 22:04
+2018-07-03 21:26:21,216 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:21,690 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 真的没什么感受来说说！一般一般太一般
+2018-07-03 21:26:22,207 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:26:23,144 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1865113****
+2018-07-03 21:26:23,510 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-09 21:55
+2018-07-03 21:26:23,698 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:23,948 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气确实比较好，整个行程1.5个小时，带个小孩也不累。值得去转转
+2018-07-03 21:26:24,180 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:24,705 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1360006****
+2018-07-03 21:26:25,069 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-08 18:54
+2018-07-03 21:26:25,327 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:25,720 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 这里很舒服，值得一去。就是感觉门票有点贵，山不大一小时就能走完这个山了。就是对携程当时改日期的服务有些不太满意，偿试在订单里改，改了两次都没有反应，第三次选择在网上客服改，后来还是不放心打电话去确认最后才收到确认的邮件不是短信。
+2018-07-03 21:26:26,128 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:26,661 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 200915****
+2018-07-03 21:26:26,925 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-08 16:04
+2018-07-03 21:26:27,197 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:27,509 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 今天车外36度，景区内20几度。一路沿着溪流上山，小朋友们吃着山涧里冰凉的泉水净出来西瓜，玩的很爽很开心。
+2018-07-03 21:26:28,024 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:28,560 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 206318****
+2018-07-03 21:26:28,839 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-08 15:58
+2018-07-03 21:26:29,102 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:29,554 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 帮朋友订的，朋友说还不错，风景蛮好的，人也还不算多，因为很热
+2018-07-03 21:26:30,036 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:30,486 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e3096****
+2018-07-03 21:26:30,768 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-06 12:39
+2018-07-03 21:26:31,139 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:31,786 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 满意，很开心。
+2018-07-03 21:26:32,255 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:42,937 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第228页...
+2018-07-03 21:26:43,133 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:26:43,334 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:26:44,303 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E2735****
+2018-07-03 21:26:44,546 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-02 12:25
+2018-07-03 21:26:44,801 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:45,124 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 虽然天公不做美，我们去的时候一直在下雨，但照样我们玩的很开心，森林氧吧其实就是一座山，里面有几个瀑布，其他也没什么了
+2018-07-03 21:26:45,588 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:26:46,006 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _bbcv01939****
+2018-07-03 21:26:46,181 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-07-01 09:38
+2018-07-03 21:26:46,370 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:46,603 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 前一天还在下着雨，怀着忐忑的心情出发，到了森林氧吧居然不下雨也不出太阳，一路上山都有惊喜，沿途的水流声和小鸟欢叫声相伴，天梯虽然陡但我家5岁的宝宝居然也登上去，最大的惊喜在山顶，瀑布飞泻而下，太美了，空气非常好。
+2018-07-03 21:26:46,890 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:47,256 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e2905****
+2018-07-03 21:26:47,432 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-29 20:14
+2018-07-03 21:26:47,587 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:47,802 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 从客运站过去居然只能打的,没有公交车可以到. 风景还是不错的.
+2018-07-03 21:26:48,141 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:26:48,606 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: D2304****
+2018-07-03 21:26:49,137 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-28 21:40
+2018-07-03 21:26:49,565 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:49,899 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 多留点时间去氧吧，不后悔的。怕小野物的就算了
+2018-07-03 21:26:50,228 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:50,672 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1300312****
+2018-07-03 21:26:50,933 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-28 10:42
+2018-07-03 21:26:51,191 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:51,614 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气非常清新，整个森林的含氧很高，爬山也不气喘，整个行程非常满意！
+2018-07-03 21:26:52,075 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:52,883 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 0019****
+2018-07-03 21:26:53,164 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-26 14:16
+2018-07-03 21:26:53,402 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:53,713 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 逃离钢筋水泥都市，重返大自然，清新的空气，清澈的小溪，悠闲的漫步，都是一种心灵的休息和洗涤。
+2018-07-03 21:26:54,560 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:54,986 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1592186****
+2018-07-03 21:26:55,242 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-25 09:58
+2018-07-03 21:26:55,522 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:55,922 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧是我们的第一站，白了就是爬山，对城里来的人来说还是很不错的，可以呼吸纯净新鲜的空气，游山玩水还是不错的。
+2018-07-03 21:26:56,352 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:26:56,732 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: xiaohua****
+2018-07-03 21:26:57,019 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-21 09:44
+2018-07-03 21:26:57,307 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:26:57,781 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 预定便捷，景区检票方便，只要报名字即可，一个多小时的吸氧登高也不太累，适合各年龄。
+2018-07-03 21:26:58,582 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:26:59,306 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: m0611****
+2018-07-03 21:26:59,638 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-19 14:47
+2018-07-03 21:26:59,910 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:00,177 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 千岛湖森林氧吧有点难找问了当地的人说顺路给带一下，到了那儿带路下车要带路钱，我们出门在外总有许多难处，现代人也就是现实人，没钱不办事再说像这样的地方到处都有不建议游玩，在出口处我们看到买漂流的门票，告知来的及漂可到那儿当地人说怎么也来不及漂的，结果第二天才去，总之漂流是值得一漂的。对携程的服务还是满意的，下次有机会出游我会选择携程的。
+2018-07-03 21:27:00,518 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:00,858 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: wesl****
+2018-07-03 21:27:01,077 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-17 09:38
+2018-07-03 21:27:01,325 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:01,581 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 外面太阳很热，走进去就感受到了清凉，随处可见浸在溪水里的西瓜黄瓜，好一派避暑的景象
+2018-07-03 21:27:01,899 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:12,724 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第229页...
+2018-07-03 21:27:12,889 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:27:13,066 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:27:13,513 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 110153****
+2018-07-03 21:27:13,871 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-16 20:10
+2018-07-03 21:27:14,143 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:14,446 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 去的时候拿打印的门票直接就进入了，还是挺方便的。提供给各位参考。
+2018-07-03 21:27:14,757 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:27:15,230 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E2854****
+2018-07-03 21:27:15,621 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-15 10:54
+2018-07-03 21:27:15,967 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:16,280 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 在携程订票，不仅节省了票价，更重要的是免去了排队购票的时间，直接在检票口验证姓名即可。 森林氧吧之旅非常惬意，听着潺潺流水声徒步前行，呼吸着森林里清新湿润的空气，身心放松；走走停停，两三小时，毫不费力。
+2018-07-03 21:27:16,656 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:27:17,288 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 201118****
+2018-07-03 21:27:17,675 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-13 22:18
+2018-07-03 21:27:17,929 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:18,357 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧名符其实，环境一流，有山有水，是休闲养生的好去处。
+2018-07-03 21:27:18,710 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:19,314 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1862155****
+2018-07-03 21:27:19,780 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-13 19:41
+2018-07-03 21:27:20,143 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:20,563 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 一个多小时就可以走完。还可以的地方，比较适合人少的时候去。
+2018-07-03 21:27:21,162 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:21,511 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 320407****
+2018-07-03 21:27:21,752 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-12 22:33
+2018-07-03 21:27:21,982 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:22,518 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 去了后觉得还是对得起这个价钱的。吸吸氧，洗洗肺，玩玩水。就是交通不是很方便，望有待加强。
+2018-07-03 21:27:23,174 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:27:23,508 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e1326****
+2018-07-03 21:27:23,755 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-12 20:55
+2018-07-03 21:27:23,993 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:24,400 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 人很多，爬山的路有点陡峭，行走不方便，容易发生危险；从景区回去的路上又恰巧碰堵车，交警疏通不给力，浪费了很多时间。
+2018-07-03 21:27:25,010 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:25,571 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E1222****
+2018-07-03 21:27:25,812 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-12 20:28
+2018-07-03 21:27:26,078 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:26,446 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 可能天空下雨，没有像介绍的那么美。而且在森林中，居然时不时有人抽烟，破坏了整体的环境。
+2018-07-03 21:27:26,821 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:27:27,199 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1366182****
+2018-07-03 21:27:27,448 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-12 20:25
+2018-07-03 21:27:27,684 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:28,061 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山里空气非常好！一定要坚持爬到山顶，看看山涧小溪，做做深呼吸，爬爬山运动运动，是个很好的选择！
+2018-07-03 21:27:28,466 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:27:28,866 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1861683****
+2018-07-03 21:27:29,121 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-06-10 16:08
+2018-07-03 21:27:29,389 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:29,768 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 一个较新的景区，从酒店花了半个小时开车进去。其实就是风景和空气都不错的一座山，没有什么名胜古迹。在山脚可以和两只孔雀合影，还有一个吃烤鱼的地方。我们那天下雨，出来的时候刚到饭点，就在最外面的一家农家乐吃的鱼头，味道很鲜美，就是鱼头贵了点，两个人吃了400多。
+2018-07-03 21:27:30,188 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:30,648 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 171619****
+2018-07-03 21:27:30,921 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-04-22 10:56
+2018-07-03 21:27:31,227 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:31,719 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景点空气很好，有可以锻炼身体。下次还会来
+2018-07-03 21:27:32,324 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:27:43,361 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第230页...
+2018-07-03 21:27:43,649 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:27:44,096 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:27:44,715 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: sek****
+2018-07-03 21:27:45,117 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-04-16 09:48
+2018-07-03 21:27:45,390 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:46,548 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 网上盲目听信评论，从湖区自驾去氧吧，停车很难不提，整个氧吧，就是爬山，瀑布只有一点点，所谓滑草也很坑爹。。。反正没什么好去的。去千岛湖只要去游船出湖就够了
+2018-07-03 21:27:47,302 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 2.0
+2018-07-03 21:27:47,682 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e2374****
+2018-07-03 21:27:48,078 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-04-07 10:28
+2018-07-03 21:27:48,584 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:49,187 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 这样的景点和门票价格不相符，偏贵了点，关键是没有真正的森林感觉，而且里面的树木年数也不多，好一般，
+2018-07-03 21:27:49,633 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:27:50,686 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 150267****
+2018-07-03 21:27:50,992 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-04-06 18:15
+2018-07-03 21:27:51,189 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:52,002 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 所谓森林氧吧，主要就是爬山，看看溪流、小瀑布，环境和空气都很不错，但是，去的时间选择的不对，感觉应该夏天去
+2018-07-03 21:27:52,287 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:52,528 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: klh****
+2018-07-03 21:27:52,688 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-04-06 17:04
+2018-07-03 21:27:52,832 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:53,064 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧的总体感觉没有太特别，空气比较清新。就是爬山而已。
+2018-07-03 21:27:53,579 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:27:54,060 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e1216****
+2018-07-03 21:27:54,337 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-04-06 12:47
+2018-07-03 21:27:54,681 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:55,956 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 确定门票很方便，基本不用等什么时间，或许人也不多吧，整个景区就是一个公园式的，需要爬山的哦，建议带有小小孩的还是不要往上爬了，在负离子吸氧区多呆呆就足够了。票价感觉还是有点小贵的，在网上预订的稍微便宜了点。
+2018-07-03 21:27:56,930 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:27:57,338 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 118904****
+2018-07-03 21:27:57,512 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-03-20 19:59
+2018-07-03 21:27:57,661 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:27:57,971 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气非常清新 水也很清澈 现在的农村也很少见到如此干净的湖水了
+2018-07-03 21:27:58,278 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:27:58,730 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1381731****
+2018-07-03 21:27:59,245 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-03-12 11:25
+2018-07-03 21:28:00,194 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:00,477 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 当天气温很高，接近30度，但是爬上山后很凉快，一路上山溪水潺潺，很漂亮。门口检票很方便，就报了名字，看了一眼确认单。淡季，人不多。门口的小店坑，5元一瓶矿泉水。慢悠悠的爬上去，拍拍照看看水。半山有个送自拍照钥匙扣。摄影水平不错，就花了10元买了张放大照。滑草是自费，但是是个很傻的水泥槽里铺了点绿色的地毯一样的东西，不是真的滑草。坐的人很少。下山一路什么风景都没有，蒙头走台阶，没有任何风景。快出来时碰到个导游，问了下周边其他有什么经典，很热心的和我们讲了很久。门口停车竟然不要钱，停车指引员很热情的替我们拍照。找了家农庄吃饭，味道不错，价格太黑。PS，在千岛湖小店买所有东西包括吃饭都没有发票，很多营业员连收据都不会开。公费出游的要注意。
+2018-07-03 21:28:00,992 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:28:01,698 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 201506****
+2018-07-03 21:28:02,038 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-03-10 20:31
+2018-07-03 21:28:02,321 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:02,712 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 取票方便，景致一般，但真实是氧吧，不太累，有些野趣！
+2018-07-03 21:28:03,197 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:03,633 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 201506****
+2018-07-03 21:28:04,059 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-03-10 20:28
+2018-07-03 21:28:04,406 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:05,044 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 真的是氧吧！景色一般，没有特别景致，不过还是有些野趣的。
+2018-07-03 21:28:05,397 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:05,704 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: tonyshirley****
+2018-07-03 21:28:05,933 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-02-22 15:34
+2018-07-03 21:28:06,217 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:06,630 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 通过携程预订确实非常方便!森林氧吧也是人满为患啊!以后再也不在长假去这种地方啦!还不如在酒店里玩呢!郁闷之极啊!
+2018-07-03 21:28:07,009 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:28:18,521 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第231页...
+2018-07-03 21:28:18,873 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:28:19,263 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:28:19,842 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: s****
+2018-07-03 21:28:20,182 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-02-16 09:37
+2018-07-03 21:28:20,484 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:20,844 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 这里爬山真的不是很累，因为你是在氧吧里爬山，不会缺氧。环境不错，你在山林里，小溪、瀑布、各种树木围绕着你，最主要的是人还不多，适合游玩。
+2018-07-03 21:28:21,052 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:21,500 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _M1350177****
+2018-07-03 21:28:21,838 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-02-14 17:03
+2018-07-03 21:28:22,112 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:22,546 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 风景甚佳，空气异常清新。两个小时，把肺腑中的PM2.5置换干净，以后来淳安，要待上一天的计划。
+2018-07-03 21:28:23,062 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:23,496 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 105303****
+2018-07-03 21:28:23,832 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2013-02-11 17:56
+2018-07-03 21:28:24,204 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:24,684 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 我们四人参加此景点游，在出发前已交款，但上网查询这天景点春节免门票，事实上我们到景点后也是免门票，相信携程会处理退款事宜。
+2018-07-03 21:28:25,027 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:25,446 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e1364****
+2018-07-03 21:28:25,815 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-10-12 16:25
+2018-07-03 21:28:26,213 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:26,751 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 线路比较短，原以为要爬到山顶，但是线路爬到一半左右就回头下山了，空气非常好，一个半小时足够了。
+2018-07-03 21:28:27,632 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:28,032 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 携程用户
+2018-07-03 21:28:28,280 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-10-09 21:47
+2018-07-03 21:28:28,531 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:28,821 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 去森林氧吧，建议穿运动鞋，带瓶水，建议大家下山时不要做滑草，还是有危险因素存在的。。。。
+2018-07-03 21:28:29,318 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:28:29,815 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _m1379527****
+2018-07-03 21:28:30,111 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-10-07 23:33
+2018-07-03 21:28:30,367 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:30,707 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 就是爬山啊~~不停的爬山啊！！！我个人认为不喜欢爬山的还是不要去了！！！喜欢的可以去玩一下~~~~
+2018-07-03 21:28:31,138 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:31,654 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1391261****
+2018-07-03 21:28:31,925 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-10-06 10:55
+2018-07-03 21:28:32,210 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:32,543 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景点门口以打印台账式地查讯携程预定的门票，费事费力。而且还没查到订单，通过电话携程才解决。景点里各种宰客啊
+2018-07-03 21:28:33,262 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:28:33,824 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 205602****
+2018-07-03 21:28:34,094 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-10-06 08:34
+2018-07-03 21:28:34,384 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:34,680 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气很好，进去有买水枪的，小孩一路玩水玩上去，很开心。
+2018-07-03 21:28:35,038 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:28:35,463 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 110039****
+2018-07-03 21:28:35,704 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-09-20 09:29
+2018-07-03 21:28:36,130 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:37,110 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 我们到的比较早，朋友来得晚了，正好赶上人多，没我们感觉好。不过老人还是在下面休息就好，毕竟要爬些山的。
+2018-07-03 21:28:37,604 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:37,839 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 110039****
+2018-07-03 21:28:38,008 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-09-20 09:28
+2018-07-03 21:28:38,245 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:38,570 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 环境不错的，正好去的比较早，人也不多，我们出来的时候正好人多起来了。:)
+2018-07-03 21:28:38,858 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:49,419 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第232页...
+2018-07-03 21:28:49,569 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:28:49,733 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:28:50,309 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _ZFB208800204952****
+2018-07-03 21:28:50,701 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-30 21:22
+2018-07-03 21:28:51,259 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:51,648 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景致还不错，小山、小溪、小径、小桥，幽静而小巧，适合家庭休闲游，人少别有情致。
+2018-07-03 21:28:51,937 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:52,283 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 0629****
+2018-07-03 21:28:52,517 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-23 10:31
+2018-07-03 21:28:52,907 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:53,455 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 千岛湖森林氧吧绿树繁茂,溪水连绵,空气质量很好,但门票和园内收费偏高
+2018-07-03 21:28:53,900 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:54,392 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 105205****
+2018-07-03 21:28:54,668 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-22 11:12
+2018-07-03 21:28:55,411 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:55,924 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 对森林氧吧总体感觉还不错哦，爬山也不累。全程有小溪流，有树荫，晒不到太阳。 就是在携程上打印的从酒店到景点的地图是错，导致方向走反，对这个比较生气。
+2018-07-03 21:28:56,492 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:28:56,870 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: czj_****
+2018-07-03 21:28:57,054 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-22 08:18
+2018-07-03 21:28:57,295 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:57,704 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 该景点景色一般般，门票有点小贵，尽管携程网上购买的打折票。
+2018-07-03 21:28:58,008 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:28:58,206 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: xing****
+2018-07-03 21:28:58,290 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-21 21:13
+2018-07-03 21:28:58,504 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:28:58,815 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 一座山，没有风景，只是去爬一爬，觉得更笨不应该收门票的。山上的茶室消费很高，一个西瓜一百块，不过放在泉水里面天然冰镇，吃下去很是爽口，比放冰箱的口感好多了。山上空气清新，只是树多没有什么沿途风景可以看。
+2018-07-03 21:28:59,154 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:28:59,854 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _M1378895****
+2018-07-03 21:29:00,101 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-20 13:24
+2018-07-03 21:29:00,340 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:00,654 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 那天下雨，有点小小的坑爹，全是树，空气不错
+2018-07-03 21:29:01,073 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:29:01,562 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1352028****
+2018-07-03 21:29:01,850 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-06 11:04
+2018-07-03 21:29:02,087 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:02,386 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 那里没有什么旅游景点，没有名胜古迹，但是空气真的是很好。我们从千岛湖镇打车过去的，回程时，是旁边一个带游客来玩的地接人员，乘着客人在山中玩得时候，送我们回到了千岛湖，算是自己的私活吧。我喜欢这里，山清水秀。
+2018-07-03 21:29:02,779 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:29:03,186 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0963****
+2018-07-03 21:29:03,461 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-04 19:24
+2018-07-03 21:29:03,722 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:04,006 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 这次来到千岛湖森林氧吧景区正值一阵大雨之后,景区里并没有想像的凉风习习,反倒是闷热异常,不到十分钟已经让人彻底"湿身".景区的景色很一般.
+2018-07-03 21:29:04,572 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:29:05,039 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0589****
+2018-07-03 21:29:05,706 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-08-01 21:50
+2018-07-03 21:29:07,238 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:07,488 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 换票很方便，景点也不错！下次还是会继续在携程上预定！
+2018-07-03 21:29:07,676 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:08,155 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 233293****
+2018-07-03 21:29:08,635 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-31 17:20
+2018-07-03 21:29:08,901 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:09,199 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林养吧确实不错，空气很好，也很凉爽，夏天值得一去，就是有点累
+2018-07-03 21:29:09,618 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:21,463 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第233页...
+2018-07-03 21:29:21,711 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:29:21,908 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:29:22,403 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0855****
+2018-07-03 21:29:22,765 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-31 16:22
+2018-07-03 21:29:23,175 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:23,601 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 这个景点实在没什么好看的，就座普通的山，然后在树林里穿来穿去。。。
+2018-07-03 21:29:23,975 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:29:24,533 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0754****
+2018-07-03 21:29:25,057 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-30 10:17
+2018-07-03 21:29:25,617 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:26,058 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景点一般，空气确实很好，一个小时就够玩的了。主要就是爬爬山，没什么特别的。
+2018-07-03 21:29:26,964 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:27,551 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0803****
+2018-07-03 21:29:27,928 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-23 13:42
+2018-07-03 21:29:28,248 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:28,630 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气很好，爬得有点累，人也挺多，景点一般，倒是小孩拿着水枪玩得不亦乐乎。
+2018-07-03 21:29:28,998 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:29:29,331 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0801****
+2018-07-03 21:29:29,538 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-21 15:47
+2018-07-03 21:29:30,865 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:31,259 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 是以山上一条小溪修葺的一条山间小路为主体的公园，沿途有很多可以坐和可以戏水的地方，还是算超级休闲的一个游玩之处。
+2018-07-03 21:29:31,825 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:31,974 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E0779****
+2018-07-03 21:29:32,200 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-15 16:43
+2018-07-03 21:29:32,350 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:32,483 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 氧吧是我们这一次自驾游的第一站，我对他的感觉相当好，空气清新，树叶掩映，威风习习，酷热的夏天里也是这么的舒爽，天然的森林氧吧，去除了不少体内堆积的垃圾，感觉头脑清醒，充满了活力，值得一去。山里的泉水冰爽清冽，在水中嬉戏，流连忘返。
+2018-07-03 21:29:32,597 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:32,732 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 163613****
+2018-07-03 21:29:33,141 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-03 20:34
+2018-07-03 21:29:33,729 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:34,157 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 奇怪哦，参天的大树上都是硕大的毛毛虫，布满整个数身，恐怖啊。山上的环境一般，滑草有点小刺激的，大人感觉一般，孩子倒是挺喜欢。
+2018-07-03 21:29:34,571 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:35,139 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: stockc****
+2018-07-03 21:29:35,459 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-06-26 09:02
+2018-07-03 21:29:35,742 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:36,067 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山中空气挺好的,人也不多,山也不算高,挺适合年纪大的人想运动一下的.
+2018-07-03 21:29:36,382 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:36,911 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 100156****
+2018-07-03 21:29:37,292 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-06-25 21:49
+2018-07-03 21:29:37,538 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:37,927 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 方便快捷，很好！但是60~70岁老人优惠票居然比成人票还贵，到8折是48元，还贵3元？！
+2018-07-03 21:29:38,257 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:38,788 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: Sylvia****
+2018-07-03 21:29:39,330 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-04-06 08:51
+2018-07-03 21:29:39,651 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:39,999 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 到景点之后，直接凭打印好的旅游产品确认单就好进去，但不知怎么，我打印出来的确认单没有那一串订单号，那个急啊，幸亏那边还有网络，及时打开手机上邮箱才得以顺利进景区。氧吧空气清新，适合休闲放松。其实就是一座山，山里有溪水潺潺而下，感觉不错。
+2018-07-03 21:29:40,895 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:29:41,477 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1381910****
+2018-07-03 21:29:41,783 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-04-05 09:45
+2018-07-03 21:29:42,100 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:42,434 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 到达景点是中午11点，人少，我们是在携程网上定的票，打印出来即可，门口迎接我们的是一条可爱的小狗，顺着台阶走上去，一旁是溪水，一旁是“森林”，蛮凉爽的，不过稍微晚点去更好，可以玩玩水，现在水还是比较凉的，爬到山顶，空气确实不错，山顶有个滑草项目，收费30元一次，也就200米的距离，如果体力够的话，还是推荐走下山，如果带小孩子的话，可以玩玩看。整个游玩时间大概在1个小时左右，游玩后，驱车赶到市区吃鱼头~~（忘记说了，那里停车费是10元一次）
+2018-07-03 21:29:43,107 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:29:54,781 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第234页...
+2018-07-03 21:29:55,003 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:29:55,178 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:29:55,690 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0855****
+2018-07-03 21:29:56,061 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-31 16:22
+2018-07-03 21:29:56,604 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:57,117 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 这个景点实在没什么好看的，就座普通的山，然后在树林里穿来穿去。。。
+2018-07-03 21:29:57,480 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:29:58,094 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0754****
+2018-07-03 21:29:58,556 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-30 10:17
+2018-07-03 21:29:58,890 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:29:59,244 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景点一般，空气确实很好，一个小时就够玩的了。主要就是爬爬山，没什么特别的。
+2018-07-03 21:29:59,727 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:00,545 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0803****
+2018-07-03 21:30:00,727 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-23 13:42
+2018-07-03 21:30:00,897 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:01,121 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气很好，爬得有点累，人也挺多，景点一般，倒是小孩拿着水枪玩得不亦乐乎。
+2018-07-03 21:30:01,429 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:30:01,740 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0801****
+2018-07-03 21:30:01,954 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-21 15:47
+2018-07-03 21:30:02,141 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:02,367 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 是以山上一条小溪修葺的一条山间小路为主体的公园，沿途有很多可以坐和可以戏水的地方，还是算超级休闲的一个游玩之处。
+2018-07-03 21:30:02,758 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:03,269 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E0779****
+2018-07-03 21:30:03,673 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-15 16:43
+2018-07-03 21:30:03,975 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:04,309 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 氧吧是我们这一次自驾游的第一站，我对他的感觉相当好，空气清新，树叶掩映，威风习习，酷热的夏天里也是这么的舒爽，天然的森林氧吧，去除了不少体内堆积的垃圾，感觉头脑清醒，充满了活力，值得一去。山里的泉水冰爽清冽，在水中嬉戏，流连忘返。
+2018-07-03 21:30:04,731 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:05,502 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 163613****
+2018-07-03 21:30:05,838 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-03 20:34
+2018-07-03 21:30:06,184 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:06,719 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 奇怪哦，参天的大树上都是硕大的毛毛虫，布满整个数身，恐怖啊。山上的环境一般，滑草有点小刺激的，大人感觉一般，孩子倒是挺喜欢。
+2018-07-03 21:30:07,423 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:07,824 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: stockc****
+2018-07-03 21:30:08,057 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-06-26 09:02
+2018-07-03 21:30:08,303 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:08,727 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山中空气挺好的,人也不多,山也不算高,挺适合年纪大的人想运动一下的.
+2018-07-03 21:30:09,183 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:09,704 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 100156****
+2018-07-03 21:30:09,977 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-06-25 21:49
+2018-07-03 21:30:10,435 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:10,928 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 方便快捷，很好！但是60~70岁老人优惠票居然比成人票还贵，到8折是48元，还贵3元？！
+2018-07-03 21:30:11,309 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:11,760 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: Sylvia****
+2018-07-03 21:30:12,033 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-04-06 08:51
+2018-07-03 21:30:12,385 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:12,839 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 到景点之后，直接凭打印好的旅游产品确认单就好进去，但不知怎么，我打印出来的确认单没有那一串订单号，那个急啊，幸亏那边还有网络，及时打开手机上邮箱才得以顺利进景区。氧吧空气清新，适合休闲放松。其实就是一座山，山里有溪水潺潺而下，感觉不错。
+2018-07-03 21:30:13,233 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:30:13,690 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1381910****
+2018-07-03 21:30:14,045 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-04-05 09:45
+2018-07-03 21:30:14,411 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:14,764 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 到达景点是中午11点，人少，我们是在携程网上定的票，打印出来即可，门口迎接我们的是一条可爱的小狗，顺着台阶走上去，一旁是溪水，一旁是“森林”，蛮凉爽的，不过稍微晚点去更好，可以玩玩水，现在水还是比较凉的，爬到山顶，空气确实不错，山顶有个滑草项目，收费30元一次，也就200米的距离，如果体力够的话，还是推荐走下山，如果带小孩子的话，可以玩玩看。整个游玩时间大概在1个小时左右，游玩后，驱车赶到市区吃鱼头~~（忘记说了，那里停车费是10元一次）
+2018-07-03 21:30:15,376 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:26,359 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第235页...
+2018-07-03 21:30:26,589 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:30:26,779 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:30:27,236 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0855****
+2018-07-03 21:30:27,503 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-31 16:22
+2018-07-03 21:30:27,867 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:28,305 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 这个景点实在没什么好看的，就座普通的山，然后在树林里穿来穿去。。。
+2018-07-03 21:30:28,762 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:30:29,194 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0754****
+2018-07-03 21:30:29,552 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-30 10:17
+2018-07-03 21:30:29,928 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:30,310 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景点一般，空气确实很好，一个小时就够玩的了。主要就是爬爬山，没什么特别的。
+2018-07-03 21:30:30,767 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:31,258 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0803****
+2018-07-03 21:30:31,585 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-23 13:42
+2018-07-03 21:30:31,930 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:32,379 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 空气很好，爬得有点累，人也挺多，景点一般，倒是小孩拿着水枪玩得不亦乐乎。
+2018-07-03 21:30:32,773 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:30:33,322 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: e0801****
+2018-07-03 21:30:33,674 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-21 15:47
+2018-07-03 21:30:33,928 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:34,274 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 是以山上一条小溪修葺的一条山间小路为主体的公园，沿途有很多可以坐和可以戏水的地方，还是算超级休闲的一个游玩之处。
+2018-07-03 21:30:34,695 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:35,313 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: E0779****
+2018-07-03 21:30:35,667 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-15 16:43
+2018-07-03 21:30:35,957 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:36,302 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 氧吧是我们这一次自驾游的第一站，我对他的感觉相当好，空气清新，树叶掩映，威风习习，酷热的夏天里也是这么的舒爽，天然的森林氧吧，去除了不少体内堆积的垃圾，感觉头脑清醒，充满了活力，值得一去。山里的泉水冰爽清冽，在水中嬉戏，流连忘返。
+2018-07-03 21:30:36,837 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:37,364 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 163613****
+2018-07-03 21:30:37,616 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-07-03 20:34
+2018-07-03 21:30:37,875 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:38,220 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 奇怪哦，参天的大树上都是硕大的毛毛虫，布满整个数身，恐怖啊。山上的环境一般，滑草有点小刺激的，大人感觉一般，孩子倒是挺喜欢。
+2018-07-03 21:30:38,735 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:39,225 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: stockc****
+2018-07-03 21:30:39,527 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-06-26 09:02
+2018-07-03 21:30:39,804 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:40,340 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山中空气挺好的,人也不多,山也不算高,挺适合年纪大的人想运动一下的.
+2018-07-03 21:30:40,819 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:41,234 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 100156****
+2018-07-03 21:30:41,513 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-06-25 21:49
+2018-07-03 21:30:41,794 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:42,264 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 方便快捷，很好！但是60~70岁老人优惠票居然比成人票还贵，到8折是48元，还贵3元？！
+2018-07-03 21:30:42,782 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:43,274 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: Sylvia****
+2018-07-03 21:30:43,629 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-04-06 08:51
+2018-07-03 21:30:44,299 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:44,948 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 到景点之后，直接凭打印好的旅游产品确认单就好进去，但不知怎么，我打印出来的确认单没有那一串订单号，那个急啊，幸亏那边还有网络，及时打开手机上邮箱才得以顺利进景区。氧吧空气清新，适合休闲放松。其实就是一座山，山里有溪水潺潺而下，感觉不错。
+2018-07-03 21:30:45,450 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:30:45,979 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1381910****
+2018-07-03 21:30:46,186 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2012-04-05 09:45
+2018-07-03 21:30:46,389 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:46,601 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 到达景点是中午11点，人少，我们是在携程网上定的票，打印出来即可，门口迎接我们的是一条可爱的小狗，顺着台阶走上去，一旁是溪水，一旁是“森林”，蛮凉爽的，不过稍微晚点去更好，可以玩玩水，现在水还是比较凉的，爬到山顶，空气确实不错，山顶有个滑草项目，收费30元一次，也就200米的距离，如果体力够的话，还是推荐走下山，如果带小孩子的话，可以玩玩看。整个游玩时间大概在1个小时左右，游玩后，驱车赶到市区吃鱼头~~（忘记说了，那里停车费是10元一次）
+2018-07-03 21:30:46,922 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:30:57,760 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第236页...
+2018-07-03 21:30:58,057 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:30:58,237 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:30:58,777 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: chennana****
+2018-07-03 21:30:59,062 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-10-10 21:45
+2018-07-03 21:30:59,516 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:30:59,760 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧,给人很惬意的感觉,虽然是需要攀爬的山,但每处都有不同的风景,如果你想还可以和小溪有亲密接触.真的很舒服.记得导游有说,每到一个高度给人的呼吸都是不一样的进化!呵呵呵,如果有时间大家可以去体验一下哦!
+2018-07-03 21:31:00,083 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:31:00,573 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: pan****
+2018-07-03 21:31:01,031 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-08-26 23:43
+2018-07-03 21:31:01,524 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:02,023 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 就当在森林里爬了一次山，没有什么印象特别深的景点。天梯很陡，爬得很累！
+2018-07-03 21:31:02,378 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:31:02,713 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: Wk****
+2018-07-03 21:31:02,908 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-07-28 16:15
+2018-07-03 21:31:03,116 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:03,553 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 第一次来千岛湖，就被它的景色吸引了，跟朋友一起，玩得很开心，下次还要再去玩一次，感觉没有玩够呢
+2018-07-03 21:31:03,762 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:31:04,024 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: gracepark****
+2018-07-03 21:31:04,275 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-07-05 10:47
+2018-07-03 21:31:04,557 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:05,040 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 不喜欢爬山的千万别去，去了后悔。虽然这山不算高，可还是爬得挺累人，主要一路没啥风景，也许喜欢原生态的朋友会喜欢
+2018-07-03 21:31:05,331 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:31:05,689 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 6097****
+2018-07-03 21:31:06,125 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-06-10 22:20
+2018-07-03 21:31:06,687 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:07,546 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 去年夏天带着孩子去的，是携程定的行程奉送的景点很舒服。外面高温，一进到景点，一个深呼吸，一股负离子的味道就已经通达全身。真正的氧吧。很舒服！
+2018-07-03 21:31:07,822 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:31:08,237 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: yijic****
+2018-07-03 21:31:08,607 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-05-03 20:02
+2018-07-03 21:31:08,971 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:09,343 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 五一我们一家去了千岛湖游玩,我们是乘兴而去,败兴而归!太不好玩了,太让人扫兴了!买了300元/人的船票 门票,简直就没啥可看,整个就在赶路!每个景点山上管理得非常乱,且卫生也很差!
+2018-07-03 21:31:09,898 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 2.0
+2018-07-03 21:31:10,823 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 202069****
+2018-07-03 21:31:11,149 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-03-19 00:40
+2018-07-03 21:31:11,416 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:11,750 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 千岛湖，不过就是个大水库而已，新安江拦江筑坝蓄水发电，水位抬高后过去的山头成了一个个小岛，岛上弄了若干主题，是么蛇岛、鸟岛、锁岛等等，除了水质不错其他没什么可玩。 淳安人不淳朴，千岛湖人不厚道，铜钱已经把他们锈蚀，完全失去了山里人本性。 一只鱼头388，汗，价格贵就贵吧，咱认，可烧出来的鱼头汤啊55555，百分之百是提前烧的，绝对不是现点现烧，还不如咱自家菜场花十多元买个烧的味道鲜。怪只怪咱只注貌似不错的店面（下有图片为证），可惜的是金玉其外，呜呼。 游船上的饭菜真的让人不敢恭维，价格贵就不说了，做出来的饭菜还不如快餐店的，不过可以负责任的说：煮菜烧饭水绝对是千岛湖的水，用之不竭。
+2018-07-03 21:31:12,342 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 1.0
+2018-07-03 21:31:12,766 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 携程用户
+2018-07-03 21:31:12,941 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2011-01-26 10:55
+2018-07-03 21:31:13,312 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:13,714 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 有幸在大雪纷飞的日子去登了一次千岛湖森林氧吧，里面的雪景真的好漂亮哦，就像走进“林海雪原”一样的漂亮！真的很美。
+2018-07-03 21:31:14,312 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:31:15,027 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: fb****
+2018-07-03 21:31:15,424 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-12-07 11:07
+2018-07-03 21:31:15,730 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:16,204 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 象这样原始生态的景点，我走遍了江浙两省也很难得碰到了，环境资源丝毫没有被开发损坏，这是非常难得的，许多景点一味开发项目，为了多赚钱，就不顾生态环境的破坏。相比之下，森林氧吧绝对值得你一去。就是停车太挤了点。
+2018-07-03 21:31:16,634 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:31:17,096 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: b****
+2018-07-03 21:31:17,407 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-10-21 20:51
+2018-07-03 21:31:17,793 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:18,359 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 千岛湖的水真清，千岛湖的山真绿。真正的绿谷氧吧。千岛湖的鱼味道真美。
+2018-07-03 21:31:18,745 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:31:29,656 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第237页...
+2018-07-03 21:31:30,060 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:31:30,391 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:31:30,848 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: tiannama****
+2018-07-03 21:31:31,099 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-09-21 21:52
+2018-07-03 21:31:31,395 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:32,074 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 很不值的门票，太一般了，随处可见的景色。最关键的管理很不人性化，消费强制化。开店的人很自以为是。
+2018-07-03 21:31:32,643 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:31:32,911 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: yoga****
+2018-07-03 21:31:33,273 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-09-01 22:51
+2018-07-03 21:31:33,750 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:34,152 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 去的时候最好是找个不热的日子，带上摊子练练瑜伽蛮好的。里面水很稀有，夏天多雨的季节都见不着瀑布，不过空气还是不错的
+2018-07-03 21:31:34,569 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:31:35,018 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1336186****
+2018-07-03 21:31:35,477 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-09-01 22:39
+2018-07-03 21:31:35,951 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:36,401 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 景区内部的饮食好像没前面几位说的这么恐怖…… 再景区入口这里买冰西瓜也就2元/片~还能接受的~
+2018-07-03 21:31:36,780 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:31:37,292 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _JSZ526855000359****
+2018-07-03 21:31:37,645 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-08-04 13:51
+2018-07-03 21:31:37,925 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:38,274 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 虽说是千岛湖边的一个景点，但除了门口一条似湖非湖、似江非江的水泊之外看不到任何水域！貌似爬山但又不能爬到山顶，整个景区除了树还是树，还有两条水量小得不能再小的小溪。 景区惟一的一家餐厅简直就是黑点，一盘银鱼炒蛋要48元，鱼头就更不用说了！山下的西瓜卖的更贵，据说老板是台湾人，价钱是50元/个，翻了几倍。综上所述，你去了就知道陷阱有多深了！
+2018-07-03 21:31:38,656 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 1.0
+2018-07-03 21:31:39,149 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 1381677****
+2018-07-03 21:31:39,548 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-08-04 08:55
+2018-07-03 21:31:39,843 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:40,197 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 大夏天去的，36度的高温。氧吧里爬山的路基本都有树荫，不用撑伞。小水潭里可以玩玩水，水特别凉。整个景区很小，人多的话就不好玩啦！
+2018-07-03 21:31:40,621 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:31:41,099 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: lovetif****
+2018-07-03 21:31:41,378 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-07-20 12:49
+2018-07-03 21:31:41,672 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:42,060 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 森林氧吧的环境是没话说的 茂密的丛林 小瀑布 小溪水 荡秋千 烧烤 足以让你在里面流连忘返 但是一路上去的山坡还是很陡峭的 而且里面吃的东西暴贵 这大天热的小西瓜30块一个 大点的要70块呢 茶叶蛋5块2个 豆腐干5块3块 没办法 谁叫他这家店干的是山里的垄断行业呢
+2018-07-03 21:31:42,479 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:31:43,016 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: fb****
+2018-07-03 21:31:43,288 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-07-16 16:08
+2018-07-03 21:31:43,534 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:43,900 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 值得一去，特别是夏天！前些天到千岛湖去，因为下午了，千岛湖不买票了，就开车去森林氧吧，路程比较近的，只有20几公里吧！里面全是自然的东西，几乎没有人工的痕迹，这样的景点，这样的环境，在外面已经很难找到了。建议到千岛湖去游的朋友，一定去一趟，比起千岛湖的人工岛屿好多了。
+2018-07-03 21:31:44,421 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:31:44,900 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 110105****
+2018-07-03 21:31:45,156 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-06-16 22:58
+2018-07-03 21:31:45,414 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:45,705 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 去的时候下雨了，空气不错，就是山水。山顶上也没有休息点，还要爬回半山腰那里才有小饭店和小的茶水店。
+2018-07-03 21:31:46,121 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:31:46,546 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: abc71443****
+2018-07-03 21:31:46,834 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2010-04-20 19:47
+2018-07-03 21:31:47,082 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:47,455 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 千岛湖我前年去过，带着我女儿一起去往千岛湖的森林氧吧。我个人觉得森林氧吧确实不错。值得一去，它环境优雅有山有水还有小鸟的欢快的叫，空气也不错。
+2018-07-03 21:31:47,892 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:31:48,275 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: sinalon****
+2018-07-03 21:31:48,529 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2009-08-15 19:12
+2018-07-03 21:31:48,853 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:31:49,171 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 我觉得那里风景很不错，溪流潺潺，绿草茵茵，我们去的时候是下午了，只有在有水的地方很阴凉，其余基本觉得很闷热，而且下完雨凳子都很脏，我们都不敢坐，索性一口气爬到山顶，记得快到山顶前爬楼梯，阶梯都很高，爬上去的时候很想用爬的，到这里来务必要准备些水和干粮，因为里面吃饭超贵，一碗家门口5元的肉丝面里面要45元。
+2018-07-03 21:31:49,811 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 3.0
+2018-07-03 21:32:00,432 - spider.driver.base.logger - INFO - @XiechengSpotSpider.get_shop_comment[181].until_click_no_next_page_by_css_selector[1463] : 当前翻到第238页...
+2018-07-03 21:32:00,597 - spider.driver.base.logger - DEBUG - @XiechengSpotSpider.until_click_no_next_page_by_css_selector[1465].from_page_get_comment_data_list[94] : 数据库目前没有评论数据,直接保存到数据库!!!
+2018-07-03 21:32:00,808 - spider.driver.base.logger - INFO - @XiechengSpotSpider.from_page_get_comment_data_list[95].from_page_get_data_list[1973] : 携程景点评论列表
+2018-07-03 21:32:01,443 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: _ZFB208800233968****
+2018-07-03 21:32:01,717 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2009-08-13 21:10
+2018-07-03 21:32:01,982 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:32:02,546 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 可以啊 没去过的 可以去看看 如果天有点毛毛雨的话 去那里简直就是仙境哦 不过有太阳貌似就不怎么好啦
+2018-07-03 21:32:02,977 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:32:03,268 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: XCL****
+2018-07-03 21:32:03,437 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2009-05-14 13:45
+2018-07-03 21:32:03,600 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:32:03,813 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 山不是很高，植被不错，值得一去
+2018-07-03 21:32:04,143 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0
+2018-07-03 21:32:04,862 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: an****
+2018-07-03 21:32:05,140 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2008-11-06 15:22
+2018-07-03 21:32:05,420 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:32:05,633 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 十一去了，感觉一般，没什么特色，这类型的在国内哪个地区都很多，不建议特意去
+2018-07-03 21:32:05,911 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 2.0
+2018-07-03 21:32:06,384 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: wjq****
+2018-07-03 21:32:06,643 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2008-08-11 14:25
+2018-07-03 21:32:06,844 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:32:07,049 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 特别好玩，我去过，嘿嘿，
+2018-07-03 21:32:07,180 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:32:07,563 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 102119****
+2018-07-03 21:32:07,647 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2008-06-16 14:37
+2018-07-03 21:32:07,722 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:32:07,935 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 前天随旅行团去了千岛湖，感觉湖水确实是不错，但湖中的景点人工的味道太浓，而且商业的味道又重，实在不怎么样，人也感觉很累。第二天安排去的森林氧吧景点很好，不仅森林植被好，这样的环境其他地方很少了，尽管是下雨，还是感觉很好，我和老伴一口气就上到山顶，平时老伴爬4层的楼梯都不行的(严重哮喘)，可在森林氧吧里一点哮喘感觉都没有了，真是奇怪了，导游说这是因为森林氧吧的负离子的作用。我想应该有点相信的。夏天的感觉可能会更好(更凉快)。另外，在景点里泡上一壶台湾高山茶，真是“老灵老灵”的，就是价格贵了一点。大家可以一去!
+2018-07-03 21:32:08,321 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:32:08,823 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: fb****
+2018-07-03 21:32:09,206 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2008-06-13 18:27
+2018-07-03 21:32:09,541 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:32:10,011 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 我觉得非常不错，外面很热，但走进景点里面就很凉快，好象进入空调房，空气也很清新，环境不错。还有大大小小诸多瀑布，各种各样的，好美哦！另外，值得一提的是，里面有家餐厅，经营农家菜的，鱼头味道很好，价格也便宜，还有土鸡煲也很地道！值得大家一去。
+2018-07-03 21:32:11,104 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 5.0
+2018-07-03 21:32:11,374 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_user_name: 6121****
+2018-07-03 21:32:11,547 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] comment_time: 2008-05-18 16:28
+2018-07-03 21:32:11,728 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1957].get_key_str_field_by_css_selector[1736] shop_name: 千岛湖森林氧吧
+2018-07-03 21:32:11,931 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1959].get_str_field_by_css_selector[1776] comment_content: 环境非常好,有大城市里呼吸不到的新鲜空气.爬山比较累,但可以锻炼身体,值得一去的哦!
+2018-07-03 21:32:12,217 - spider.driver.base.logger - INFO - @XiechengSpotSpider.select_Field_by_css_selector[1965].get_float_field_by_css_selector[1883] comment_score: 4.0

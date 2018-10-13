@@ -1,0 +1,630 @@
+2018-10-08 14:58:42,710 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 14:58:42,754 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 14:58:42,803 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 14:58:42,837 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-14
+2018-10-08 14:58:42,868 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:42,895 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 由黄山至屯溪的沿途有“古建长廊”之称，潜口明代民宅是其杰出代表，在这里，你可以细细感受徽州古建筑的魅力所在。
+2018-10-08 14:58:42,910 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:43,553 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 从****纱
+2018-10-08 14:58:43,585 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-11
+2018-10-08 14:58:43,602 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:43,636 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 名宅内有明、清两代典型的各式，古建筑群，是研究中国古建筑史和建筑学的珍贵实例......
+2018-10-08 14:58:43,656 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:44,233 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 兔****毛
+2018-10-08 14:58:44,261 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-08
+2018-10-08 14:58:44,277 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:44,305 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 路上经过潜口，这里不要门票，也有一些旅游团的人过来，我们顺便逛了逛，一个地方的建筑风格总是差不多。
+2018-10-08 14:58:44,322 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:44,905 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 赵****
+2018-10-08 14:58:44,951 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-07
+2018-10-08 14:58:44,972 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:45,009 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 潜口民宅是徽州明代民居的缩影。在一个小山峦上展示出各类不同古民居风貌，颇具匠心，首先，潜口民宅很注意它的代表性。从建筑类型看，既有洞社、宅第，也有小桥、路亭、牌坊，很是漂亮。
+2018-10-08 14:58:45,030 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:45,631 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 14:58:45,688 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-02
+2018-10-08 14:58:45,706 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:45,738 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 这里作为全国重点文物保护单位，不收门票，这个在我国实属罕见，强烈建议大家到此一游。非常大的两个景区，清园感觉一般，明园极好，值得细细游玩。
+2018-10-08 14:58:45,757 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:46,375 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 14:58:46,420 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-02-26
+2018-10-08 14:58:46,442 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:46,480 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 春天的徽州，有绿色，粉色，黄色，白色，有山有水，青瓦白墙，一幅水墨画，非常漂亮。
+2018-10-08 14:58:46,502 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:47,111 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 14:58:47,179 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-02-25
+2018-10-08 14:58:47,196 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:47,222 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 从唐模到黄山会经过潜口古建筑群，已经完全废旧无人居住，如果有时间可以仔细看看。
+2018-10-08 14:58:47,239 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:47,885 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 雨****蓝
+2018-10-08 14:58:47,943 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-02-24
+2018-10-08 14:58:47,964 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:48,002 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 这里虽辟为博物馆 却没啥太多建筑 不过建筑本身是很好的 典型徽派古宅
+2018-10-08 14:58:48,025 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:48,651 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 14:58:48,712 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-02-16
+2018-10-08 14:58:48,731 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:48,759 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 很好的一个小景点，不需要门票，里面的建筑也是典型的徽派建筑，还能看到一个人在里面专心的做着木雕，传承文化
+2018-10-08 14:58:48,775 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:49,373 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 下****伞
+2018-10-08 14:58:49,439 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-02-16
+2018-10-08 14:58:49,455 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:49,481 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 进村的道路并不宽敞和好走，曲曲折折走上一段砂石路深入其内后，仿佛一下子从现代文明过渡回到了古代文明。
+2018-10-08 14:58:49,497 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:51,110 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] - page.run.[87] - driver.from_page_get_data_list.[2171] comment_user_name: Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 1820, in get_key_str_field_by_css_selector
+    ele = self.until_presence_of_element_located_by_css_selector(ele=ele,css_selector=field.css_selector,timeout=field.timeout)
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 733, in until_presence_of_element_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+Message: 
+
+2018-10-08 14:58:51,113 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 
+2018-10-08 14:58:52,599 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1564] 点击下一页: 暂停5秒...
+2018-10-08 14:58:57,604 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第2页...
+2018-10-08 14:58:57,627 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 14:58:57,682 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 陆****
+2018-10-08 14:58:57,708 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2014-10-23
+2018-10-08 14:58:57,722 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:57,750 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第5季】免费开放的徽派古建筑群，非常适合自驾游。 　　潜口民宅占地约一万七千平方米，依势坐落在山坡之上，错落有致。有民居6幢，祠堂1幢，路亭1座，被誉为歙县古建筑的“三绝”之一。包括方氏宗祠石牌坊、善化亭、曹门厅、司谏第、方文泰宅、乐善堂等著名建筑。 　　这些民居是明清时期徽州的建筑师依照本地的历史、地理和风俗特点，在继承宋元营造法式的基础上创造出来的，具有独特特征的建筑风格。走进潜口民宅就像走进了博物馆。 　　乐善堂规模不大，但不失富丽；司谏第瓜柱下木垫、叉头单步梁和斗拱胸有精美的雕刻；曹门厅体现明中期特点；隆昌牌坊群﹐使我们领略到中华智能光芒。 　　里面比较成熟，带来的缺点就是商铺小贩也多了起来，特色小吃可以试试菜糕。还有住宿，也不是很贵。查看全部
+2018-10-08 14:58:57,767 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 14:58:58,411 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 毛****子
+2018-10-08 14:58:58,486 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2011-10-13
+2018-10-08 14:58:58,504 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:58,555 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 走不完的前程，停一停，从容步出；急不来的心事，想一想，暂且丢开”，寓意十分深刻。
+2018-10-08 14:58:58,573 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 14:58:59,189 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 三****螂
+2018-10-08 14:58:59,230 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2011-09-25
+2018-10-08 14:58:59,245 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:58:59,272 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 散布在黄山地区的一些残缺徽派建筑的集合，同周围的环境挺协调，对文物保护也是有益的。这里有明园和清园两部分，各自呈现明朝和清朝徽派建筑各自的风格。唯一的遗憾就是商业多少还是多了些，徽派文化的多样化诠释少了些。
+2018-10-08 14:58:59,288 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 14:58:59,910 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: m****
+2018-10-08 14:58:59,964 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2011-09-07
+2018-10-08 14:58:59,979 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:59:00,006 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 由黄山至屯溪的沿途有古建长廊之称,潜口明代民宅是其杰出代表。离开黄山温泉后乘车下行约60公里至紫霞峰下,便可见到
+2018-10-08 14:59:00,022 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 14:59:00,626 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: z****n
+2018-10-08 14:59:00,663 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2010-02-28
+2018-10-08 14:59:00,677 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:59:00,703 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 非常值得一去！共分为明园和清园两个部分~ 想小住几天，没问题，直接在清园内就有住宿，房间不多，但还是满清爽的~
+2018-10-08 14:59:00,720 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 14:59:01,333 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 济****
+2018-10-08 14:59:01,395 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-06-12
+2018-10-08 14:59:01,420 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 潜口民宅
+2018-10-08 14:59:01,464 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 这十余座明代古建筑是荫秀桥、石牌坊、善化亭、乐善堂、曹门厅、方观田宅、司谏第、吴建华宅、方文泰宅、苏雪痕宅等。
+2018-10-08 14:59:01,482 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 14:59:03,115 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] - page.run.[87] - driver.from_page_get_data_list.[2171] comment_user_name: Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 1820, in get_key_str_field_by_css_selector
+    ele = self.until_presence_of_element_located_by_css_selector(ele=ele,css_selector=field.css_selector,timeout=field.timeout)
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 733, in until_presence_of_element_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+Message: 
+
+2018-10-08 14:59:03,117 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 
+2018-10-08 14:59:06,279 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 14:59:06,345 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第44个,焉支山森林公园
+2018-10-08 14:59:33,991 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:00:34,052 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:00:34,095 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:00:34,150 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv2****982
+2018-10-08 15:00:34,178 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-07-31
+2018-10-08 15:00:34,206 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 焉支山森林公园
+2018-10-08 15:00:34,232 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 能够体验登山、游览的乐趣，森林环境优美，是盛夏避暑的好去处！
+2018-10-08 15:00:35,276 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 0.0
+2018-10-08 15:00:35,933 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv5****875
+2018-10-08 15:00:35,961 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2016-10-08
+2018-10-08 15:00:35,976 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 焉支山森林公园
+2018-10-08 15:00:36,002 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第10季】方便快捷，比在售票窗口买省了45元9个人。门口检票登记个号就可以啦
+2018-10-08 15:00:36,019 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:00:36,605 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 如****
+2018-10-08 15:00:36,643 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2011-10-06
+2018-10-08 15:00:36,665 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 焉支山森林公园
+2018-10-08 15:00:36,704 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 区内重峦叠嶂，松林密布。山上林海松涛，碧波无际，山下沟壑纵横，清泉淙淙。腹地，獐鹿、岩羊等野生动物出没其间，峡谷两侧崇山峭立，奇石岩岩。秋日，各种野花竞相怒放，争奇斗艳；晓日初升，云兴霞蔚，重雾缥缈，气象万千。秋夏之际，这里气候凉爽湿润，景色秀丽迷人，素有“小黄山”之称。是消夏避暑，度假旅游不可多得的自然风光游览胜地。查看全部
+2018-10-08 15:00:36,722 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:00:37,329 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 匿名
+2018-10-08 15:00:37,359 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2011-07-26
+2018-10-08 15:00:37,374 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 焉支山森林公园
+2018-10-08 15:00:37,401 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 是国家级4A级景区。群山层峦叠嶂，在茫茫林海中寺庙错落其间，环境清幽。在河西走廊这样一个干旱少雨的地方实属罕见，是消夏避暑不可多得的好去处！
+2018-10-08 15:00:37,417 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:00:38,028 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 小****
+2018-10-08 15:00:38,093 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2010-01-29
+2018-10-08 15:00:38,112 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 焉支山森林公园
+2018-10-08 15:00:38,144 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 门票超便宜，只需要10元钱，里面也没有什么好看的，就是看看自然风光的景区
+2018-10-08 15:00:38,164 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:00:41,954 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:00:42,018 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第45个,关麓
+2018-10-08 15:01:04,632 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:02:04,694 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:02:04,714 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:02:04,754 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv3****894
+2018-10-08 15:02:04,791 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2016-12-29
+2018-10-08 15:02:04,821 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:04,853 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 摄影爱好者的青睐，安静祥和，就是比较偏，不是特别热闹
+2018-10-08 15:02:04,872 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:02:05,511 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv180****0567
+2018-10-08 15:02:05,541 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-11-16
+2018-10-08 15:02:05,556 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:05,582 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 这次出来徽派建筑看了个够多少有些审美疲劳，各有各的特点，有时间还是看一看免得留下遗憾
+2018-10-08 15:02:05,599 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:02:06,244 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: a****
+2018-10-08 15:02:06,287 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-11-28
+2018-10-08 15:02:06,302 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:06,328 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 在这里关麓的出名，最出名的莫过于有着“联体古民居”之称的古建筑群——“关麓八大家”。相对独立却又串结成一个整体，不得不佩服当时的建筑工艺。在隐隐的阴云下面，徽派民居的文化底蕴更为浓厚。
+2018-10-08 15:02:06,346 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:06,996 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: z****n
+2018-10-08 15:02:07,057 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-11-27
+2018-10-08 15:02:07,091 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:07,149 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 很值得去，一点商业气息都没有，走在小巷里感受岁月的沉淀，感觉非常不错。那里的八大家的民居几乎囊括了徽洲民居的特色。
+2018-10-08 15:02:07,176 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:07,819 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 我****
+2018-10-08 15:02:07,863 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-08-10
+2018-10-08 15:02:07,878 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:07,904 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 漫步小巷、卷门、青石路面，参天古木，让我们有一种恍然隔世的感觉，仿佛回来以前那纯朴简单的生活中。
+2018-10-08 15:02:07,921 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:08,518 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 济****
+2018-10-08 15:02:08,552 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-06-12
+2018-10-08 15:02:08,569 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:08,599 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 村口有一人工塘，面积达3000平方米，状似弯月，称月塘。
+2018-10-08 15:02:08,619 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:09,245 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: t****
+2018-10-08 15:02:09,327 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-03-16
+2018-10-08 15:02:09,353 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:09,402 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 宏村是值得一去的地方。一般概念上，游宏村是半天时间，它的牛形水系是有别于其它古民居的地方。但如果你厌倦了城市的喧嚣，想往世外桃园的宁静就一定要在宏村住一晚。村中树仁堂客栈是个不错的落脚之处，店方一家九口三代人，和善又热情。主事的大哥是个有头脑的年青人，网络让他的小店声名远播，他也懂得诚信是商家之本。夕阳、水牛、小溪和一群戏水的孩子，让你仿佛回到儿时与爷爷一起回乡的傍晚。天井、石桌、大树和几样朴实可口的小菜，让我们认定是到达以来最舒服的一餐。宏村的夜很静，有数的几盏路灯在街巷间眨着眼，偶一抬头，瞟了一眼夜空，竟惊出一身汗——星星！从没见过那么多的星星！三十岁上下的人，小的时候应该还见过繁星满布的夜空，可长大后的城市让我们的夜不再清澈，五彩霓虹让我们忘记了天空原本的眼睛。久违了，遥远星球的朋友，在古老的南方小镇，竟真切地让人感到人类并不孤独。星光或明或暗那是因为距离或短或长，但不管怎样，所有的星星都在闪烁，都在诉说。查看全部
+2018-10-08 15:02:09,422 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:10,051 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: t****
+2018-10-08 15:02:10,095 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-03-16
+2018-10-08 15:02:10,111 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:10,139 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 环境很好，房间很差，就是九十年代的三星级酒店标准吧，可能略好一点，要了两间别墅标房，马桶都像坏掉一样，水下得跟漏水一样慢，可是酒店说没有坏。 温泉和酒店是分开的，住店的没有优惠，温泉门票198，没有必要为了泡温泉住到这里了。
+2018-10-08 15:02:10,157 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:11,203 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: t****d
+2018-10-08 15:02:11,255 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-03-16
+2018-10-08 15:02:11,280 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:11,326 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 五一期间性价比不是很高，房间风景还可以，但是设施过于简陋，由于大多数时间在温泉泡着，所以住在房间里的时间不多。房间里配的电脑倒不错，网速也很快。早餐质量有待改进，吃早餐要走10分钟左右到马路对面的阳光餐厅，自助早餐的质量只能说是差，食品品种简单，苍蝇到处飞，好容易来了一盆西瓜，10秒种内抢光。不停的听到人家在骂骂咧咧。
+2018-10-08 15:02:11,354 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:11,947 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 黯****
+2018-10-08 15:02:12,008 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-02-28
+2018-10-08 15:02:12,024 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:12,051 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 房间环境很好，有浴缸，有电脑，可以上网，房间也很大。就是车道有点小，停车位少了点，春节过去在进出高峰时挺难走的。门口就是他们的餐厅，看上去还不错，可惜没去吃，以后去的同志们建议还是在这里吃好，比外面那些又贵又难吃的农家菜肯定好多了（可能是旺季的关系）。街对面就是他们新造的温泉，还在装修中所以没去，不过每个房间都有一张单子，据说填了以后等5月份温泉造好了就会送两张门票。热切期待中哦。。。。查看全部
+2018-10-08 15:02:12,067 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:13,692 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] - page.run.[87] - driver.from_page_get_data_list.[2171] comment_user_name: Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 1820, in get_key_str_field_by_css_selector
+    ele = self.until_presence_of_element_located_by_css_selector(ele=ele,css_selector=field.css_selector,timeout=field.timeout)
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 733, in until_presence_of_element_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+Message: 
+
+2018-10-08 15:02:13,694 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 
+2018-10-08 15:02:15,589 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1564] 点击下一页: 暂停5秒...
+2018-10-08 15:02:20,593 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第2页...
+2018-10-08 15:02:20,632 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:02:20,697 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 楚****
+2018-10-08 15:02:20,734 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-02-28
+2018-10-08 15:02:20,764 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 关麓
+2018-10-08 15:02:20,791 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 前台服务还不错，但是我定的时候就要求加床，进房间一看床没加，这方面要有所改进比较好，温泉比较不错，水蛮干净，但是我觉得东西不太好吃，大的来说还是比较。建议大家现在去比较好，它现在在前台买温泉票还送200现金券，比较划算。
+2018-10-08 15:02:20,807 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:02:22,451 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] - page.run.[87] - driver.from_page_get_data_list.[2171] comment_user_name: Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 1820, in get_key_str_field_by_css_selector
+    ele = self.until_presence_of_element_located_by_css_selector(ele=ele,css_selector=field.css_selector,timeout=field.timeout)
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 733, in until_presence_of_element_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_element_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+Message: 
+
+2018-10-08 15:02:22,453 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 
+2018-10-08 15:02:25,635 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:02:25,701 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第46个,西递石林
+2018-10-08 15:03:01,776 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2402] : 
+第1次加载页面失败!!!
+2018-10-08 15:03:20,607 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过2次创建标签页和1次关闭标签页,成功加载页面!!!
+2018-10-08 15:04:20,666 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:04:20,707 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:04:20,774 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv139****3894
+2018-10-08 15:04:20,807 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-12-28
+2018-10-08 15:04:20,833 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:20,860 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 西递石林的花海比石林好看多了，一顿美拍，美美的，有机会还会去。
+2018-10-08 15:04:20,877 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:04:21,515 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****t0s
+2018-10-08 15:04:21,574 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-10-14
+2018-10-08 15:04:21,595 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:21,633 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第14季】 【点评有奖第14季】还可以，和云南的石林不是一种类型，现在这个季节花不茂盛了，花海成片时会很漂亮
+2018-10-08 15:04:21,656 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:04:22,249 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****cth
+2018-10-08 15:04:22,312 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-10-13
+2018-10-08 15:04:22,338 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:22,384 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第14季】满意
+2018-10-08 15:04:22,401 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:04:23,003 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****254
+2018-10-08 15:04:23,079 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-10-08
+2018-10-08 15:04:23,096 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:23,124 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第14季】在这里买票真是很方便，到了景点自己输入号码就可以了，还优惠，真是很开心，很满意！国庆期间，花开的正漂亮的时候，真是选对时间了！
+2018-10-08 15:04:23,141 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:04:23,782 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: u****5
+2018-10-08 15:04:23,812 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-08-31
+2018-10-08 15:04:23,827 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:23,856 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第13季】整个景区不算大，基本一个多小时能游玩。石层比较独特，看着指示牌，能分辨各式石层的形状。说什么，像什么。景区唯一的一个公共厕所铁锁将军。服务太差了……
+2018-10-08 15:04:23,873 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 2.0
+2018-10-08 15:04:24,460 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****096
+2018-10-08 15:04:24,513 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-04-30
+2018-10-08 15:04:24,529 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:24,562 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第12季】景区新建的 拍照还行 游玩意义不大……不是特别好玩
+2018-10-08 15:04:24,579 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 3.0
+2018-10-08 15:04:25,193 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv7****713
+2018-10-08 15:04:25,229 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-02-06
+2018-10-08 15:04:25,246 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:25,273 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第11季】意外惊喜，人少，景美！适合日落前来！西递石林在地质学上称为岩溶地貌，又称喀斯特地貌。
+2018-10-08 15:04:25,291 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:04:25,873 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv7****389
+2018-10-08 15:04:25,927 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-01-29
+2018-10-08 15:04:25,948 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:25,985 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第11季】石林和花海组成一幅美丽的美景。一个个石林组成了不同的图案，登高后远处袅袅吹烟白墙灰瓦构成一幅山水画。
+2018-10-08 15:04:26,008 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:04:26,605 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv3****114
+2018-10-08 15:04:26,632 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2016-11-15
+2018-10-08 15:04:26,647 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:26,673 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 新开发的景点 环境挺不错 放眼望去全都是各色格桑花 山上是石林 各种奇形怪状的石头 是拍照留影的好地方 地方容易找到 景区不算太大 逛起来也不累 有别于西递 宏村 木雕楼的风景 值得一看
+2018-10-08 15:04:26,690 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:04:27,280 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 15:04:27,311 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2016-03-10
+2018-10-08 15:04:27,329 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递石林
+2018-10-08 15:04:27,361 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 这石林看上去还不错，尽管规模不大~
+2018-10-08 15:04:27,380 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:04:31,107 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:04:31,174 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第47个,太平湖（不含游船）+虎林园
+2018-10-08 15:04:57,167 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:05:57,225 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:05:57,262 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:05:57,319 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv7****286
+2018-10-08 15:05:57,353 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2018-04-06
+2018-10-08 15:05:57,380 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 太平湖（不含游船）+虎林园
+2018-10-08 15:05:57,405 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 太平湖游玩了一个小时左右，虎林园游玩了半小时，就结束了，内容少，期待进一步开发！
+2018-10-08 15:05:57,423 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 3.0
+2018-10-08 15:06:01,200 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:06:01,268 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第48个,太平湖+杨家寨
+2018-10-08 15:06:29,015 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:07:29,076 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:07:29,117 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:07:39,532 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 2143, in from_page_get_data_list
+    elements_list = self.until_presence_of_all_elements_located_by_css_selector(css_selector=page.listcssselector.list_css_selector)
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 868, in until_presence_of_all_elements_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+列表页面找不到需要抓取的元素!!!
+2018-10-08 15:07:42,721 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:07:42,789 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第49个,太平湖+九座游艇
+2018-10-08 15:08:07,016 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:09:07,075 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:09:07,094 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:09:07,139 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****b2y
+2018-10-08 15:09:07,169 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2016-07-23
+2018-10-08 15:09:07,195 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 太平湖+九座游艇
+2018-10-08 15:09:07,220 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 湖不错，水还蛮清的，游艇比较好玩，但是中间的岛没意思，人造的
+2018-10-08 15:09:07,236 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:09:10,985 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:09:11,052 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第50个,太平湖+七座游艇
+2018-10-08 15:09:32,027 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:10:32,088 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:10:32,129 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:10:32,184 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****raj
+2018-10-08 15:10:32,214 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2018-07-02
+2018-10-08 15:10:32,239 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 太平湖+七座游艇
+2018-10-08 15:10:32,266 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 游船也分等级，买的时候一定要注意，不然就被坑了
+2018-10-08 15:10:32,283 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 3.0
+2018-10-08 15:10:32,911 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****474
+2018-10-08 15:10:32,989 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2017-05-30
+2018-10-08 15:10:33,007 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 太平湖+七座游艇
+2018-10-08 15:10:33,034 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 【点评有奖第12季】平生第一次坐快艇，有点太刺激了，可能是驾驶员师傅秀技术感觉颠簸的厉害，都要晕船了，不过湖面很大很美，景点都是人工的没什么意思，就是上岸拍拍照。
+2018-10-08 15:10:33,052 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:10:36,839 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:10:36,903 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第51个,西递+木坑竹海
+2018-10-08 15:11:04,642 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:12:04,704 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:12:04,744 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:12:04,809 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1****bch
+2018-10-08 15:12:04,837 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-08-15
+2018-10-08 15:12:04,863 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 西递+木坑竹海
+2018-10-08 15:12:04,890 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 最喜欢木坑竹海，到了就不愿离开，晚上就住在了山上，看了久违的满天星，大美
+2018-10-08 15:12:04,907 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:12:08,663 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:12:08,727 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第52个,西递+打鼓岭
+2018-10-08 15:12:41,607 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:13:41,664 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:13:41,703 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:13:52,135 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 2143, in from_page_get_data_list
+    elements_list = self.until_presence_of_all_elements_located_by_css_selector(css_selector=page.listcssselector.list_css_selector)
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 868, in until_presence_of_all_elements_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+列表页面找不到需要抓取的元素!!!
+2018-10-08 15:13:55,334 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:13:55,401 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第53个,爸比去哪儿
+2018-10-08 15:14:24,885 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:15:24,946 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:15:24,987 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:15:25,041 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 15:15:25,069 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2016-04-28
+2018-10-08 15:15:25,095 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 爸比去哪儿
+2018-10-08 15:15:25,122 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 环境特好，风光迷人，有趣味，性价比高。值得一玩。
+2018-10-08 15:15:25,139 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:15:28,911 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:15:28,977 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第54个,昌溪古镇
+2018-10-08 15:15:41,155 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:16:41,216 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:16:41,267 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:16:41,310 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 起****天
+2018-10-08 15:16:41,337 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-31
+2018-10-08 15:16:41,364 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:41,391 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 相比45元的票价，景区内可谓是鸡肋。沿途满眼的脏乱差，临近中午村内竟然无一家饭店。村民倒是热情淳朴的，周边自然风光也还不错。村口两棵千年古樟是最大亮点。总结，其实就是个有些年头的老村子。
+2018-10-08 15:16:41,410 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:41,982 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 15:16:42,015 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-31
+2018-10-08 15:16:42,032 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:42,065 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 安徽的古镇，犹如繁星点点便撒在皖南大地上，鲜明的地域文化背景，深厚的徽商经济底蕴使每个古镇都选址于依山傍水之间。 昌溪古镇被称为“古歙南乡第一村”，村内分上村和下村，上村为吴氏古村，下村为周氏古村。
+2018-10-08 15:16:42,083 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:42,659 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 15:16:42,720 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-24
+2018-10-08 15:16:42,739 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:42,766 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 村内拱桥、亭阁、宗祠、水口、书院、古庙和民宅随处可见。村中有池塘2多处，古井更多，民宅鳞次栉比，扑朔迷离，宛如迷宫。值得一游。
+2018-10-08 15:16:42,783 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:43,376 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 不****悲
+2018-10-08 15:16:43,409 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-03-11
+2018-10-08 15:16:43,424 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:43,453 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 我们是27年去的，那时还不要门票。昌溪位于歙县南部山区，座落于千岛湖的源流之一的昌源河所流经的皖南山间盆地中，四周群山环绕，山青水绣，境内空气清新，宛若世外桃源。村内分上村和下村，下村为周氏古村，又名周邦头村，其周氏宗祠有５余年历史。村里还遗留有父子进士石牌坊、百秀亭和数十幢明清以来建造的古民居和古祠堂，近千年树龄的香樟和银杏树仍然郁郁葱葱，古人用于加工粮食的古水碓和古水坝具有原始风韵。查看全部
+2018-10-08 15:16:43,470 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:44,047 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 黑****明
+2018-10-08 15:16:44,089 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-01-29
+2018-10-08 15:16:44,103 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:44,129 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 安徽歙县昌溪景区，应该是目前为止中国保存很完整的另一个徽派建筑的古村落，值得去看一下！
+2018-10-08 15:16:44,146 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:44,748 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 恐****
+2018-10-08 15:16:44,803 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-01-24
+2018-10-08 15:16:44,818 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:44,847 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 昌溪是古徽州歙县境内的一个历史、文化、生态古村，历来被称为“歙南第一村”。它位于歙县南部山区从歙南名镇深渡至昌溪大约五公里左右，它坐落在千岛湖的源流昌源河所流经的皖南山间盆地中，四周群山环绕，山青水绣，境内空气清新，鸟语花香，景色迷人，走入昌溪如入世外桃源。查看全部
+2018-10-08 15:16:44,862 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:45,458 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 15:16:45,517 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-01-21
+2018-10-08 15:16:45,549 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:45,593 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 昌溪感觉有些荒芜，古屋不少，很多都破烂灰尘没有维护，景区里也没见到工作服务人员，就是个大村宅，住着当地居民，随便看看还可以。不过看到那些古建筑，联想当年的辉煌的情景，还是挺觉得了不起的村落，古代出了不少人物，当官从商的都有。自驾游还是蛮方便找的，蜿蜒盘旋的一条小路，开起来很有漂移的快感。
+2018-10-08 15:16:45,614 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:46,215 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 15:16:46,275 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-01-07
+2018-10-08 15:16:46,296 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:46,333 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 因为到达深渡的时候时间太早，所以就借了辆车去了昌溪，因为借的车是本地牌，所以畅行无阻，进入古村都没有人要我买票~~~古村比较原生态 ，但毕竟也开发了，慢慢的总会走向商业化的道路，只是脚步会慢一些而已……
+2018-10-08 15:16:46,357 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:46,931 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: lv1*******
+2018-10-08 15:16:46,971 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-01-06
+2018-10-08 15:16:46,986 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:47,012 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 安徽黄山的昌溪古镇， 是一个生态古村。四周群山环绕，树木花草郁郁葱葱，很有历史文化气息，同时又有着世外桃源般的生活气息，宁静悠远，值得欣赏。
+2018-10-08 15:16:47,041 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:47,620 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 恐****
+2018-10-08 15:16:47,653 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-01-01
+2018-10-08 15:16:47,671 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 昌溪古镇
+2018-10-08 15:16:47,703 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 昌溪现在也要收门票了，而且价格还不低。油菜花季节的时候，很多人会从那里走到石潭村。一路上都是非常漂亮的油菜花景色。沿着昌溪清澈的河流走，美丽的田园景色非常赏心悦目。
+2018-10-08 15:16:47,723 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:16:51,423 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:16:51,491 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第55个,见明堂民俗博物馆
+2018-10-08 15:17:19,620 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:18:19,680 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:18:19,720 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:18:19,790 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 二****光
+2018-10-08 15:18:19,817 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2015-02-11
+2018-10-08 15:18:19,843 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 见明堂民俗博物馆
+2018-10-08 15:18:19,871 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 里面存放有一些关于徽州地区的民俗物品，涉及婚丧嫁娶等等，不一而足，就是没人介绍。
+2018-10-08 15:18:19,888 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 5.0
+2018-10-08 15:18:23,650 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:18:23,716 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第56个,稠墅牌坊群
+2018-10-08 15:18:27,659 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:19:27,718 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:19:27,761 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:19:27,834 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 四****
+2018-10-08 15:19:27,862 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-12-14
+2018-10-08 15:19:27,891 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 稠墅牌坊群
+2018-10-08 15:19:27,918 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 记得小时候好像有一部琼瑶的电视剧就是和安徽的牌坊有关的，还依稀记得那里面的男女主角在牌坊下面哭得淅沥哗啦的，还有一堆人在打人~~所以看到这里的七座牌坊的时候，总感觉就是回到了那个年代和那个地方，有些怕怕的，也有些好奇，听着导游说着一些关于牌坊的故事和传说，我只觉得，在中国古代，做女人真的很不容易。。。。查看全部
+2018-10-08 15:19:27,936 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:19:28,532 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: z****n
+2018-10-08 15:19:28,568 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-11-27
+2018-10-08 15:19:28,585 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 稠墅牌坊群
+2018-10-08 15:19:28,615 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 七座牌坊矗立村口,很有气势,很有震撼力.感觉这是一段持续的历史，伫立在乡村田野里，希望保持原来的风貌。
+2018-10-08 15:19:28,632 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:19:29,249 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: l****
+2018-10-08 15:19:29,294 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-11-17
+2018-10-08 15:19:29,315 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 稠墅牌坊群
+2018-10-08 15:19:29,353 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 没什么好看的，就七座牌坊和一些祠堂，倒是边上的小河里的鸭子比较有趣～ 路边很多卖甘蔗的，很新鲜也很甜，价格么也十分便宜，这里看来韩国人来的特别多，连卖甘蔗的都写着韩文哟～ 稍微拍了几张照就离开了，门票80元还真是有点儿贵～
+2018-10-08 15:19:29,370 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:19:30,016 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 济****
+2018-10-08 15:19:30,050 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-06-12
+2018-10-08 15:19:30,064 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 稠墅牌坊群
+2018-10-08 15:19:30,089 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 其中“褒荣坊”为施表徽商汪廷漳一族三人
+2018-10-08 15:19:30,105 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:19:30,734 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 水****
+2018-10-08 15:19:30,761 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-03-09
+2018-10-08 15:19:30,776 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 稠墅牌坊群
+2018-10-08 15:19:30,802 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 没什么好看的，就七座牌坊和一些祠堂，倒是边上的小河里的鸭子比较有趣～ 路边很多卖甘蔗的，很新鲜也很甜，价格么也十分便宜，这里看来韩国人来的特别多，连卖甘蔗的都写着韩文～ 稍微拍了几张照就离开了，门票80真是贵，还好不是自己出钱～
+2018-10-08 15:19:30,818 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:19:34,573 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:19:34,636 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第57个,双林寺
+2018-10-08 15:20:04,613 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:21:04,673 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:21:04,703 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:21:04,750 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 周****
+2018-10-08 15:21:04,781 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2010-02-28
+2018-10-08 15:21:04,807 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 双林寺
+2018-10-08 15:21:04,836 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 非常值得去的地方！整座寺庙至今未经修缮，原汁原味的保留了北宋风格，里面的彩塑不论是造型还是色彩都非常漂亮，可惜我关掉闪光灯了仍然不许拍照。强烈推荐！
+2018-10-08 15:21:04,853 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:21:05,463 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: n****
+2018-10-08 15:21:05,500 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2010-02-26
+2018-10-08 15:21:05,522 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 双林寺
+2018-10-08 15:21:05,559 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 有人形容它是藏在身边的千年古刹，一点不为过，古香古色，不过现在建成景区了，虽然道路通达了，可是没有以前感觉好了。
+2018-10-08 15:21:05,577 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:21:06,148 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: x****5
+2018-10-08 15:21:06,181 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-12-24
+2018-10-08 15:21:06,196 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 双林寺
+2018-10-08 15:21:06,223 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 铁塔有很多年了，乌黑的，不层发生变化，而且是瑜伽程亮，
+2018-10-08 15:21:06,241 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:21:06,859 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 忘****
+2018-10-08 15:21:06,897 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-06-19
+2018-10-08 15:21:06,920 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 双林寺
+2018-10-08 15:21:06,956 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 位于义乌佛堂镇云黄山的双林寺建于南梁，由高僧傅大士开创。
+2018-10-08 15:21:06,983 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:21:07,573 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 蓝****
+2018-10-08 15:21:07,622 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-06-05
+2018-10-08 15:21:07,642 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 双林寺
+2018-10-08 15:21:07,671 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 作为历史上著名的东方佛教活动中心，其深厚的文化底蕴和丰富的旅游资源，引起了政府和社会各界的重视和关注。有个深远的意义
+2018-10-08 15:21:07,689 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:21:11,369 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:21:11,432 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第58个,狮子山公园
+2018-10-08 15:21:30,666 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:22:30,728 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:22:30,767 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:22:30,839 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 2****3
+2018-10-08 15:22:30,870 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2012-08-29
+2018-10-08 15:22:30,898 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 狮子山公园
+2018-10-08 15:22:30,928 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 印象比较深刻的是，梅花糕，现场做出来的，入口很烫，一不小心就会被烫到。还有京城葫芦王，去南京还特地买了几只在高铁上吃。现在苏州观前貌似也新开张了京城葫芦王，有空去吃吃。 还曾经在狮子桥一家泰式餐厅吃过饭，和公司3个台湾人。现在两个已经返台，一个落户南京，都好久不联系了。 再想想狮子桥的美食啊，有一家汤包不错，还有一家在湖南路上做里脊的也很不错，排队很长。查看全部
+2018-10-08 15:22:30,944 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:22:31,543 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 董****
+2018-10-08 15:22:31,576 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2010-02-19
+2018-10-08 15:22:31,594 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 狮子山公园
+2018-10-08 15:22:31,625 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 进去玩只有三四次而已。其实这个公园里也没什么，只有几座小山和一些树林。可门票上还是说的天花乱坠，比如占地600亩，由十二座小山组成，动物80余种，植物200余种，绿化确实不错，那没说的那么夸张，人文景观么如果对历史有了解的可能还能看出点道道。
+2018-10-08 15:22:31,644 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:22:32,238 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_user_name: 人****
+2018-10-08 15:22:32,266 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_time: 2009-11-26
+2018-10-08 15:22:32,281 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] shop_name: 狮子山公园
+2018-10-08 15:22:32,307 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_content: 古城只有一座山，就是狮子山，也是神奇地隔开新城古城的一座山。看全景都要往这座山上爬，如果不怕高，就爬到万古楼那个地方，也是古城最高点。狮子山山路特别安静，如果想感受一下在古城看新城的感觉，也可以找个人走走山路的。
+2018-10-08 15:22:32,323 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] comment_score: 4.0
+2018-10-08 15:22:36,069 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:22:36,129 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第59个,祥源·祁红产业文化博览园
+2018-10-08 15:22:45,341 - spider.driver.base.logger - DEBUG - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2399] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-08 15:23:45,402 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1535] : 当前翻到第1页...
+2018-10-08 15:23:45,441 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : 驴妈妈景点评论列表
+2018-10-08 15:23:55,803 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1538] : Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 2143, in from_page_get_data_list
+    elements_list = self.until_presence_of_all_elements_located_by_css_selector(css_selector=page.listcssselector.list_css_selector)
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 868, in until_presence_of_all_elements_located_by_css_selector
+    return WebDriverWait(ele, timeout).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, css_selector)))
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/support/wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+列表页面找不到需要抓取的元素!!!
+2018-10-08 15:23:58,940 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[95] - driver.until_click_no_next_page_by_css_selector.[1567] : 
+Message: 
+
+没有下一页了!!!
+2018-10-08 15:23:59,013 - spider.driver.base.logger - INFO - lvmamaspotspider.get_comment_list.[89] - driver.info_log.[215] : 第60个,竹山书院
+2018-10-08 15:24:04,272 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2402] : 
+第1次加载页面失败!!!
+2018-10-08 15:24:04,298 - spider.driver.base.logger - ERROR - lvmamaspotspider.get_comment_list.[90] - driver.fast_new_page.[2402] : 
+第2次加载页面失败!!!
+2018-10-08 15:24:04,301 - spider.driver.base.logger - ERROR - driver.error_log.[195] - driver.__get_running_func__.[180] : Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 2392, in fast_new_page
+    self.driver.switch_to.window(self.driver.window_handles[-1])
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 725, in window_handles
+    return self.execute(Command.GET_WINDOW_HANDLES)['value']
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 320, in execute
+    self.error_handler.check_response(response)
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/travel/lvmamaspotspider.py", line 100, in run_spider
+    #self.get_comment_list()
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/travel/lvmamaspotspider.py", line 90, in get_comment_list
+    self.fast_new_page(url=shop_name_url_list[i][1])
+  File "/home/lab421/文档/github/Lab421TouristDspider/spider/driver/base/driver.py", line 2403, in fast_new_page
+    if len(self.driver.window_handles) > 1:
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 725, in window_handles
+    return self.execute(Command.GET_WINDOW_HANDLES)['value']
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 320, in execute
+    self.error_handler.check_response(response)
+  File "/home/lab421/anaconda3/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+
+
+Message: chrome not reachable
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.42.591071 (0b695ff80972cc1a65a5cd643186d2ae582cd4ac),platform=Linux 4.15.0-36-generic x86_64)
+
