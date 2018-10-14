@@ -167,7 +167,7 @@ fl_comment1 = Fieldlist(
     # Field(fieldname=FieldName.COMMENT_RATE_TAG, css_selector='div.main-review > div.review-rank > span.score', attr='innerHTML', filter_func=get_comment_rate_tag),
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='div.main-review', attr='innerHTML', filter_func=get_comment_content,is_info=False),
 
-    Field(fieldname=FieldName.COMMENT_GRADE,css_selector='div > div.review-rank > span',attr='class',filter_func=get_comment_grade, is_info=False)
+    Field(fieldname=FieldName.COMMENT_SCORE,css_selector='div > div.review-rank > span',attr='class',filter_func=get_comment_grade, is_info=False)
     # Field(fieldname=FieldName.COMMENT_PIC_LIST, list_css_selector='div.main-review > div.review-pictures > ul', item_css_selector='li > a > img', attr='src', timeout=0),
 )
 

@@ -62,7 +62,7 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector= 'div.comment-txt.line-clamp3 > div > p', is_info=True),
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.top > div.tourist > div > p', is_info=True),
     #comment_grade有待商榷
-    Field(fieldname=FieldName.COMMENT_GRADE, css_selector='div.top > div.tourist > div > span', attr='style',filter_func=get_comment_grade, is_info=True),
+    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.top > div.tourist > div > span', attr='style',filter_func=get_comment_grade, is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.comment-bottom > p',filter_func=get_comment_time, is_info=True),
 )
 page_comment_1 = Page(name='驴妈妈景点店铺评论列表页面', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='#view > div.comment > div > div',item_start=10), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)

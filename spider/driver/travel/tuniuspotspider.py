@@ -72,7 +72,7 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME, css_selector='body > div.v2_body > div.v2_wrap.clearfix > div.v2_w1189 > div.v2_ticket_proinf.clearfix > div.v2_tp_text > div.v2_ct_title',is_isolated=True,is_info=True),
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='dl > dd > div > p.comment_detail',is_info=True),
     #有问题
-    Field(fieldname=FieldName.COMMENT_GRADE, css_selector='dl > dd > div > p.clists_words.clearfix > span:nth-child(1)',attr='class',filter_func=get_comment_grade, is_info=True),
+    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='dl > dd > div > p.clists_words.clearfix > span:nth-child(1)',attr='class',filter_func=get_comment_grade, is_info=True),
 )
 
 page_comment_1 = Page(name='途牛景点评论列表', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='#remarkFlag > div.detail_infor > div > ul.v2_comment_lists.comment_lists > li'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)
