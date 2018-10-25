@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     elif sys.argv[2]+sys.argv[4] == TravelSpiderName.XIECHENG_SPOT:
         from spider.driver.travel.xiechengspotspider import XiechengSpotSpider
-        spider = XiechengSpotSpider(isheadless=False,ismobile=False,isvirtualdisplay=False,
+        spider = XiechengSpotSpider(isheadless=True,ismobile=False,isvirtualdisplay=False,
                                     spider_id=sys.argv[1],
                                     data_website=sys.argv[2],
                                     data_region=sys.argv[3],
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.LVMAMA_SPOT:
         from spider.driver.travel.lvmamaspotspider import LvmamaSpotSpider
 
-        spider = LvmamaSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False, isproxy=True,isloadimages=False, initial_proxy_ip=Driver.get_curr_ip(),
+        spider = LvmamaSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False, isproxy=True,isloadimages=False,
                                   spider_id=sys.argv[1],
                                   data_website=sys.argv[2],
                                   data_region=sys.argv[3],
@@ -42,16 +42,17 @@ if __name__ == '__main__':
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.MAFENGWO_SPOT:
         from spider.driver.travel.mafengwospotspider import MafengwoSpotSpider
 
-        spider = MafengwoSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False,
+        spider = MafengwoSpotSpider(isheadless=True, ismobile=False, isvirtualdisplay=False,
                                      spider_id=sys.argv[1],
                                      data_website=sys.argv[2],
                                      data_region=sys.argv[3],
                                      data_source=sys.argv[4])
         spider.run_spider()
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.TUNIU_SPOT:
-        from spider.driver.travel.TuniuMobileSpotSpider import TuniuMobileSpotSpider
+        from spider.driver.travel.tuniuspotspider import TuNiuSpotSpider
 
-        spider = TuniuMobileSpotSpider(isheadless=False, ismobile=True, isvirtualdisplay=False,
+        spider = TuNiuSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False,isproxy=True,
+                                 initial_proxy_ip=Driver.get_curr_ip(),
                                      spider_id=sys.argv[1],
                                      data_website=sys.argv[2],
                                      data_region=sys.argv[3],

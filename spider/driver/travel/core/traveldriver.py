@@ -75,8 +75,9 @@ class TravelDriver(Driver):
     host = '127.0.0.1'
     port = 27017
     db = 'dspider2'
-    shop_collection = 'shops'
-    comments_collection = 'comments'
+    #数据库名字根据需求进行修改
+    shop_collection = 'shop'
+    comments_collection = 'comment'
 
     website_name = WebsiteName()
     website_name_list = WEBSITE_NAME_LIST

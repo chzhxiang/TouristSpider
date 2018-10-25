@@ -105,6 +105,7 @@ class QunarSpotSpider(TravelDriver):
 
 
     def get_comment_list(self):
+        self.fast_new_page(url='http://www.baidu.com');
         shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
                                  ).get_collection()
         shop_name_url_list = list()
@@ -125,8 +126,9 @@ class QunarSpotSpider(TravelDriver):
                 self.fast_new_page(url=shop_name_url_list[i][1])
                 time.sleep(1)
                 self.switch_window_by_index(index=-1)  # 页面选择
-                if '请求数据错误' in self.driver.title:
-                   self.info_log(data='关闭验证页面!!!')
+                if '请求数据错误，请稍后再试' in self.driver.title:
+                   print (2233333333333);
+                   self.info_log(data='关闭错误页面!!!')
                    self.close_curr_page()
                 else:
                    break
@@ -134,7 +136,8 @@ class QunarSpotSpider(TravelDriver):
             nextpagesetup=NextPageLinkTextSetup(link_text='下一页', pause_time=3,
                                                 main_pagefunc=PageFunc(func=self.from_page_get_data_list,
                                                                        page=page_comment_1)))
-        self.close_curr_page()
+            self.close_curr_page()
+
 
     def run_spider(self):
         try:

@@ -70,7 +70,7 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.rate-info > div.avatar-info > div.info > div.star-con > div', attr='innerHTML',filter_func=get_comment_grade, is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.rate-info > div.avatar-info > div.info > div.time', is_info=True),
 )
-page_comment_1 = Page(name='飞猪景点店铺评论列表页面', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='div.poi-rate-container > div'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=False)
+page_comment_1 = Page(name='飞猪景点店铺评论列表页面', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='div.poi-rate-container > div'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)
 
 
 class FliggySpotSpider(TravelDriver):
@@ -102,6 +102,8 @@ class FliggySpotSpider(TravelDriver):
             self.close_curr_page()
 
     def get_comment_info_list(self):
+        #打开知道
+        self.fast_new_page('http://www.baidu.com')
         shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
                                   host='localhost').get_collection()
         shop_name_url_list = list()
@@ -115,10 +117,10 @@ class FliggySpotSpider(TravelDriver):
             self.fast_new_page(url=shop_name_url_list[i][1])
             self.shop_name =  shop_name_url_list[i][0]
             comment_data_list = self.from_page_get_data_list(page=page_comment_1)
-            for j in range(0,len(comment_data_list)):
-                comment_data_list[j]['shop_name'] = shop_name_url_list[i][0]
-                self.save_data_to_mongodb(fieldlist= fl_comment1, mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), data=comment_data_list[j])
-            print(comment_data_list)
+            # for j in range(0,len(comment_data_list)):
+            #     comment_data_list[j]['shop_name'] = shop_name_url_list[i][0]
+            #     self.save_data_to_mongodb(fieldlist= fl_comment1, mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), data=comment_data_list[j])
+            # print(comment_data_list)
             self.close_curr_page()
 
         #从数据库中读取
@@ -126,10 +128,29 @@ class FliggySpotSpider(TravelDriver):
 
 
         # comment_data_list = self.from_page_get_data_list(page=page_comment_1)
+    def login(self):
+        #进行登录
+        self.fast_new_page(url='http://www.baidu.com')
+        self.fast_new_page(url='https://h5.m.taobao.com')
+        time.sleep(2)
+        # self.until_scroll_to_center_send_text_by_css_selector(css_selector='#kw', text=self.data_region + self.data_website)
+        # self.until_scroll_to_center_send_enter_by_css_selector(css_selector='#kw')
+        # self.fast_click_first_item_page_by_partial_link_text(link_text=self.data_website)
+        with open('./cookies/fliggy_cookies.json', 'r', encoding='utf-8') as f:
+            listCookies = json.loads(f.read())
+
+        for cookie in listCookies:
+            self.driver.add_cookie(cookie)
+        self.close_curr_page()
+        self.fast_new_page(url="https://h5.m.taobao.com")
+        #  self.fast_click_first_item_page_by_partial_link_text(link_text=self.data_website)
+        time.sleep(10)
 
     def run_spider(self):
-        self.get_shop_info_list()
+        #进行登录
+        self.login();
+        #self.get_shop_info_list()
         #self.get_shop_detail()
-        ##self.get_comment_info_list()
+        self.get_comment_info_list()
 
 

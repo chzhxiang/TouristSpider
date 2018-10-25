@@ -16,3 +16,4 @@ jsonCookies = json.dumps(dictCookies)
 # 登录完成后，将cookie保存到本地文件
 with open('/home/wjl/dianping_cookies.json', 'w+') as f:
     f.write(jsonCookies)
+    

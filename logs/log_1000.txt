@@ -1,6 +1,0 @@
-2018-10-09 21:02:13,299 - spider.driver.base.logger - INFO - Start print log
-2018-10-09 21:02:13,303 - spider.driver.base.logger - DEBUG - load images is false
-2018-10-09 21:02:14,867 - spider.driver.base.logger - DEBUG - 去哪儿-西塘-景点
-2018-10-09 21:02:14,911 - spider.driver.base.logger - INFO - qunarspotspider.get_comment_list.[116] - driver.info_log.[215] : 第1个,西塘古镇
-2018-10-09 21:02:15,431 - spider.driver.base.logger - WARNING - qunarspotspider.get_comment_list.[122] - driver.is_ready_by_proxy_ip.[1522] : 第1次尝试,proxy_ip没有改变,请等待...
-2018-10-09 21:02:20,573 - spider.driver.base.logger - DEBUG - qunarspotspider.get_comment_list.[122] - driver.is_ready_by_proxy_ip.[1519] : proxy_ip由117.69.233.204变为60.191.32.72

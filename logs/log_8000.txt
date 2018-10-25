@@ -1,2 +1,0 @@
-2018-07-03 11:56:22,711 - spider.driver.base.logger - INFO - Start print log
-2018-07-03 11:56:22,715 - spider.driver.base.logger - DEBUG - load images is false

@@ -26,6 +26,12 @@ from pymongo.collection import Collection
 from pyquery import PyQuery
 import os
 
+import os
+from urllib import request
+
+import re
+from lxml import etree
+from urllib import request
 class Driver(object):
     desktop_user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393'
     mobile_user_agent = 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13C75 Safari/601.1'
@@ -67,16 +73,27 @@ class Driver(object):
     #类可以直接使用该方法
     @staticmethod
     def get_curr_ip():
-        return re.findall(r'[\d]{1,3}.[\d]{1,3}.[\d]{1,3}.[\d]{1,3}',os.popen("tsocks wget -q -O - http://pv.sohu.com/cityjson | awk '{print $5}'").read())[0]
+        #从who.is上获取ip地址
+        res = request.urlopen("https://who.is/");
+        html = etree.HTML(res.read());
+        a = (html.xpath('/html/body/div[3]/div[1]/div/center/p[3]/a'));
+        for i in a:
+            return (i.text)
+        # return re.findall(r'[\d]{1,3}.[\d]{1,3}.[\d]{1,3}.[\d]{1,3}', html)[0]
 
     def get_curr_proxy_ip(self):
         '''
         获得当前代理ip
         :return:
         '''
-        while(True):
+        while (True):
             try:
-                proxy_ip = re.findall(r'[\d]{1,3}.[\d]{1,3}.[\d]{1,3}.[\d]{1,3}',os.popen("tsocks wget -q -O - http://pv.sohu.com/cityjson | awk '{print $5}'").read())[0]
+                res = request.urlopen("https://who.is/");
+                html = etree.HTML(res.read());
+                a = (html.xpath('/html/body/div[3]/div[1]/div/center/p[3]/a'));
+                for i in a:
+                    proxy_ip =  (i.text)
+                #proxy_ip = re.findall(r'[\d]{1,3}.[\d]{1,3}.[\d]{1,3}.[\d]{1,3}', html)[0]
                 return proxy_ip
             except Exception:
                 self.error_log('由于网络原因,获取proxy_ip出错!!!')
@@ -1517,6 +1534,7 @@ class Driver(object):
                 curr_proxy_ip = self.get_curr_proxy_ip()#当前代理ip
                 if self.pre_proxy_ip != curr_proxy_ip and curr_proxy_ip != self.initial_proxy_ip:#如果ip改变并且不是初始ip
                     self.debug_log(data='proxy_ip由%s变为%s' % (self.pre_proxy_ip, curr_proxy_ip))
+                    time.sleep(5)
                     self.pre_proxy_ip = curr_proxy_ip
                     break
                 self.warning_log(e='第%s次尝试,proxy_ip没有改变,请等待...'%count)
@@ -1533,6 +1551,8 @@ class Driver(object):
         while(True):
             count += 1
             self.info_log(data='当前翻到第%s页...' % count)
+            # if(count >= 10):
+            #     self.close_curr_page()
             self.deal_with_failure_page()
             try:
                 nextpagesetup.main_pagefunc.run()

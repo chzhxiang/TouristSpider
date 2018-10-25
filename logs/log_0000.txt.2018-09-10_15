@@ -1,5 +1,0 @@
-2018-09-10 15:03:54,682 - spider.driver.base.logger - INFO - Start print log
-2018-09-10 15:03:54,690 - spider.driver.base.logger - DEBUG - load images is false
-2018-09-10 15:04:03,315 - spider.driver.base.logger - DEBUG - 马蜂窝-千岛湖-景点
-2018-09-10 15:04:08,221 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\Lab421TouristDspider\spider\driver\travel\mafengwospotspider.get_shop_info_list.[40] - D:\资料\GitHub\Lab421TouristDspider\spider\driver\base\driver.fast_get_page.[2280] : 经过1次创建session和0次关闭session,成功加载页面!!!
-2018-09-10 15:04:17,842 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\Lab421TouristDspider\spider\driver\travel\mafengwospotspider.get_shop_info_list.[45] - D:\资料\GitHub\Lab421TouristDspider\spider\driver\base\driver.fast_click_page_by_css_selector.[2347] : 经过1次点击和0次关闭标签页,成功加载页面!!!

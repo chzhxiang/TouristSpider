@@ -34,8 +34,6 @@ fl_shop1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_COMMENT_NUM, css_selector='div.txt > div.comment > a.review-num'),
     Field(fieldname=FieldName.SHOP_PRICE, css_selector='div.txt > div.comment > a.mean-price'),
     Field(fieldname=FieldName.SHOP_RATE, css_selector='div.txt > div.comment > span', attr='class', regex=r'[^\d]*', filter_func=get_shop_rate),
-    # Field(fieldname=FieldName.SHOP_TAG, css_selector='div.txt > span.comment-list', attr='innerHTML', filter_func=get_shop_tag, pause_time=1),
-    # Field(fieldname=FieldName.SUBTYPE_NAME, css_selector='div.txt > div.tag-addr > a:nth-child(1)', filter_func=get_shop_subtype_name),
     Field(fieldname=FieldName.SHOP_ADDRESS, css_selector='div.txt > div.tag-addr > span.addr'),
     Field(fieldname=FieldName.SHOP_IMG,css_selector='div.pic > a > img',is_info=True),
     Field(fieldname=FieldName.SHOP_FEATURE,css_selector='',filter_func=get_shop_feature, is_info=True),
@@ -162,9 +160,6 @@ fl_comment1 = Fieldlist(
 
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.main-review > div.dper-info',is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.main-review > div.misc-info.clearfix > span.time',filter_func=get_comment_time,is_info=True),
-    # Field(fieldname=FieldName.COMMENT_USER_RATE, css_selector='div > div.dper-info > span', attr='class', filter_func=get_rate, is_info=True),
-    # Field(fieldname=FieldName.COMMENT_RATE, css_selector='div.main-review > div.review-rank > span', attr='class', filter_func=get_rate, is_info=True),
-    # Field(fieldname=FieldName.COMMENT_RATE_TAG, css_selector='div.main-review > div.review-rank > span.score', attr='innerHTML', filter_func=get_comment_rate_tag),
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='div.main-review', attr='innerHTML', filter_func=get_comment_content,is_info=False),
 
     Field(fieldname=FieldName.COMMENT_SCORE,css_selector='div > div.review-rank > span',attr='class',filter_func=get_comment_grade, is_info=False)
@@ -202,6 +197,7 @@ class DianpingSpotSpider(TravelDriver):
         #         break
 
     def get_shop_comment(self):
+        self.fast_new_page(url='http://www.baidu.com');
         shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
                                  ).get_collection()
         shop_name_url_list = list()
@@ -215,8 +211,15 @@ class DianpingSpotSpider(TravelDriver):
             # self.deal_with_failure_page()
             # #
         #这里进行手动打开
-            self.fast_get_page(url=shop_name_url_list[i][1])
+            self.fast_new_page(url=shop_name_url_list[i][1])
             time.sleep(5)
+            self.until_click_no_next_page_by_css_selector(nextpagesetup=NextPageCssSelectorSetup(
+                css_selector='#review-list > div.review-list-container > div.review-list-main > div.reviews-wrapper > div.bottom-area.clearfix > div > a.NextPage',
+                stop_css_selector='#review-list > div.review-list-container > div.review-list-main > div.reviews-wrapper > div.bottom-area.clearfix > div > a.NextPage.hidden',
+                main_pagefunc=PageFunc(
+                    func=self.from_page_get_data_list,
+                    page=page_comment_1), pause_time=5))
+            self.close_curr_page()
             # while (True):
             #     self.is_ready_by_proxy_ip()
             #     # self.switch_window_by_index(index=-1)
@@ -228,21 +231,22 @@ class DianpingSpotSpider(TravelDriver):
             #           self.info_log(data='关闭验证页面!!!')
             #           self.close_curr_page()
             #     else:
-            #         break
-            nextpagesetup = NextPageLinkTextSetup(
-               link_text='下一页',
-                page=page_comment_1, pause_time=2)
-
-
-            time_list = [i.get(FieldName.COMMENT_TIME) for i in nextpagesetup.page.mongodb.get_collection().find(
-                self.merge_dict(self.data_key, {FieldName.SHOP_NAME: shop_name_url_list[i][0]}),
-                {FieldName.COMMENT_TIME: 1, FieldName.ID_: 0})]
-            time_list.sort(reverse=True)
-            newest_time = (lambda tl: tl[0] if len(tl) >= 1 else '')(time_list)  # 最新的时间
-            self.debug_log(data='数据库评论最新时间:%s' % newest_time)
-            # self.from_page_get_comment_data_list(page=page_comment_1,is_effective=True,newest_time=newest_time)
-            # self.until_click_no_next_page_by_partial_link_text(nextpagesetup=NextPageLinkTextSetup(link_text='下一页',pause_time=5,  main_pagefunc=PageFunc(func=self.get_newest_comment_data_by_css_selector(), page=page_comment_1)))
-            self.until_click_no_next_page_by_partial_link_text(nextpagesetup=NextPageLinkTextSetup(link_text='下一页',pause_time=5,  main_pagefunc=PageFunc(func=self.from_page_get_comment_data_list,page=page_comment_1,is_effective=True,newest_time=newest_time)))
+            # #         break
+#这里先暂时不做
+            # nextpagesetup = NextPageLinkTextSetup(
+            #    link_text='下一页',
+            #     page=page_comment_1, pause_time=2)
+            #
+            #
+            # time_list = [i.get(FieldName.COMMENT_TIME) for i in nextpagesetup.page.mongodb.get_collection().find(
+            #     self.merge_dict(self.data_key, {FieldName.SHOP_NAME: shop_name_url_list[i][0]}),
+            #     {FieldName.COMMENT_TIME: 1, FieldName.ID_: 0})]
+            # time_list.sort(reverse=True)
+            # newest_time = (lambda tl: tl[0] if len(tl) >= 1 else '')(time_list)  # 最新的时间
+            # self.debug_log(data='数据库评论最新时间:%s' % newest_time)
+            # # self.from_page_get_comment_data_list(page=page_comment_1,is_effective=True,newest_time=newest_time)
+            # # self.until_click_no_next_page_by_partial_link_text(nextpagesetup=NextPageLinkTextSetup(link_text='下一页',pause_time=5,  main_pagefunc=PageFunc(func=self.get_newest_comment_data_by_css_selector(), page=page_comment_1)))
+            # self.until_click_no_next_page_by_partial_link_text(nextpagesetup=NextPageLinkTextSetup(link_text='下一页',pause_time=5,  main_pagefunc=PageFunc(func=self.from_page_get_comment_data_list,page=page_comment_1,is_effective=True,newest_time=newest_time)))
             #self.close_curr_page()
 
     def get_shop_detail(self):
@@ -280,7 +284,8 @@ class DianpingSpotSpider(TravelDriver):
         self.from_page_get_data_list(page=page_shop_1)
 
     def login(self):
-        self.fast_get_page(url='http://www.dianping.com')
+        self.fast_new_page(url='http://www.baidu.com')
+        self.fast_new_page(url='http://www.dianping.com')
         time.sleep(2)
         # self.until_scroll_to_center_send_text_by_css_selector(css_selector='#kw', text=self.data_region + self.data_website)
         # self.until_scroll_to_center_send_enter_by_css_selector(css_selector='#kw')
@@ -290,7 +295,8 @@ class DianpingSpotSpider(TravelDriver):
 
         for cookie in listCookies:
             self.driver.add_cookie(cookie)
-        #self.close_curr_page()
+        self.close_curr_page()
+        self.fast_new_page(url='http://www.dianping.com')
       #  self.fast_click_first_item_page_by_partial_link_text(link_text=self.data_website)
         time.sleep(10)
 

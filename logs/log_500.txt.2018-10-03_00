@@ -1,6 +1,0 @@
-2018-10-03 00:14:53,593 - spider.driver.base.logger - INFO - Start print log
-2018-10-03 00:14:53,651 - spider.driver.base.logger - DEBUG - load images is false
-2018-10-03 00:14:57,282 - spider.driver.base.logger - DEBUG - 途牛-三清山-景点
-2018-10-03 00:15:02,362 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\Lab421TouristDspider\spider\driver\travel\tuniuspotspider.get_shop_info_list.[95] - D:\资料\GitHub\Lab421TouristDspider\spider\driver\base\driver.fast_get_page.[2315] : 经过1次创建session和0次关闭session,成功加载页面!!!
-2018-10-03 00:15:05,905 - spider.driver.base.logger - INFO - D:\资料\GitHub\Lab421TouristDspider\spider\driver\travel\tuniuspotspider.get_shop_info_list.[105] - D:\资料\GitHub\Lab421TouristDspider\spider\driver\base\driver.until_click_no_next_page_by_partial_link_text.[1576] : 当前翻到第1页...
-2018-10-03 00:15:06,090 - spider.driver.base.logger - INFO - D:\资料\GitHub\Lab421TouristDspider\spider\driver\travel\tuniuspotspider.get_shop_info_list.[105] - D:\资料\GitHub\Lab421TouristDspider\spider\driver\base\driver.until_click_no_next_page_by_partial_link_text.[1578] : 途牛景点店铺列表页面

@@ -79,33 +79,54 @@ page_comment_1 = Page(name='途牛景点评论列表', fieldlist=fl_comment1, li
 
 class TuNiuSpotSpider(TravelDriver):
 
-    def get_shop_info(self):
-        try:
-            shop_data_list = self.from_page_get_data_list(page=page_shop_1)
-            #开始与结束符号
-            nextpagesetup = NextPageCssSelectorSetup(
-                css_selector='#remark_page > a.page-next',
-                stop_css_selector='#remark_page > span.page-end',
-                page=page_comment_1, pause_time= 5)
-            extra_pagefunc = PageFunc(func=self.get_newest_comment_data_by_css_selector, nextpagesetup=nextpagesetup)
-            self.from_page_add_data_to_data_list(page=page_shop_2, pre_page=page_shop_1, data_list=shop_data_list,extra_pagefunc=extra_pagefunc)
-        except Exception as e:
-            self.error_log(e=str(e))
+    def get_shop_comment(self):
+        self.fast_new_page(url='http://www.baidu.com')
+        shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
+                                  host='10.1.17.15').get_collection()
+        shop_name_url_list = list()
+        for i in shop_collcetion.find(self.get_data_key()):
+            if i.get('shop_url'):
+                shop_name_url_list.append((i.get('shop_name'), i.get('shop_url')))
+        for i in range(len(shop_name_url_list)):
+            self.info_log(data='第%s个,%s' % (i + 1, shop_name_url_list[i][0]))
+            #第一次打开的时候进行验证 后面都不需要
+
+            while (True):
+                    self.is_ready_by_proxy_ip()
+                    self.switch_window_by_index(index=-1)
+                    self.deal_with_failure_page()
+                    self.fast_new_page(url=shop_name_url_list[i][1])
+                    time.sleep(1)
+                    self.switch_window_by_index(index=-1)  # 页面选择
+                    if '验证中心' in self.driver.title:
+                        self.info_log(data='关闭验证页面!!!')
+                        self.close_curr_page()
+                    else:
+
+                        break
+            self.until_click_no_next_page_by_css_selector(nextpagesetup=NextPageCssSelectorSetup(css_selector='#remark_page > a.page-next',stop_css_selector='#remark_page > a.page-next.hidden',
+                                                                                                   main_pagefunc=PageFunc(
+                                                                                                       func=self.from_page_get_data_list,
+                                                                                                       page=page_comment_1)))
+            self.close_curr_page()
     def get_shop_info_list(self):
-        self.fast_get_page('http://menpiao.tuniu.com/', is_max=False)
+        self.fast_new_page(url='http://www.baidu.com');
+        self.fast_new_page(url='http://menpiao.tuniu.com/')
         time.sleep(2)
         self.until_send_text_by_css_selector(css_selector='#keyword-input', text=self.data_region)
         self.until_send_enter_by_css_selector(css_selector='#keyword-input')
 
 
-        time.sleep(1)
-
-        self.vertical_scroll_to()  # 滚动到页面底部
-        self.until_click_no_next_page_by_partial_link_text(
-            nextpagesetup=NextPageLinkTextSetup(link_text="后一页", main_pagefunc=PageFunc(func=self.get_shop_info)))
+        time.sleep(10)
+        self.from_page_get_data_list(page=page_shop_1)
+        # self.vertical_scroll_to()  # 滚动到页面底部
+        # self.until_click_no_next_page_by_partial_link_text(
+        #     nextpagesetup=NextPageLinkTextSetup(link_text="后一页", main_pagefunc=PageFunc(func=self.get_shop_info)))
 
     def run_spider(self):
         try:
-            self.get_shop_info_list()
+
+            #self.get_shop_info_list()
+            self.get_shop_comment()
         except Exception:
             self.error_log()
