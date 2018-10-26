@@ -43,3 +43,16 @@
 2018-10-26 10:11:44,426 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.get_shop_comment.[214] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.fast_new_page.[2424] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
 2018-10-26 10:11:49,439 - spider.driver.base.logger - INFO - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.get_shop_comment.[221] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.until_click_no_next_page_by_css_selector.[1557] : 当前翻到第1页...
 2018-10-26 10:11:49,529 - spider.driver.base.logger - INFO - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.get_shop_comment.[221] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.until_click_no_next_page_by_css_selector.[1561] : 大众点评景点评论列表
+2018-10-26 10:47:06,228 - spider.driver.base.logger - INFO - Start print log
+2018-10-26 10:47:06,229 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-26 10:47:09,907 - spider.driver.base.logger - DEBUG - 大众点评-千岛湖-景点
+2018-10-26 10:47:19,367 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.login.[279] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.fast_new_page.[2424] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-26 10:47:35,065 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.login.[280] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.fast_new_page.[2424] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-26 10:47:51,786 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.login.[291] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.fast_new_page.[2424] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-26 10:48:07,492 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.get_shop_comment.[208] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.fast_new_page.[2424] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!
+2018-10-26 10:48:07,496 - spider.driver.base.logger - INFO - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.get_shop_comment.[209] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.info_log.[232] : 第1个,千岛湖
+2018-10-26 10:48:09,009 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.get_shop_comment.[213] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.is_ready_by_proxy_ip.[1536] : proxy_ip由58.243.30.191变为210.32.35.2
+2018-10-26 10:49:06,761 - spider.driver.base.logger - INFO - Start print log
+2018-10-26 10:49:06,762 - spider.driver.base.logger - DEBUG - load images is false
+2018-10-26 10:49:11,374 - spider.driver.base.logger - DEBUG - 大众点评-千岛湖-景点
+2018-10-26 10:49:19,919 - spider.driver.base.logger - DEBUG - D:\资料\GitHub\TouristSpider\spider\driver\travel\dianpingspotspider.login.[279] - D:\资料\GitHub\TouristSpider\spider\driver\base\driver.fast_new_page.[2427] : 经过1次创建标签页和0次关闭标签页,成功加载页面!!!

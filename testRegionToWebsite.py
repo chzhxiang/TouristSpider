@@ -278,7 +278,7 @@ else:
  website_to_search_keys = region_to_websites_ubuntu['千岛湖'];
 #开始结束日期
 start_hour = 10;
-start_minuate = 6;
+start_minuate = 44;
 index = 0;
 sched = BlockingScheduler()
 for key in website_to_search_keys:
