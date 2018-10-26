@@ -197,7 +197,7 @@ class DianpingSpotSpider(TravelDriver):
         #         break
 
     def get_shop_comment(self):
-        self.fast_new_page(url='http://www.baidu.com');
+
         shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
                                  ).get_collection()
         shop_name_url_list = list()
@@ -205,14 +205,23 @@ class DianpingSpotSpider(TravelDriver):
             if i.get('shop_comment_url'):
                 shop_name_url_list.append((i.get('shop_name'),i.get('shop_comment_url')))
         for i in range(len(shop_name_url_list)):
-            first = True
+            self.fast_new_page(url='http://www.baidu.com');
             self.info_log(data='第%s个,%s'%(i+1, shop_name_url_list[i][0]))
-            # self.switch_window_by_index(index=-1)
-            # self.deal_with_failure_page()
-            # #
-        #这里进行手动打开
-            self.fast_new_page(url=shop_name_url_list[i][1])
-            time.sleep(5)
+
+
+            while (True):
+                    self.is_ready_by_proxy_ip()
+                    self.switch_window_by_index(index=-1)
+                    self.deal_with_failure_page()
+                    self.fast_new_page(url=shop_name_url_list[i][1])
+                    time.sleep(1)
+                    self.switch_window_by_index(index=-1)  # 页面选择
+                    if '验证中心' in self.driver.title:
+                          self.info_log(data='关闭验证页面!!!')
+                          self.close_curr_page()
+                    else:
+                      break
+
             self.until_click_no_next_page_by_css_selector(nextpagesetup=NextPageCssSelectorSetup(
                 css_selector='#review-list > div.review-list-container > div.review-list-main > div.reviews-wrapper > div.bottom-area.clearfix > div > a.NextPage',
                 stop_css_selector='#review-list > div.review-list-container > div.review-list-main > div.reviews-wrapper > div.bottom-area.clearfix > div > a.NextPage.hidden',
@@ -220,24 +229,7 @@ class DianpingSpotSpider(TravelDriver):
                     func=self.from_page_get_data_list,
                     page=page_comment_1), pause_time=5))
             self.close_curr_page()
-            # while (True):
-            #     self.is_ready_by_proxy_ip()
-            #     # self.switch_window_by_index(index=-1)
-            #     # self.deal_with_failure_page()
-            #     # self.fast_new_page(url=shop_name_url_list[i][1])
-            #     time.sleep(1)
-            #     self.switch_window_by_index(index=-1)  # 页面选择
-            #     if '验证中心' in self.driver.title:
-            #           self.info_log(data='关闭验证页面!!!')
-            #           self.close_curr_page()
-            #     else:
-            # #         break
-#这里先暂时不做
-            # nextpagesetup = NextPageLinkTextSetup(
-            #    link_text='下一页',
-            #     page=page_comment_1, pause_time=2)
-            #
-            #
+
             # time_list = [i.get(FieldName.COMMENT_TIME) for i in nextpagesetup.page.mongodb.get_collection().find(
             #     self.merge_dict(self.data_key, {FieldName.SHOP_NAME: shop_name_url_list[i][0]}),
             #     {FieldName.COMMENT_TIME: 1, FieldName.ID_: 0})]

@@ -1550,9 +1550,12 @@ class Driver(object):
         count = 0
         while(True):
             count += 1
+            #若当前不是马蜂窝且当前不是携程 其余平台默认爬取20页
+            if(sys.argv[2] != '马蜂窝') and (sys.argv[2] != "携程"):
+             if(count >= 5):
+                 self.close_curr_page()
             self.info_log(data='当前翻到第%s页...' % count)
-            # if(count >= 10):
-            #     self.close_curr_page()
+
             self.deal_with_failure_page()
             try:
                 nextpagesetup.main_pagefunc.run()
@@ -1597,6 +1600,8 @@ class Driver(object):
         nextpagesetup.pre_pagefunc.run()
         count = 0
         while(True):
+            #若当前不是马蜂窝和携程 默认最多爬20页
+
             count += 1
             self.info_log(data='当前翻到第%s页...' % count)
             try:

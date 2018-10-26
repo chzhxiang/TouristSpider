@@ -47,12 +47,12 @@ windows_regions = {
 day = datetime.datetime.now().day
 print(day)
 sched = BlockingScheduler()
-start_hour = 19;
-start_minuate = 48;
+start_hour = 21;
+start_minuate = 45;
 index = 0;
 
 if(day % 2 == 0):
-    website = '携程';
+    website = '去哪儿';
 else:
     website = '马蜂窝';
 

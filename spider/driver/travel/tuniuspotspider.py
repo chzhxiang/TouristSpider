@@ -80,7 +80,7 @@ page_comment_1 = Page(name='途牛景点评论列表', fieldlist=fl_comment1, li
 class TuNiuSpotSpider(TravelDriver):
 
     def get_shop_comment(self):
-        self.fast_new_page(url='http://www.baidu.com')
+
         shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
                                   host='10.1.17.15').get_collection()
         shop_name_url_list = list()
@@ -88,6 +88,7 @@ class TuNiuSpotSpider(TravelDriver):
             if i.get('shop_url'):
                 shop_name_url_list.append((i.get('shop_name'), i.get('shop_url')))
         for i in range(len(shop_name_url_list)):
+            self.fast_new_page(url='http://www.baidu.com');
             self.info_log(data='第%s个,%s' % (i + 1, shop_name_url_list[i][0]))
             #第一次打开的时候进行验证 后面都不需要
 
