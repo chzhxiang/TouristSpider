@@ -64,11 +64,10 @@ def get_comment_grade(self,_str):
         return '0'
 def get_comment_time(self,_str):
     #时间格式统一为2018-12-08
-
     return _str[0:10]
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='dl > dt > p.trav_name > a',is_info=True),
-    Field(fieldname=FieldName.COMMENT_TIME, css_selector='dl > dd > dl > dt > a', is_info=True),
+    Field(fieldname=FieldName.COMMENT_TIME, css_selector='dl > dd > dl > dt > a',filter_func=get_comment_time, is_info=True),
     Field(fieldname=FieldName.SHOP_NAME, css_selector='body > div.v2_body > div.v2_wrap.clearfix > div.v2_w1189 > div.v2_ticket_proinf.clearfix > div.v2_tp_text > div.v2_ct_title',is_isolated=True,is_info=True),
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='dl > dd > div > p.comment_detail',is_info=True),
     #有问题
