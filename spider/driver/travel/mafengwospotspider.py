@@ -11,6 +11,8 @@ from pyquery import PyQuery
 import json
 import re
 import random
+import datetime
+import math
 def get_comment_num(self,_str):
     num = re.findall(r'[\d]{1,10}',_str)
     return str(num[0])
@@ -50,8 +52,41 @@ def get_comment_grade(self,_str):
     return str(_str[-1])
 def get_comment_time(self,_str):
     #时间格式统一为2018-12-08
-    print(_str)
+
     return _str[0:10]
+def get_comment_year(self,_str):
+    time = _str[0:10]
+    return time[0:4];
+
+def get_comment_season(self, _str):
+    time = _str[0:10]
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+    time = _str[0:10]
+    return time[0:7];
+def get_comment_week(self, _str):
+
+    time = _str[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
+
+
+
+
+
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='a.name',is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.info.clearfix > span', is_info=True,filter_func=get_comment_time),
@@ -59,6 +94,13 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p',is_info=True),
     #有问题
     Field(fieldname=FieldName.COMMENT_SCORE, css_selector='span.s-star',attr='class',filter_func=get_comment_grade,is_info=True),
+    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.info.clearfix > span', filter_func=get_comment_year, is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.info.clearfix > span', filter_func=get_comment_season,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.info.clearfix > span', filter_func=get_comment_month, is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.info.clearfix > span', filter_func=get_comment_week, is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
+          is_info=True),
 )
 #comment_no_151904132 > div.comment-info > div > div.c-content > p
 #comment_header > div.poi-comment.tab-div > div._j_commentlist
@@ -72,8 +114,8 @@ class MafengwoSpotSpider(TravelDriver):
     def get_shop_info(self):
         try:
             shop_data_list = self.from_page_get_data_list(page=page_shop_1)
-            print(1909090)
-            print(shop_data_list)
+
+
             nextpagesetup = NextPageCssSelectorSetup(
                 css_selector='div._j_commentlist > div.m-pagination > a.pi.pg-next'
                              ,

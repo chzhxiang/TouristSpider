@@ -87,6 +87,13 @@ class FieldName(object):
     COMMENT_REPLAY = 'comment_replay'#评论回复
     COMMENT_RATE = 'comment_rate'#评论等级
 
+    COMMENT_YEAR = 'comment_year' #评论年份
+    COMMENT_SEASON = 'comment_season' #评论季度
+    COMMENT_MONTH = 'comment_month' #评论月份
+    COMMENT_WEEK = 'comment_week' #评论周
+    COMMENT_DAY = 'comment_day' #评论天
+    DATA_REGION_SEARCH_KEY = 'data_region_search_key' #关键字搜索
+
 FIELD_NAME_TYPE = {
     FieldName.NONE : FieldType.NONE,
     FieldName.SHOP_NAME : FieldType.KEY_STR,
@@ -153,6 +160,13 @@ FIELD_NAME_TYPE = {
     FieldName.COMMENT_TYPE : FieldType.STR,
     FieldName.COMMENT_REPLAY : FieldType.STR,
     FieldName.COMMENT_RATE : FieldType.STR,
+
+    FieldName.COMMENT_YEAR:FieldType.STR, # 评论年份
+    FieldName.COMMENT_SEASON:FieldType.STR,  # 评论季度
+    FieldName.COMMENT_MONTH:FieldType.STR,  # 评论月份
+    FieldName.COMMENT_WEEK:FieldType.STR,  # 评论周
+    FieldName.COMMENT_DAY :FieldType.STR,  # 评论天
+    FieldName.DATA_REGION_SEARCH_KEY :FieldType.STR, # 关键字搜索
 }
 
 FIELD_NAME_ZH = {
@@ -224,6 +238,12 @@ FIELD_NAME_ZH = {
     FieldName.COMMENT_TYPE : '评论类型',
     FieldName.COMMENT_REPLAY : '评论回复',
     FieldName.COMMENT_RATE : '评论等级',
+    FieldName.COMMENT_YEAR:'评论年份', # 评论年份
+    FieldName.COMMENT_SEASON:'评论季度',  # 评论季度
+    FieldName.COMMENT_MONTH:'评论月份',  # 评论月份
+    FieldName.COMMENT_WEEK:'评论周',  # 评论周
+    FieldName.COMMENT_DAY :'评论天',  # 评论天
+    FieldName.DATA_REGION_SEARCH_KEY :'关键字搜索', # 关键字搜索
 }
 
 #offset是每次为了寻找元素偏移的距离

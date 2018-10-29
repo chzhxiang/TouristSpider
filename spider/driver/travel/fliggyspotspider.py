@@ -12,6 +12,8 @@ import re
 import time
 import json
 from pyquery import PyQuery
+import datetime
+import math
 def get_shop_address(self,_str):
     return ""
 def _get_shop_comment_num(self,_str):
@@ -60,6 +62,36 @@ def get_comment_grade(self,_str):
     return str(html('.star-full').length)
 def get_shop_name(self,_str):
     return self.shop_name
+def get_comment_year(self,_str):
+    time = _str[0:10]
+    return time[0:4];
+
+def get_comment_season(self, _str):
+    time = _str[0:10]
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+    time = _str[0:10]
+    return time[0:7];
+def get_comment_week(self, _str):
+
+    time = _str[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
+
+
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME, css_selector='#app > div > div.rate-info-container > div.rate-info > div.rate-score > div.rate-cnt',filter_func=get_shop_name, is_info=True,is_isolated=True),
 #app > div > div.poi-rate-container > div:nth-child(2) > div.rate-content-container > div
@@ -69,6 +101,16 @@ fl_comment1 = Fieldlist(
     #comment_grade有待商榷
     Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.rate-info > div.avatar-info > div.info > div.star-con > div', attr='innerHTML',filter_func=get_comment_grade, is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.rate-info > div.avatar-info > div.info > div.time', is_info=True),
+    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_year,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_season,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_month,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_week,
+          is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
+          is_info=True),
 )
 page_comment_1 = Page(name='飞猪景点店铺评论列表页面', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='div.poi-rate-container > div'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)
 

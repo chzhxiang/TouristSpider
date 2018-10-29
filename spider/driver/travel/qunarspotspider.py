@@ -7,7 +7,8 @@ from spider.driver.base.listcssselector import ListCssSelector
 from spider.driver.base.mongodb import Mongodb
 import re
 import time
-
+import math
+import datetime
 
 
 def get_shop_grade(self,_str):
@@ -52,6 +53,37 @@ def get_comment_grade(self,_str):
     saveTo = (float(groups[0]) / 100 * 5)
 
     return str(saveTo)
+def get_comment_year(self,_str):
+
+    return _str[0:4];
+
+def get_comment_season(self, _str):
+    time = _str[0:10];
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+
+    return _str[0:7];
+def get_comment_week(self, _str):
+
+    time = _str[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
+
+
+
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.mp-comments-title > span.mp-comments-username',is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.mp-comments-title > span.mp-comments-time', is_info=True),
@@ -59,6 +91,16 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p',is_info=True),
     #有问题
     Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.mp-comments-title > span.mp-star-level > em > span',attr='style',filter_func=get_comment_grade, is_info=True),
+    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.mp-comments-title > span.mp-comments-time', filter_func=get_comment_year,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.mp-comments-title > span.mp-comments-time', filter_func=get_comment_season,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.mp-comments-title > span.mp-comments-time', filter_func=get_comment_month,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.mp-comments-title > span.mp-comments-time', filter_func=get_comment_week,
+          is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
+          is_info=True),
 )
 #commentList > div:nth-child(2)
 #commentList > li:nth-child(2) > p

@@ -11,7 +11,8 @@ import time
 import json
 from pyquery import PyQuery
 import xmltodict
-
+import math
+import datetime
 fl_shop1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME,css_selector='div.search_ticket_title > h2 > a'),
     Field(fieldname=FieldName.SHOP_RATE, css_selector='div.search_ticket_title > h2 > span > span.rate'),
@@ -143,7 +144,7 @@ fl_shop2 = Fieldlist(
     # Field(fieldname=FieldName.SHOP_INFO, css_selector='div.main-bd > div.main-wrapper > div.clearfix > div.detail-left', attr='innerHTML', filter_func=get_shop_info, is_focus=True),
 )
 
-page_shop_1 = Page(name='携程景点店铺列表页面', fieldlist=fl_shop1, listcssselector=ListCssSelector(list_css_selector='#searchResultContainer > div', item_css_selector='div'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection),is_save=True)
+page_shop_1 = Page(name='携程景点店铺列表页面', fieldlist=fl_shop1, listcssselector=ListCssSelector(list_css_selector='#searchResultContainer > div', item_css_selector='div'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection),is_save=False)
 
 page_shop_2 = Page(name='携程景点店铺详情页面', fieldlist=fl_shop2, tabsetup=TabSetup(click_css_selector='div.search_ticket_title > h2 > a'), mongodb=Mongodb(db=TravelDriver.db,collection=TravelDriver.shop_collection))
 
@@ -154,13 +155,47 @@ def get_comment_time(self, _str):
     time =  re.findall(r'([\d]{4}-[\d]{2}-[\d]{2} [\d]{2}:[\d]{2})',_str)[0]
     return time[0:10]
 
-    return _str[0:10]
+def get_comment_year(self,_str):
+    time = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2} [\d]{2}:[\d]{2})', _str)[0]
+    return time[0:4];
+
+def get_comment_season(self, _str):
+    time = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2} [\d]{2}:[\d]{2})', _str)[0]
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+    time = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2} [\d]{2}:[\d]{2})', _str)[0]
+    return time[0:7];
+def get_comment_week(self, _str):
+    temp = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2} [\d]{2}:[\d]{2})', _str)[0]
+    time = temp[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
+
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.user-date', filter_func=get_comment_user_name),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.user-date', filter_func=get_comment_time),
     Field(fieldname=FieldName.SHOP_NAME, css_selector='div.main-bd > div > div.brief-box.clearfix > div.brief-right > h2', is_isolated=True),
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p'),
     Field(fieldname=FieldName.COMMENT_SCORE, css_selector='h4', regex=r'[^\d.]*'),
+    Field(fieldname=FieldName.COMMENT_YEAR,css_selector='div.user-date',filter_func=get_comment_year,is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON,css_selector='div.user-date',filter_func=get_comment_season,is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH,css_selector='div.user-date',filter_func=get_comment_month,is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK,css_selector='div.user-date',filter_func=get_comment_week,is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY,css_selector='',filter_func=get_data_region_search_key,is_info=True),
+
 )
 
 page_comment_1 = Page(name='携程景点评论列表', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='div.main-bd > div > div > div.detail-left > div.content-wrapper.clearfix > ul.comments > li'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)
@@ -197,6 +232,7 @@ class XiechengSpotSpider(TravelDriver):
 
     def run_spider(self):
         try:
+            self.data_region_search_key = self.get_data_region_search_key()
             self.get_shop_info_list()
         except Exception as e:
             self.error_log(e=str(e))

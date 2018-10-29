@@ -11,6 +11,8 @@ import time
 import json
 from pyquery import PyQuery
 import xmltodict
+import math
+import datetime
 
 
 def get_shop_grade(self,_str):
@@ -43,6 +45,35 @@ page_shop_2 = Page(name='驴妈妈景点店铺详情页面', fieldlist=fl_shop2,
 
 
 
+def get_comment_year(self,_str):
+
+    return _str[0:4];
+
+def get_comment_season(self, _str):
+    time = _str[0:10];
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+
+    return _str[0:7];
+def get_comment_week(self, _str):
+
+    time = _str[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
+
 
 
 
@@ -55,6 +86,16 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME, css_selector='body > div.body_bg > div > div.overview > div.dtitle.clearfix > div > h1', is_isolated=True,is_info=True),
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='div.ufeed-content',is_info=False),
     Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.ufeed-info > p > span.ufeed-level > i',attr='data-level', regex=r'[^\d.]*',is_info=False),
+    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.com-userinfo > p > em', filter_func=get_comment_year,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.com-userinfo > p > em', filter_func=get_comment_season,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.com-userinfo > p > em', filter_func=get_comment_month,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.com-userinfo > p > em', filter_func=get_comment_week,
+          is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
+          is_info=True),
 )
 
 page_comment_1 = Page(name='驴妈妈景点评论列表', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='#allCmtComment > div'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)

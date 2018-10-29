@@ -71,6 +71,7 @@ class TravelSpiderName(object):
     MAFENGWO_HOTEL = WebsiteName.MAFENGWO + DataSourceName.HOTEL
     ELONG_HOTEL = WebsiteName.ELONG + DataSourceName.HOTEL
 
+
 class TravelDriver(Driver):
     host = '127.0.0.1'
     port = 27017
@@ -109,6 +110,7 @@ class TravelDriver(Driver):
         self.data_website = data_website
         self.data_region = data_region
         self.data_source = data_source
+        self.data_region_search_key = self.get_data_region_search_key()
         self.logger.debug('%s-%s-%s'%(self.data_website,self.data_region,self.data_source))
         self.data_key = {
             FieldName.DATA_WEBSITE: self.data_website,
@@ -130,6 +132,16 @@ class TravelDriver(Driver):
                 self.info_log(data='当前的评论数据不是最近更新的,不用继续往下爬虫!!!')
                 raise ValueError
     #获取对应文字
+    def get_data_region_search_key(self):
+
+        search_keys = [
+            '千岛湖', '西湖', '西溪', '溪口', '乌镇', '西塘', '横店', '江郎山', '雁荡山', '普陀山',
+            '南浔', '神仙居', '天台山', '根宫', '鲁迅', '南湖', '黄山', '三清山'
+        ];
+        for i,search_key in enumerate(search_keys):
+            if(search_key in sys.argv[3]):
+                return search_key
+
     def get_city_from_region_CHN(self,_str):
         dic = {'西湖': '杭州', '千岛湖': '杭州', '溪口': '宁波'}
 

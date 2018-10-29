@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     elif sys.argv[2]+sys.argv[4] == TravelSpiderName.XIECHENG_SPOT:
         from spider.driver.travel.xiechengspotspider import XiechengSpotSpider
-        spider = XiechengSpotSpider(isheadless=True,ismobile=False,isvirtualdisplay=False,
+        spider = XiechengSpotSpider(isheadless=False,ismobile=False,isvirtualdisplay=False,
                                     spider_id=sys.argv[1],
                                     data_website=sys.argv[2],
                                     data_region=sys.argv[3],
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.MAFENGWO_SPOT:
         from spider.driver.travel.mafengwospotspider import MafengwoSpotSpider
 
-        spider = MafengwoSpotSpider(isheadless=True, ismobile=False, isvirtualdisplay=False,
+        spider = MafengwoSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False,
                                     spider_id=sys.argv[1],
                                     data_website=sys.argv[2],
                                     data_region=sys.argv[3],

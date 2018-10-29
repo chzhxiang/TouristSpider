@@ -11,7 +11,8 @@ from pyquery import PyQuery
 import json
 import re
 import random
-
+import datetime
+import math
 def get_shop_tag(self, _str):
     try:
         p = PyQuery(_str)
@@ -153,7 +154,34 @@ def get_comment_grade(self,_str):
     grade = re.findall(r'([\d]{1,4})',_str)[0]
 
     return str(round(float(grade) / 50 * 5,1))
+def get_comment_year(self,_str):
+    time = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2})', _str)[0]
+    return time[0:4];
 
+def get_comment_season(self, _str):
+    time = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2})', _str)[0]
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+    time = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2})', _str)[0]
+    return time[0:7];
+def get_comment_week(self, _str):
+    temp = re.findall(r'([\d]{4}-[\d]{2}-[\d]{2})', _str)[0]
+    time = temp[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME, css_selector='#review-list > div.review-list-container > div.review-list-main > div.review-list-header > h1 > a', is_isolated=True,is_info=True),
 
@@ -162,7 +190,21 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.main-review > div.misc-info.clearfix > span.time',filter_func=get_comment_time,is_info=True),
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='div.main-review', attr='innerHTML', filter_func=get_comment_content,is_info=False),
 
-    Field(fieldname=FieldName.COMMENT_SCORE,css_selector='div > div.review-rank > span',attr='class',filter_func=get_comment_grade, is_info=False)
+    Field(fieldname=FieldName.COMMENT_SCORE,css_selector='div > div.review-rank > span',attr='class',filter_func=get_comment_grade, is_info=False),
+    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.main-review > div.misc-info.clearfix > span.time',
+          filter_func=get_comment_year,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.main-review > div.misc-info.clearfix > span.time',
+          filter_func=get_comment_season,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.main-review > div.misc-info.clearfix > span.time',
+          filter_func=get_comment_month,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.main-review > div.misc-info.clearfix > span.time',
+          filter_func=get_comment_week,
+          is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
+          is_info=True),
     # Field(fieldname=FieldName.COMMENT_PIC_LIST, list_css_selector='div.main-review > div.review-pictures > ul', item_css_selector='li > a > img', attr='src', timeout=0),
 )
 

@@ -12,6 +12,8 @@ import time
 import json
 from pyquery import PyQuery
 import xmltodict
+import math
+import datetime
 def get_shop_grade(self,_str):
     #数据库中保存进一位小数
 
@@ -65,6 +67,40 @@ def get_comment_grade(self,_str):
 def get_comment_time(self,_str):
     #时间格式统一为2018-12-08
     return _str[0:10]
+def get_comment_year(self,_str):
+    time =_str[0:10]
+    return time[0:4];
+
+def get_comment_season(self, _str):
+    time = _str[0:10]
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+    time = _str[0:10]
+    return time[0:7];
+def get_comment_week(self, _str):
+
+    time = _str[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
+
+
+
+
+
+
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='dl > dt > p.trav_name > a',is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='dl > dd > dl > dt > a',filter_func=get_comment_time, is_info=True),
@@ -72,6 +108,20 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='dl > dd > div > p.comment_detail',is_info=True),
     #有问题
     Field(fieldname=FieldName.COMMENT_SCORE, css_selector='dl > dd > div > p.clists_words.clearfix > span:nth-child(1)',attr='class',filter_func=get_comment_grade, is_info=True),
+    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='dl > dd > dl > dt > a',
+          filter_func=get_comment_year,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON, css_selector='dl > dd > dl > dt > a',
+          filter_func=get_comment_season,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='dl > dd > dl > dt > a',
+          filter_func=get_comment_month,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='dl > dd > dl > dt > a',
+          filter_func=get_comment_week,
+          is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
+          is_info=True),
 )
 
 page_comment_1 = Page(name='途牛景点评论列表', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='#remarkFlag > div.detail_infor > div > ul.v2_comment_lists.comment_lists > li'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)
