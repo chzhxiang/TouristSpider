@@ -90,25 +90,31 @@ def get_comment_week(self, _str):
 def get_data_region_search_key(self, _str):
 
     return  self.data_region_search_key
+def get_shop_name_search_key(self,_str):
+
+    return self.shop_name_search_key(self.shop_name);
 
 
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME, css_selector='#app > div > div.rate-info-container > div.rate-info > div.rate-score > div.rate-cnt',filter_func=get_shop_name, is_info=True,is_isolated=True),
+    Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY,
+          css_selector='#app > div > div.rate-info-container > div.rate-info > div.rate-score > div.rate-cnt',
+          filter_func=get_shop_name_search_key, is_info=True, is_isolated=True),
 #app > div > div.poi-rate-container > div:nth-child(2) > div.rate-content-container > div
 #app > div > div.poi-rate-container > div:nth-child(7) > div.rate-content-container > div
-    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='div.rate-content-container > div', is_info=True),
+    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='div.rate-content-container > div', is_info=False),
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.rate-info > div.avatar-info > div.user-nick', is_info=True),
     #comment_grade有待商榷
-    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.rate-info > div.avatar-info > div.info > div.star-con > div', attr='innerHTML',filter_func=get_comment_grade, is_info=True),
+    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.rate-info > div.avatar-info > div.info > div.star-con > div', attr='innerHTML',filter_func=get_comment_grade, is_info=False),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.rate-info > div.avatar-info > div.info > div.time', is_info=True),
     Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_year,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_season,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_month,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.rate-info > div.avatar-info > div.info > div.time', filter_func=get_comment_week,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
           is_info=True),
 )

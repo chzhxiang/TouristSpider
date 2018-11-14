@@ -141,6 +141,24 @@ class TravelDriver(Driver):
         for i,search_key in enumerate(search_keys):
             if(search_key in sys.argv[3]):
                 return search_key
+        return '千岛湖';
+    def shop_name_search_key(self,shop_name):
+
+
+        shop_name_search_keys = [
+            '中心湖', '梅峰', '龙山岛', '月光岛', '渔乐岛', '东南湖', '黄山尖', '天池岛', '桂花岛', '蜜山岛',
+            '文渊狮城', '石林', '九咆界', '下姜', '森林氧吧', '龙川', '芹川', '秘境', "仙人谷",
+            "钓鱼岛", "白云溪"
+        ];
+        if(self.get_data_region_search_key() == '千岛湖'):
+
+            for i, search_key in enumerate(shop_name_search_keys):
+                if (search_key in shop_name):
+
+                    return search_key
+            return '中心湖';
+        return '';
+
 
     def get_city_from_region_CHN(self,_str):
         dic = {'西湖': '杭州', '千岛湖': '杭州', '溪口': '宁波'}

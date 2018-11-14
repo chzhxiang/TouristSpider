@@ -83,6 +83,9 @@ def get_data_region_search_key(self, _str):
 
     return  self.data_region_search_key
 
+def get_shop_name_search_key(self,_str):
+
+    return self.shop_name_search_key(_str);
 
 
 
@@ -91,14 +94,17 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='a.name',is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.info.clearfix > span', is_info=True,filter_func=get_comment_time),
     Field(fieldname=FieldName.SHOP_NAME, css_selector='body > div.container > div.row.row-top > div > div.title > h1', second_css_selector='body > div.wrapper > div.col-main > div.m-box.m-details.clearfix > div.title.clearfix > div > h1', is_isolated=True,is_info=True),
-    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p',is_info=True),
+    Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY, css_selector='body > div.container > div.row.row-top > div > div.title > h1',
+          second_css_selector='body > div.wrapper > div.col-main > div.m-box.m-details.clearfix > div.title.clearfix > div > h1',filter_func=get_shop_name_search_key,
+          is_isolated=True, is_info=True),
+    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p',is_info=False),
     #有问题
-    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='span.s-star',attr='class',filter_func=get_comment_grade,is_info=True),
-    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.info.clearfix > span', filter_func=get_comment_year, is_info=True),
+    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='span.s-star',attr='class',filter_func=get_comment_grade,is_info=False),
+    Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.info.clearfix > span', filter_func=get_comment_year, is_info=False),
     Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.info.clearfix > span', filter_func=get_comment_season,
-          is_info=True),
-    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.info.clearfix > span', filter_func=get_comment_month, is_info=True),
-    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.info.clearfix > span', filter_func=get_comment_week, is_info=True),
+          is_info=False),
+    Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.info.clearfix > span', filter_func=get_comment_month, is_info=False),
+    Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.info.clearfix > span', filter_func=get_comment_week, is_info=False),
     Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
           is_info=True),
 )

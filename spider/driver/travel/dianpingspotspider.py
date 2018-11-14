@@ -182,9 +182,16 @@ def get_comment_week(self, _str):
 def get_data_region_search_key(self, _str):
 
     return  self.data_region_search_key
+
+def get_shop_name_search_key(self,_str):
+    return self.get_shop_name_search_key(_str);
+def get_shop_name_search_key(self,_str):
+
+    return self.shop_name_search_key(_str);
+
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME, css_selector='#review-list > div.review-list-container > div.review-list-main > div.review-list-header > h1 > a', is_isolated=True,is_info=True),
-
+Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY, css_selector='#review-list > div.review-list-container > div.review-list-main > div.review-list-header > h1 > a',filter_func=get_shop_name_search_key, is_isolated=True,is_info=True),
 
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.main-review > div.dper-info',is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.main-review > div.misc-info.clearfix > span.time',filter_func=get_comment_time,is_info=True),
@@ -193,16 +200,16 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_SCORE,css_selector='div > div.review-rank > span',attr='class',filter_func=get_comment_grade, is_info=False),
     Field(fieldname=FieldName.COMMENT_YEAR, css_selector='div.main-review > div.misc-info.clearfix > span.time',
           filter_func=get_comment_year,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_SEASON, css_selector='div.main-review > div.misc-info.clearfix > span.time',
           filter_func=get_comment_season,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_MONTH, css_selector='div.main-review > div.misc-info.clearfix > span.time',
           filter_func=get_comment_month,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_WEEK, css_selector='div.main-review > div.misc-info.clearfix > span.time',
           filter_func=get_comment_week,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
           is_info=True),
     # Field(fieldname=FieldName.COMMENT_PIC_LIST, list_css_selector='div.main-review > div.review-pictures > ul', item_css_selector='li > a > img', attr='src', timeout=0),
@@ -239,7 +246,7 @@ class DianpingSpotSpider(TravelDriver):
         #         break
 
     def get_shop_comment(self):
-
+        self.fast_new_page(url='http://www.baidu.com');
         shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
                                  ).get_collection()
         shop_name_url_list = list()
@@ -247,22 +254,22 @@ class DianpingSpotSpider(TravelDriver):
             if i.get('shop_comment_url'):
                 shop_name_url_list.append((i.get('shop_name'),i.get('shop_comment_url')))
         for i in range(len(shop_name_url_list)):
-            self.fast_new_page(url='http://www.baidu.com');
+
             self.info_log(data='第%s个,%s'%(i+1, shop_name_url_list[i][0]))
 
-
-            while (True):
-                    self.is_ready_by_proxy_ip()
-                    self.switch_window_by_index(index=-1)
-                    self.deal_with_failure_page()
-                    self.fast_new_page(url=shop_name_url_list[i][1])
-                    time.sleep(1)
-                    self.switch_window_by_index(index=-1)  # 页面选择
-                    if '验证中心' in self.driver.title:
-                          self.info_log(data='关闭验证页面!!!')
-                          self.close_curr_page()
-                    else:
-                      break
+            self.fast_new_page(url=shop_name_url_list[i][1])
+            # while (True):
+            #         self.is_ready_by_proxy_ip()
+            #         self.switch_window_by_index(index=-1)
+            #         self.deal_with_failure_page()
+            #         self.fast_new_page(url=shop_name_url_list[i][1])
+            #         time.sleep(1)
+            #         self.switch_window_by_index(index=-1)  # 页面选择
+            #         if '验证中心' in self.driver.title:
+            #               self.info_log(data='关闭验证页面!!!')
+            #               self.close_curr_page()
+            #         else:
+            #           break
 
             self.until_click_no_next_page_by_css_selector(nextpagesetup=NextPageCssSelectorSetup(
                 css_selector='#review-list > div.review-list-container > div.review-list-main > div.reviews-wrapper > div.bottom-area.clearfix > div > a.NextPage',

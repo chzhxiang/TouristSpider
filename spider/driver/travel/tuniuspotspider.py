@@ -96,6 +96,9 @@ def get_data_region_search_key(self, _str):
 
     return  self.data_region_search_key
 
+def get_shop_name_search_key(self,_str):
+
+    return self.shop_name_search_key(_str);
 
 
 
@@ -105,21 +108,24 @@ fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='dl > dt > p.trav_name > a',is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector='dl > dd > dl > dt > a',filter_func=get_comment_time, is_info=True),
     Field(fieldname=FieldName.SHOP_NAME, css_selector='body > div.v2_body > div.v2_wrap.clearfix > div.v2_w1189 > div.v2_ticket_proinf.clearfix > div.v2_tp_text > div.v2_ct_title',is_isolated=True,is_info=True),
-    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='dl > dd > div > p.comment_detail',is_info=True),
+    Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY,
+          css_selector='body > div.v2_body > div.v2_wrap.clearfix > div.v2_w1189 > div.v2_ticket_proinf.clearfix > div.v2_tp_text > div.v2_ct_title',filter_func=get_shop_name_search_key,
+          is_isolated=True, is_info=True),
+    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='dl > dd > div > p.comment_detail',is_info=False),
     #有问题
-    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='dl > dd > div > p.clists_words.clearfix > span:nth-child(1)',attr='class',filter_func=get_comment_grade, is_info=True),
+    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='dl > dd > div > p.clists_words.clearfix > span:nth-child(1)',attr='class',filter_func=get_comment_grade, is_info=False),
     Field(fieldname=FieldName.COMMENT_YEAR, css_selector='dl > dd > dl > dt > a',
           filter_func=get_comment_year,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_SEASON, css_selector='dl > dd > dl > dt > a',
           filter_func=get_comment_season,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_MONTH, css_selector='dl > dd > dl > dt > a',
           filter_func=get_comment_month,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.COMMENT_WEEK, css_selector='dl > dd > dl > dt > a',
           filter_func=get_comment_week,
-          is_info=True),
+          is_info=False),
     Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY, css_selector='', filter_func=get_data_region_search_key,
           is_info=True),
 )
@@ -129,7 +135,7 @@ page_comment_1 = Page(name='途牛景点评论列表', fieldlist=fl_comment1, li
 class TuNiuSpotSpider(TravelDriver):
 
     def get_shop_comment(self):
-
+        self.fast_new_page(url='http://www.baidu.com');
         shop_collcetion = Mongodb(db=TravelDriver.db, collection=TravelDriver.shop_collection,
                                   host='10.1.17.15').get_collection()
         shop_name_url_list = list()
@@ -137,7 +143,7 @@ class TuNiuSpotSpider(TravelDriver):
             if i.get('shop_url'):
                 shop_name_url_list.append((i.get('shop_name'), i.get('shop_url')))
         for i in range(len(shop_name_url_list)):
-            self.fast_new_page(url='http://www.baidu.com');
+
             self.info_log(data='第%s个,%s' % (i + 1, shop_name_url_list[i][0]))
             #第一次打开的时候进行验证 后面都不需要
 

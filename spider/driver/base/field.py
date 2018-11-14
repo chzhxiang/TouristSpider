@@ -92,7 +92,8 @@ class FieldName(object):
     COMMENT_MONTH = 'comment_month' #评论月份
     COMMENT_WEEK = 'comment_week' #评论周
     COMMENT_DAY = 'comment_day' #评论天
-    DATA_REGION_SEARCH_KEY = 'data_region_search_key' #关键字搜索
+    DATA_REGION_SEARCH_KEY = 'data_region_search_key' #景区关键字搜索
+    SHOP_NAME_SEARCH_KEY = 'shop_name_search_key' #景点店铺关键字搜索
 
 FIELD_NAME_TYPE = {
     FieldName.NONE : FieldType.NONE,
@@ -166,7 +167,8 @@ FIELD_NAME_TYPE = {
     FieldName.COMMENT_MONTH:FieldType.STR,  # 评论月份
     FieldName.COMMENT_WEEK:FieldType.STR,  # 评论周
     FieldName.COMMENT_DAY :FieldType.STR,  # 评论天
-    FieldName.DATA_REGION_SEARCH_KEY :FieldType.STR, # 关键字搜索
+    FieldName.DATA_REGION_SEARCH_KEY :FieldType.STR, # 景区关键字搜索
+    FieldName.SHOP_NAME_SEARCH_KEY:FieldType.STR, #景点关键字搜索
 }
 
 FIELD_NAME_ZH = {
@@ -243,7 +245,8 @@ FIELD_NAME_ZH = {
     FieldName.COMMENT_MONTH:'评论月份',  # 评论月份
     FieldName.COMMENT_WEEK:'评论周',  # 评论周
     FieldName.COMMENT_DAY :'评论天',  # 评论天
-    FieldName.DATA_REGION_SEARCH_KEY :'关键字搜索', # 关键字搜索
+    FieldName.DATA_REGION_SEARCH_KEY :'关键字搜索', # 景区关键字搜索
+    FieldName.SHOP_NAME_SEARCH_KEY:'景点关键字搜索'
 }
 
 #offset是每次为了寻找元素偏移的距离

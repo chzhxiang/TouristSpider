@@ -183,17 +183,21 @@ def get_comment_week(self, _str):
 def get_data_region_search_key(self, _str):
 
     return  self.data_region_search_key
+def get_shop_name_search_key(self,_str):
+
+    return self.shop_name_search_key(_str);
 
 fl_comment1 = Fieldlist(
-    Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.user-date', filter_func=get_comment_user_name),
-    Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.user-date', filter_func=get_comment_time),
+    Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.user-date', filter_func=get_comment_user_name,is_info=True),
+    Field(fieldname=FieldName.COMMENT_TIME, css_selector='div.user-date', filter_func=get_comment_time,is_info=True),
     Field(fieldname=FieldName.SHOP_NAME, css_selector='div.main-bd > div > div.brief-box.clearfix > div.brief-right > h2', is_isolated=True),
-    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p'),
-    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='h4', regex=r'[^\d.]*'),
-    Field(fieldname=FieldName.COMMENT_YEAR,css_selector='div.user-date',filter_func=get_comment_year,is_info=True),
-    Field(fieldname=FieldName.COMMENT_SEASON,css_selector='div.user-date',filter_func=get_comment_season,is_info=True),
-    Field(fieldname=FieldName.COMMENT_MONTH,css_selector='div.user-date',filter_func=get_comment_month,is_info=True),
-    Field(fieldname=FieldName.COMMENT_WEEK,css_selector='div.user-date',filter_func=get_comment_week,is_info=True),
+Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY,css_selector='div.main-bd > div > div.brief-box.clearfix > div.brief-right > h2',is_isolated=True,filter_func=get_shop_name_search_key, is_info=True),
+    Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p',is_info=False),
+    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='h4', regex=r'[^\d.]*',is_info=False),
+    Field(fieldname=FieldName.COMMENT_YEAR,css_selector='div.user-date',filter_func=get_comment_year,is_info=False),
+    Field(fieldname=FieldName.COMMENT_SEASON,css_selector='div.user-date',filter_func=get_comment_season,is_info=False),
+    Field(fieldname=FieldName.COMMENT_MONTH,css_selector='div.user-date',filter_func=get_comment_month,is_info=False),
+    Field(fieldname=FieldName.COMMENT_WEEK,css_selector='div.user-date',filter_func=get_comment_week,is_info=False),
     Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY,css_selector='',filter_func=get_data_region_search_key,is_info=True),
 
 )
