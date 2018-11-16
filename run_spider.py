@@ -57,9 +57,9 @@ if __name__ == '__main__':
                                     data_source=sys.argv[4])
         spider.run_spider()
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.QUNAR_SPOT:
-        from spider.driver.travel.qunarspotspider import QunarSpotSpider
+        from spider.driver.travel.QuNarMobileSpotSpider import QunarMobileSpotSpider
 
-        spider = QunarSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False, isproxy=True,isloadimages=False, initial_proxy_ip=Driver.get_curr_ip(),
+        spider = QunarMobileSpotSpider(isheadless=False, ismobile=True, isvirtualdisplay=False, isloadimages=False,
                                   spider_id=sys.argv[1],
                                   data_website=sys.argv[2],
                                   data_region=sys.argv[3],
@@ -67,10 +67,9 @@ if __name__ == '__main__':
         spider.run_spider()
 
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.TUNIU_SPOT:
-        from spider.driver.travel.tuniuspotspider import TuNiuSpotSpider
+        from spider.driver.travel.TuniuMobileSpotSpider import TuniuMobileSpotSpider
 
-        spider = TuNiuSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False,isproxy=True,
-                                 initial_proxy_ip=Driver.get_curr_ip(),
+        spider = TuniuMobileSpotSpider(isheadless=False, ismobile=True, isvirtualdisplay=False,
                                      spider_id=sys.argv[1],
                                      data_website=sys.argv[2],
                                      data_region=sys.argv[3],

@@ -158,7 +158,11 @@ class Driver(object):
         if self.ismobile:
           mobile_emulation = {"deviceName": "Nexus 5"}
           options.add_experimental_option('prefs', prefs)
+          options.add_experimental_option("mobileEmulation",mobile_emulation);
+        image_prefs = {"profile.managed_default_content_settings.images": 2}
 
+        options.add_experimental_option('prefs', image_prefs)
+        options.add_argument('--load-images=false')  # 不加载图片
         #options.add_argument("--user-agent=iphone 6 plus");
         options.add_argument('--disk-cache=true')#允许缓存
         options.add_argument('disable-infobars')#隐藏自动化软件测试的提示
@@ -2482,7 +2486,7 @@ class Driver(object):
             self.driver.set_page_load_timeout(random.randint(min_time_to_wait, max_time_to_wait))
             self.until_scroll_to_center_click_by_css_selector(ele=ele, css_selector=click_css_selector)
             self.driver.switch_to.window(self.driver.window_handles[-1])
-            self.driver.refresh()
+           # self.driver.refresh()
             if is_scroll_to_bottom:
                 self.vertical_scroll_to()  # 滚动到页面底部
             self.debug_log(data='经过%s次点击和%s次关闭标签页,成功加载页面!!!' % (1, 1 - 1))

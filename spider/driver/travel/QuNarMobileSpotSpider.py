@@ -7,9 +7,13 @@ from spider.driver.base.page import Page,NextPageCssSelectorSetup,PageFunc,NextP
 from spider.driver.base.mongodb import Mongodb
 from pyquery import PyQuery as pq
 from selenium import webdriver
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.touch_actions import TouchActions
 import re
 import time
 import json
+import math
+import datetime
 from pyquery import PyQuery
 def get_comment_num(self,_str):
     return ""
@@ -23,8 +27,13 @@ def get_shop_rate(self,_str):
     return ""
 def get_comment_url(self,_str):
     return _str + "/comment"
+
+def get_shop_name_search_key(self,_str):
+
+    return self.shop_name_search_key(self.shop_name);
 fl_shop1 = Fieldlist(
-    Field(fieldname=FieldName.SHOP_NAME, css_selector='div > div.mp-sight-info > a > div.mp-sight-detail > h3'),
+    Field(fieldname=FieldName.SHOP_NAME, css_selector='div > div.mp-sight-info > a > div.mp-sight-detail > h3',is_info=True,is_isolated=True),
+Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY, css_selector='',filter_func=get_shop_name_search_key, is_info=True,is_isolated=True),
 #\31 302 > div:nth-child(2) > div:nth-child(3) > div > div:nth-child(1) > span:nth-child(2)
 #\32 0808 > div:nth-child(2) > div:nth-child(3) > div > div:nth-child(1) > span:nth-child(2)
     Field(fieldname=FieldName.SHOP_PRICE, css_selector='div > div.mp-sight-info > a > div.mp-sight-detail > div.mp-sight-pricecon > div.mp-sight-price > em',is_info=True),
@@ -61,15 +70,71 @@ def get_comment_grade(self,_str):
     witdth = re.findall(r'[\d]{1,3}',_str)[0]
     return str(float(witdth) / 100 * 5)
 
+def get_comment_year(self,_str):
+
+    return _str[0:4];
+
+def get_comment_season(self, _str):
+    time = _str[0:10];
+    times = time.split('-');
+
+    month = int(times[1])
+
+    seasons = ['01', '02', '03', '04'];
+    if (month % 3 == 0):
+        return (times[0] + '-' + seasons[int(month / 3) - 1]);
+    else:
+        index = int(math.floor(month / 3));
+        return (times[0] + '-' + seasons[index]);
+def get_comment_month(self, _str):
+
+    return _str[0:7];
+def get_comment_week(self, _str):
+
+    time = _str[0:10]
+    times = time.split('-');
+    return (times[0] + '-' + str(datetime.date(int(times[0]), int(times[1]), int(times[2])).isocalendar()[1]).zfill(2))
+
+def get_data_region_search_key(self, _str):
+
+    return  self.data_region_search_key
+
+def get_shop_name_search_key(self,_str):
+
+    return self.shop_name_search_key(self.shop_name);
 fl_comment1 = Fieldlist(
     Field(fieldname=FieldName.SHOP_NAME, css_selector='#main-page > div.mp-comment-mpcon > div.mpm-comment-head > div > div > span.mp-sight-score',filter_func=get_shop_name, is_info=True,is_isolated=True),
+Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY, css_selector='#main-page > div.mp-comment-mpcon > div.mpm-comment-head > div > div > span.mp-sight-score',filter_func=get_shop_name_search_key, is_info=True,is_isolated=True),
 #app > div > div.poi-rate-container > div:nth-child(2) > div.rate-content-container > div
 #app > div > div.poi-rate-container > div:nth-child(7) > div.rate-content-container > div
+#main-page > div.mp-comment-mpcon > div:nth-child(3) > div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(1)
     Field(fieldname=FieldName.COMMENT_CONTENT, css_selector='p', is_info=True),
-    Field(fieldname=FieldName.COMMENT_USER_NAME, css_selector='div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(1)', is_info=True),
+    Field(fieldname=FieldName.COMMENT_USER_NAME,
+          css_selector='div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(1)', is_info=True),
     #comment_grade有待商榷
-    Field(fieldname=FieldName.COMMENT_GRADE, css_selector='div.mpm-comment-info-outer.mpf-border-top > div > span.mpf-starlevel.comment-starwidth > i.mpg-iconfont.mpf-starlevel-gain', attr='style',filter_func=get_comment_grade, is_info=True),
+    Field(fieldname=FieldName.COMMENT_SCORE, css_selector='div.mpm-comment-info-outer.mpf-border-top > div > span.mpf-starlevel.comment-starwidth > i.mpg-iconfont.mpf-starlevel-gain', attr='style',filter_func=get_comment_grade, is_info=True),
     Field(fieldname=FieldName.COMMENT_TIME, css_selector=' div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(4)', is_info=True),
+    Field(fieldname=FieldName.COMMENT_YEAR,
+          css_selector=' div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(4)',
+          filter_func=get_comment_year,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_SEASON,
+          css_selector=' div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(4)',
+          filter_func=get_comment_season,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_MONTH,
+          css_selector=' div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(4)',
+          filter_func=get_comment_month,
+          is_info=True),
+    Field(fieldname=FieldName.COMMENT_WEEK,
+          css_selector=' div.mpm-comment-info-outer.mpf-border-top > div > span:nth-child(4)',
+          filter_func=get_comment_week,
+          is_info=True),
+    Field(fieldname=FieldName.DATA_REGION_SEARCH_KEY,
+
+          css_selector='',
+          filter_func=get_data_region_search_key,
+          is_info=True),
 )
 page_comment_1 = Page(name='去哪儿景点店铺评论列表页面', fieldlist=fl_comment1, listcssselector=ListCssSelector(list_css_selector='#main-page > div.mp-comment-mpcon > div'), mongodb=Mongodb(db=TravelDriver.db, collection=TravelDriver.comments_collection), is_save=True)
 
@@ -102,7 +167,7 @@ class QunarMobileSpotSpider(TravelDriver):
         #睡得久一点 让整个页面都加载出来
 
         self.fast_click_page_by_css_selector(click_css_selector='#search-form-submit')
-        time.sleep(30)
+        time.sleep(8)
         #shop_data_list = self.from_page_get_data_list(page=page_shop_1)
         self.until_click_no_next_page_by_partial_link_text(
             nextpagesetup=NextPageLinkTextSetup(link_text='下一页', pause_time=5,
@@ -136,11 +201,41 @@ class QunarMobileSpotSpider(TravelDriver):
            self.info_log(data='第%s个,%s' % (i + 1, shop_name_url_list[i][0]))
            self.shop_name = shop_name_url_list[i][0]
            self.fast_new_page(url=shop_name_url_list[i][1])
-           time.sleep(300)
+           time.sleep(5)
+
+           # main-page > header > h2 > div:nth-child(2)
+           try:
+               #查看是否有顶部按钮 有就点击
+             dianping = self.driver.find_element_by_css_selector(css_selector='#main-page > header > h2 > div:nth-child(2)')
+             self.fast_click_same_page_by_css_selector(click_css_selector='#main-page > header > h2 > div:nth-child(2)')
 
 
+             time.sleep(6)
+           except Exception as e:
+                print(111)
+           #点击最新的
+           try:
+            new = self.driver.find_element_by_xpath('//li[@data-tagtype="44"]')
+            ActionChains(self.driver).click(new).perform()
+
+            time.sleep(10)
+           except Exception as e:
+               print(222)
+
+           #向下进行滚动
+           try:
+             button = self.driver.find_element_by_css_selector(
+                   css_selector='#main-page > div.mp-comment-mpcon > div.mp-addcomment.mp-border-top > a > div')
+
+             Action = TouchActions(self.driver)
+             Action.scroll_from_element(on_element=button,xoffset=0,yoffset=int(8000)).perform()
+             time.sleep(5)
+           except Exception as e:
+               print(333)
+           self.fast_click_same_page_by_css_selector(click_css_selector='#main-page > div.mp-gotop > div')
+           time.sleep(6)
            comment_data_list = self.from_page_get_data_list(page=page_comment_1)
-           self.close_curr_page()
+          # self.close_curr_page()
 
 
 
