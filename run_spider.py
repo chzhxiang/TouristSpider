@@ -50,7 +50,7 @@ if __name__ == '__main__':
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.DIANPING_SPOT:
         from spider.driver.travel.dianpingspotspider import DianpingSpotSpider
 
-        spider = DianpingSpotSpider(isheadless=True, ismobile=False, isvirtualdisplay=False, isloadimages=False,
+        spider = DianpingSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False, isloadimages=False,
                                     spider_id=sys.argv[1],
                                     data_website=sys.argv[2],
                                     data_region=sys.argv[3],
@@ -69,7 +69,7 @@ if __name__ == '__main__':
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.TUNIU_SPOT:
         from spider.driver.travel.TuniuMobileSpotSpider import TuniuMobileSpotSpider
 
-        spider = TuniuMobileSpotSpider(isheadless=False, ismobile=True, isvirtualdisplay=False,
+        spider = TuniuMobileSpotSpider(isheadless=False, ismobile=False, isvirtualdisplay=False,
                                      spider_id=sys.argv[1],
                                      data_website=sys.argv[2],
                                      data_region=sys.argv[3],

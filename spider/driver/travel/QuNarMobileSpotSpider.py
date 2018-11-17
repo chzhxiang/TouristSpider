@@ -32,8 +32,7 @@ def get_shop_name_search_key(self,_str):
 
     return self.shop_name_search_key(self.shop_name);
 fl_shop1 = Fieldlist(
-    Field(fieldname=FieldName.SHOP_NAME, css_selector='div > div.mp-sight-info > a > div.mp-sight-detail > h3',is_info=True,is_isolated=True),
-Field(fieldname=FieldName.SHOP_NAME_SEARCH_KEY, css_selector='',filter_func=get_shop_name_search_key, is_info=True,is_isolated=True),
+    Field(fieldname=FieldName.SHOP_NAME, css_selector='div > div.mp-sight-info > a > div.mp-sight-detail > h3',is_info=True),
 #\31 302 > div:nth-child(2) > div:nth-child(3) > div > div:nth-child(1) > span:nth-child(2)
 #\32 0808 > div:nth-child(2) > div:nth-child(3) > div > div:nth-child(1) > span:nth-child(2)
     Field(fieldname=FieldName.SHOP_PRICE, css_selector='div > div.mp-sight-info > a > div.mp-sight-detail > div.mp-sight-pricecon > div.mp-sight-price > em',is_info=True),
@@ -165,7 +164,7 @@ class QunarMobileSpotSpider(TravelDriver):
         time.sleep(5)
         self.until_scroll_to_center_send_text_by_css_selector(css_selector='#search-input-bind',text=self.data_region)
         #睡得久一点 让整个页面都加载出来
-
+        time.sleep(4)
         self.fast_click_page_by_css_selector(click_css_selector='#search-form-submit')
         time.sleep(8)
         #shop_data_list = self.from_page_get_data_list(page=page_shop_1)
@@ -218,7 +217,7 @@ class QunarMobileSpotSpider(TravelDriver):
             new = self.driver.find_element_by_xpath('//li[@data-tagtype="44"]')
             ActionChains(self.driver).click(new).perform()
 
-            time.sleep(10)
+            time.sleep(5)
            except Exception as e:
                print(222)
 

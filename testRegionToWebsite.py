@@ -356,5 +356,5 @@ def calculate():
      sched.add_job(start_spider,'interval',minutes = 15,id = 'intervalspider')
 
 #每天爬取6个景区
-sched.add_job(calculate,'cron',day_of_week = '0-6',hour = 14,minute = 21);
+sched.add_job(calculate,'cron',day_of_week = '0-6',hour = 14,minute = 49);
 sched.start();

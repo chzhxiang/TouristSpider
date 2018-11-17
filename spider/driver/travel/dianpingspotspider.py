@@ -257,7 +257,12 @@ class DianpingSpotSpider(TravelDriver):
 
             self.info_log(data='第%s个,%s'%(i+1, shop_name_url_list[i][0]))
 
-            self.fast_new_page(url=shop_name_url_list[i][1])
+            self.fast_new_page(url=shop_name_url_list[i][1],is_scroll_to_bottom=False)
+            time.sleep(3)
+            self.driver.find_element_by_link_text(link_text='默认排序').click();
+            time.sleep(2)
+            self.driver.find_element_by_link_text(link_text='最新点评').click();
+            time.sleep(5)
             # while (True):
             #         self.is_ready_by_proxy_ip()
             #         self.switch_window_by_index(index=-1)
@@ -339,7 +344,7 @@ class DianpingSpotSpider(TravelDriver):
         self.close_curr_page()
         self.fast_new_page(url='http://www.dianping.com')
       #  self.fast_click_first_item_page_by_partial_link_text(link_text=self.data_website)
-        time.sleep(10)
+        time.sleep(5)
 
     def run_spider(self):
         try:
