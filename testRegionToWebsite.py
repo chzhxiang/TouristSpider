@@ -280,7 +280,7 @@ region_to_websites_windows = [
 # os.system("gnome-terminal -e 'bash -c \"python run_spider.py "  + str(index) +  " " + "携程"
 #             + " " + "千岛湖" + " " + "景点" +
 #   "; exec bash\"'")
-#os.system("gnome-terminal -e 'bash -c \"python run_spider.py 00 携程 千岛湖 景点; exec bash\"'")
+#os.system("gnome-terminal -e 'bash -c \"python3 run_spider.py 00 携程 千岛湖 景点\"'")
 
 
 #定义开始与结束的景区
@@ -300,10 +300,16 @@ def start_spider():
       if (platform.system() == 'Windows'):
        os.system("python run_spider.py " + str(index) + " " + select_dic['website'] + " " + select_dic['region_search_key'] + " " + "景点");
       else:
-
-       os.system("gnome-terminal -e 'bash -c \"python3 run_spider.py "  + str(index) +  " " + select_dic["website"]
+      #大众点评和飞猪不希望关闭命令行
+       if(select_dic["website"] == '飞猪' or select_dic["website"] == '大众点评'):
+        os.system("gnome-terminal -e 'bash -c \"python3 run_spider.py "  + str(index) +  " " + select_dic["website"]
                 + " " + select_dic['region_search_key'] + " " + "景点" +
       "; exec bash\"'")
+       else:
+           #关闭命令行
+           os.system("gnome-terminal -e 'bash -c \"python3 run_spider.py " + str(index) + " " + select_dic["website"]
+                     + " " + select_dic['region_search_key'] + " " + "景点\"'")
+
       index += 1;
   else:
       #移除作业
@@ -356,5 +362,5 @@ def calculate():
      sched.add_job(start_spider,'interval',minutes = 15,id = 'intervalspider')
 
 #每天爬取6个景区
-sched.add_job(calculate,'cron',day_of_week = '0-6',hour = 14,minute = 49);
+sched.add_job(calculate,'cron',day_of_week = '0-6',hour = 21,minute = 40);
 sched.start();
