@@ -42,6 +42,7 @@ class DataSourceName(object):
     HEALTH = '健康'
     CAR = '爱车'
     ENTERTAINMENT = '娱乐'
+    TOUR = '游记'
 
 
 DATASOURCE_NAME_LIST = (lambda d:list({key:d[key] for key in d if '_' not in key}.values()))(vars(DataSourceName))
@@ -52,6 +53,7 @@ class TravelSpiderName(object):
     """
     XIECHENG_SPOT = WebsiteName.XIECHENG + DataSourceName.SPOT
     XIECHENG_HOTEL = WebsiteName.XIECHENG + DataSourceName.HOTEL
+    XIECHENG_TOUR = WebsiteName.XIECHENG + DataSourceName.TOUR
     DIANPING_SPOT = WebsiteName.DINGPING + DataSourceName.SPOT
     DIANPING_HOTEL = WebsiteName.DINGPING + DataSourceName.HOTEL
     DIANPING_FOOD = WebsiteName.DINGPING + DataSourceName.FOOD
@@ -75,10 +77,10 @@ class TravelSpiderName(object):
 class TravelDriver(Driver):
     host = '127.0.0.1'
     port = 27017
-    db = 'dspider2'
+    db = 'tours'
     #数据库名字根据需求进行修改
     shop_collection = 'shop'
-    comments_collection = 'comment'
+    comments_collection = 'tourdetail'
 
     website_name = WebsiteName()
     website_name_list = WEBSITE_NAME_LIST

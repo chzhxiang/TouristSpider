@@ -62,6 +62,8 @@ class FieldName(object):
     SHOP_PROMOTION = 'shop_promotion'#优惠促销
     SHOP_MENU = 'shop_menu'#店铺菜单
     SHOP_COMMENT_URL = 'shop_comment_url'#评论链接
+    SHOP_TAG = 'shop_tag' #评论标签
+    SHOP_DETAIL = 'shop_detail' #评论内容
 
     COMMENT_USER_NAME = 'comment_user_name'#评论者的名字
     COMMENT_USER_ID = 'comment_user_id'#评论者的编号

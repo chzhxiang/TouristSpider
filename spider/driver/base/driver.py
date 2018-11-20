@@ -1764,6 +1764,7 @@ class Driver(object):
         :param data:要保存的数据
         :return:
         """
+
         if external_key_name:
             field_key = []
             field_key.extend(external_key_name)
@@ -1774,9 +1775,11 @@ class Driver(object):
                 field_key.append(field.fieldname)
         key = self.merge_dict(self.get_data_key(),{fk: data.get(fk) for fk in field_key})
         data = self.merge_dict(self.get_data_key(),data)
+
         crawl_time = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))  # 爬虫的时间
         data.setdefault(FieldName.CRAWL_TIME,crawl_time)
         collection_curr = mongodb.get_collection()
+
         if len(list(collection_curr.find(key))) == 0:
             collection_curr.insert(data)
         else:

@@ -20,6 +20,15 @@ if __name__ == '__main__':
                                     data_region=sys.argv[3],
                                     data_source=sys.argv[4])
         spider.run_spider()
+    elif sys.argv[2] + sys.argv[4] == TravelSpiderName.XIECHENG_TOUR:
+        from spider.driver.travel.xiechengyouspider import XieChengYouSpider
+
+        spider = XieChengYouSpider(isheadless=False, ismobile=False, isvirtualdisplay=False,
+                                    spider_id=sys.argv[1],
+                                    data_website=sys.argv[2],
+                                    data_region=sys.argv[3],
+                                    data_source=sys.argv[4])
+        spider.run_spider()
     elif sys.argv[2] + sys.argv[4] == TravelSpiderName.MAFENGWO_SPOT:
         from spider.driver.travel.mafengwospotspider import MafengwoSpotSpider
 
